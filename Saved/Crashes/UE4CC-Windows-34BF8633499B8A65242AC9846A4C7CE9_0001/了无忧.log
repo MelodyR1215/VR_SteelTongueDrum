@@ -1,0 +1,1359 @@
+﻿Log file open, 10/23/21 09:18:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: 了无忧
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.094578
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4Project/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.23-01.18.56:897][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.23-01.18.56:897][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.23-01.18.56:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.23-01.18.56:897][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.23-01.18.56:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.23-01.18.56:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.23-01.18.56:897][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.23-01.18.56:897][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.23-01.18.56:897][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.23-01.18.56:897][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.23-01.18.56:898][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.23-01.18.56:898][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.23-01.18.57:026][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.23-01.18.57:026][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.23-01.18.57:027][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.23-01.18.57:036][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.23-01.18.57:036][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.23-01.18.57:116][  0]LogHAL: Display: Platform has ~ 16 GB [16860520448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.23-01.18.57:120][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.10.23-01.18.57:120][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.23-01.18.57:120][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.23-01.18.57:121][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.23-01.18.57:122][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.23-01.18.57:123][  0]LogInit: Computer: DESKTOP-K6K5E71
+[2021.10.23-01.18.57:123][  0]LogInit: User: HP
+[2021.10.23-01.18.57:123][  0]LogInit: CPU Page size=4096, Cores=10
+[2021.10.23-01.18.57:123][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.23-01.18.57:123][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.10.23-01.18.57:123][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.23-01.18.57:123][  0]LogMemory: Process Physical Memory: 103.85 MB used, 103.85 MB peak
+[2021.10.23-01.18.57:123][  0]LogMemory: Process Virtual Memory: 93.72 MB used, 93.72 MB peak
+[2021.10.23-01.18.57:123][  0]LogMemory: Physical Memory: 5737.65 MB used,  10341.79 MB free, 16079.45 MB total
+[2021.10.23-01.18.57:123][  0]LogMemory: Virtual Memory: 4698.58 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2021.10.23-01.18.57:712][  0]LogInit: Overriding language with editor language configuration option (en-001).
+[2021.10.23-01.18.57:712][  0]LogInit: Overriding locale with editor locale configuration option (en-001).
+[2021.10.23-01.18.57:726][  0]LogTextLocalizationManager: No specific localization for 'en-001' exists, so the 'en' localization will be used.
+[2021.10.23-01.18.58:264][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.23-01.18.58:748][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.23-01.18.58:748][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.23-01.19.05:314][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.23-01.19.05:497][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2021.10.23-01.19.05:497][  0]LogD3D11RHI:       8010/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.23-01.19.05:501][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.23-01.19.05:501][  0]LogD3D11RHI:       0/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.23-01.19.05:502][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.23-01.19.05:747][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.23-01.19.05:747][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.23-01.19.05:747][  0]LogWindows: EnumDisplayDevices:
+[2021.10.23-01.19.05:760][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2021.10.23-01.19.05:762][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2021.10.23-01.19.05:763][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.23-01.19.05:765][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.23-01.19.05:766][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.23-01.19.05:766][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2021.10.23-01.19.05:766][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.10.23-01.19.05:766][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.10.23-01.19.05:766][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.10.23-01.19.07:231][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.23-01.19.08:162][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.23-01.19.08:206][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.23-01.19.08:206][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.23-01.19.08:367][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.23-01.19.10:829][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.10.23-01.19.11:019][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.10.23-01.19.11:216][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.10.23-01.19.11:442][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.10.23-01.19.11:813][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.10.23-01.19.12:037][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.10.23-01.19.12:437][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.23-01.19.12:458][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.10.23-01.19.12:491][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.10.23-01.19.12:825][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.10.23-01.19.12:825][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.10.23-01.19.12:826][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.10.23-01.19.13:075][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.10.23-01.19.13:470][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.10.23-01.19.13:470][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.10.23-01.19.13:587][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.10.23-01.19.13:587][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.10.23-01.19.13:728][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.10.23-01.19.13:950][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.23-01.19.14:274][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.10.23-01.19.14:862][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.10.23-01.19.15:213][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.10.23-01.19.15:213][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.10.23-01.19.15:213][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.23-01.19.16:895][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.23-01.19.20:692][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (../../../../了无忧/Intermediate/Shaders/WorkingDirectory/11848/).
+[2021.10.23-01.19.20:692][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP/AppData/Local/Temp/UnrealShaderWorkingDir/EB1F7A324B8187735E8F1392ADE2DC45/'.
+[2021.10.23-01.19.21:026][  0]LogXGEController: Cleaning working directory: C:/Users/HP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.10.23-01.19.21:028][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.23-01.19.21:046][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.23-01.19.21:047][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.23-01.19.31:477][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.23-01.19.31:588][  0]LogDerivedDataCache: Loaded boot cache 0.11s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.23-01.19.31:588][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.10.23-01.19.31:588][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../了无忧/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.23-01.19.31:588][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.23-01.19.31:588][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../了无忧/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.23-01.19.31:588][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.23-01.19.31:775][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.23-01.19.31:775][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.23-01.19.31:775][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.23-01.19.31:789][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.23-01.19.31:789][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.23-01.19.31:789][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.23-01.19.31:865][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.10.23-01.19.31:967][  0]LogSlate: Using FreeType 2.6.0
+[2021.10.23-01.19.32:017][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.23-01.19.32:503][  0]LogAssetRegistry: FAssetRegistry took 0.0386 seconds to start up
+[2021.10.23-01.19.36:802][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.23-01.19.38:057][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.23-01.19.38:057][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.23-01.19.38:057][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.23-01.19.38:057][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.23-01.19.38:057][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.23-01.19.38:374][  0]LogNetVersion: 了无忧 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3095921557)
+[2021.10.23-01.19.41:429][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.219973 seconds
+[2021.10.23-01.19.41:452][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.10.23-01.19.41:452][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.10.23-01.19.41:452][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.23-01.19.48:003][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.23-01.19.48:287][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.23-01.19.48:846][  0]SourceControl: Source control is disabled
+[2021.10.23-01.19.48:847][  0]SourceControl: Source control is disabled
+[2021.10.23-01.19.48:919][  0]SourceControl: Source control is disabled
+[2021.10.23-01.19.48:969][  0]SourceControl: Source control is disabled
+[2021.10.23-01.19.49:876][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.23-01.19.50:305][  0]LogOcInput: OculusInput pre-init called
+[2021.10.23-01.19.52:177][  0]LogEngine: Initializing Engine...
+[2021.10.23-01.19.52:228][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-E2BAAB8B
+[2021.10.23-01.19.52:263][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.10.23-01.19.52:786][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.23-01.19.53:247][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.23-01.19.53:390][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.23-01.19.53:443][  0]LogInit: FAudioDevice initialized.
+[2021.10.23-01.19.53:443][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.23-01.19.53:493][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.23-01.19.53:501][  0]LogInit: Texture streaming: Enabled
+[2021.10.23-01.19.53:666][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.23-01.19.53:871][  0]LogInit: Transaction tracking system initialized
+[2021.10.23-01.19.54:207][  0]BlueprintLog: New page: Editor Load
+[2021.10.23-01.19.55:165][  0]LocalizationService: Localization service is disabled
+[2021.10.23-01.19.57:347][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.10.23-01.19.57:347][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.23-01.19.57:813][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/' took 0.50s
+[2021.10.23-01.20.00:150][  0]SourceControl: Source control is disabled
+[2021.10.23-01.20.00:175][  0]Cmd: MAP LOAD FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.23-01.20.00:176][  0]LightingResults: New page: Lighting Build
+[2021.10.23-01.20.00:328][  0]MapCheck: New page: Map Check
+[2021.10.23-01.20.00:328][  0]LightingResults: New page: Lighting Build
+[2021.10.23-01.20.00:644][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.10.23-01.20.15:330][  0]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.23-01.20.15:772][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.23-01.20.15:945][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.10.23-01.20.15:945][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.23-01.20.15:945][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2021.10.23-01.20.15:945][  0]LogFileHelpers: Loading map 'wuyoufang' took 15.784
+[2021.10.23-01.20.17:120][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.20.17:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.20.17:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.20.17:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.20.17:221][  0]LogCollectionManager: Loaded 0 collections in 0.001647 seconds
+[2021.10.23-01.20.17:307][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Saved/Collections/' took 0.01s
+[2021.10.23-01.20.17:307][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Developers/HP/Collections/' took 0.01s
+[2021.10.23-01.20.17:307][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Collections/' took 0.01s
+[2021.10.23-01.20.17:307][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.10.23-01.20.17:375][  0]LogContentBrowser: Native class hierarchy populated in 0.0667 seconds. Added 2732 classes and 659 folders.
+[2021.10.23-01.20.17:460][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.23-01.20.17:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:539][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:540][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:561][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:653][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.17:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.23-01.20.18:077][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.23-01.20.18:186][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2021.10.23-01.20.18:643][  0]LogSlate: Took 0.012198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.23-01.20.18:696][  0]LogSlate: Took 0.052254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.10.23-01.20.18:708][  0]LogSlate: Took 0.009923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.23-01.20.18:734][  0]LogSlate: Took 0.012116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.23-01.20.19:074][  0]LogRenderer: Reallocating scene render targets to support 1148x572 Format 26 NumSamples 1 (Frame:1).
+[2021.10.23-01.20.19:598][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.10.23-01.20.19:598][  0]LogLoad: (Engine Initialization) Total time: 99.34 seconds
+[2021.10.23-01.20.19:598][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.23-01.20.19:927][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.23-01.20.20:201][  0]LogSlate: Took 0.018033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.23-01.20.20:321][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/UE4Project/了无忧/Content/' took 0.60s
+[2021.10.23-01.20.20:806][  3]LogAssetRegistry: Asset discovery search completed in 48.3261 seconds
+[2021.10.23-01.20.20:830][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.10.23-01.20.20:830][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000286 seconds (updated 0 objects)
+[2021.10.23-01.22.06:416][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-01.22.06:516][ 37]LogTemp: Repeating last play command: VR Preview
+[2021.10.23-01.22.06:558][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.22.06:568][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.23-01.22.06:581][ 37]PIE: New page: PIE session: wuyoufang (Oct 23, 2021, 5:22:06 PM)
+[2021.10.23-01.22.06:666][ 37]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.23-01.22.06:706][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040408s)
+[2021.10.23-01.22.06:706][ 37]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.23-01.22.06:707][ 37]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2021.10.23-01.22.06:707][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.041584s)
+[2021.10.23-01.22.06:759][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.10.23-01.22.06:835][ 37]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.23-01.22.06:857][ 37]LogInit: FAudioDevice initialized.
+[2021.10.23-01.22.06:868][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.22.06:915][ 37]LogLoad: Game class is 'GameModeBase'
+[2021.10.23-01.22.06:940][ 37]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.23-09.22.06
+[2021.10.23-01.22.06:970][ 37]LogWorld: Bringing up level for play took: 0.033487
+[2021.10.23-01.22.07:036][ 37]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.10.23-01.22.07:069][ 37]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 1.296
+[2021.10.23-01.22.07:082][ 37]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.22.07:266][ 38]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2021.10.23-01.22.07:309][ 39]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.23-01.22.29:637][768]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E52
+[2021.10.23-01.22.29:637][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.29:637][768]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E67
+[2021.10.23-01.22.29:638][768]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.29:638][768]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E0D
+[2021.10.23-01.22.29:638][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.29:638][768]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E22
+[2021.10.23-01.22.29:638][768]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.29:638][768]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D09
+[2021.10.23-01.22.29:638][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.29:638][768]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D1E
+[2021.10.23-01.22.29:638][768]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.29:638][768]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0EBC
+[2021.10.23-01.22.29:638][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.29:638][768]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0ED1
+[2021.10.23-01.22.29:638][768]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.29:638][768]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0F0C
+[2021.10.23-01.22.29:638][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.29:638][768]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0F21
+[2021.10.23-01.22.29:638][768]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.29:639][768]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0F8F
+[2021.10.23-01.22.29:639][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.29:639][768]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0FA4
+[2021.10.23-01.22.29:639][768]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.30:197][818]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D09
+[2021.10.23-01.22.30:197][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.30:197][818]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D1E
+[2021.10.23-01.22.30:197][818]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.30:197][818]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0F8F
+[2021.10.23-01.22.30:197][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.30:197][818]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0FA4
+[2021.10.23-01.22.30:197][818]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.36:663][397]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_33
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E52
+[2021.10.23-01.22.36:663][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.36:664][397]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:109][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:110][437]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:110][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:110][437]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:668][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.37:668][487]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.37:668][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:668][487]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:668][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:668][487]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:668][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.37:668][487]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.22.37:668][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:669][487]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:669][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.37:669][487]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.47:142][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.47:142][200]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.47:142][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.22.47:142][200]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.54:631][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.23.54:631][935]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.23.54:631][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.54:631][935]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.54:631][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.54:631][935]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.54:922][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.54:922][942]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.55:768][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.23.55:768][963]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.23.55:768][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.55:768][963]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.55:768][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.23.55:768][963]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.05:240][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.05:240][163]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.16:029][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.24.16:029][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.24.16:029][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.16:029][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.16:029][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.16:030][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.16:275][ 42]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.16:275][ 42]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.17:034][110]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.24.17:034][110]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.24.17:034][110]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.17:034][110]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.17:034][110]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.17:034][110]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.20:331][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.24.20:331][381]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.26.25:912][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.26.25:985][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.26.26:051][  1]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.23-01.26.26:096][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.23-01.26.26:097][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.26.26:238][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.10.23-01.26.26:382][  2]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.10.23-01.26.31:710][443]LogSlate: Window 'Message Log' being destroyed
+[2021.10.23-01.26.32:994][582]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.23-01.26.33:024][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.23-01.26.33:077][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.10.23-01.26.34:214][582]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufangE1752A694E9ACFB47782DDA78C0FC4B6.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.23-01.26.34:279][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang_BuiltData" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang_BuiltData.uasset" SILENT=true
+[2021.10.23-01.26.34:571][582]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_BuiltDataED5FAED54C1744ACEDE5DF9BDE8BBD56.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang_BuiltData.uasset'
+[2021.10.23-01.27.25:725][648]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang
+[2021.10.23-01.27.26:471][648]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2021.10.23-01.27.27:684][648]LogSlate: Took 0.012159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.23-01.27.28:399][649]LogSlate: Took 0.012282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.23-01.27.47:435][250]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.10.23-01.28.15:377][589]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn1.MotionControllerPawn1
+[2021.10.23-01.30.09:654][464]BlueprintLog: New page: Compile wuyoufang
+[2021.10.23-01.30.09:962][464]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2021.10.23-01.35.47:898][120]BlueprintLog: New page: Compile wuyoufang
+[2021.10.23-01.35.47:919][120]LogBlueprint: Error: [Compiler PersistentLevel.wuyoufang] The type of  Object  is undetermined.  Connect something to  Cast To BP_Penqi_white  to imply a specific type.
+[2021.10.23-01.35.47:919][120]LogBlueprint: Error: [Compiler PersistentLevel.wuyoufang] The type of  Object  is undetermined.  Connect something to  Cast To BP_Penqi_green  to imply a specific type.
+[2021.10.23-01.35.47:919][120]LogBlueprint: Error: [Compiler PersistentLevel.wuyoufang] The type of  Object  is undetermined.  Connect something to  Cast To BP_Penqi_blue  to imply a specific type.
+[2021.10.23-01.35.47:920][120]LogBlueprint: Error: [Compiler PersistentLevel.wuyoufang] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.10.23-01.35.47:922][120]LogBlueprint: Error: [Compiler PersistentLevel.wuyoufang] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.10.23-01.35.47:922][120]LogBlueprint: Error: [Compiler PersistentLevel.wuyoufang] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.10.23-01.35.48:275][120]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.10.23-01.35.48:315][120]LogBlueprint: Warning: [Compiler PersistentLevel.wuyoufang] [1028.06] Compile of PersistentLevel.wuyoufang failed. 6 Fatal Issue(s) 0 Warning(s) [in 416 ms] (/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang)
+[2021.10.23-01.36.29:330][788]BlueprintLog: New page: Compile wuyoufang
+[2021.10.23-01.36.29:624][788]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.10.23-01.36.30:847][864]LogTemp: Repeating last play command: VR Preview
+[2021.10.23-01.36.30:860][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.36.30:860][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.23-01.36.30:861][864]PIE: New page: PIE session: wuyoufang (Oct 23, 2021, 5:36:30 PM)
+[2021.10.23-01.36.30:861][864]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.23-01.36.30:902][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042442s)
+[2021.10.23-01.36.30:903][864]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.23-01.36.30:903][864]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2021.10.23-01.36.30:903][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.043408s)
+[2021.10.23-01.36.30:971][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.10.23-01.36.31:028][864]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.23-01.36.31:051][864]LogInit: FAudioDevice initialized.
+[2021.10.23-01.36.31:067][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.36.31:100][864]LogLoad: Game class is 'GameModeBase'
+[2021.10.23-01.36.31:103][864]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.23-09.36.31
+[2021.10.23-01.36.31:104][864]LogWorld: Bringing up level for play took: 0.004366
+[2021.10.23-01.36.31:133][864]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.64
+[2021.10.23-01.36.31:149][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.36.31:203][866]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.23-01.36.52:244][725]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E52
+[2021.10.23-01.36.52:244][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.36.52:244][725]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E67
+[2021.10.23-01.36.52:244][725]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.36.52:244][725]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E0D
+[2021.10.23-01.36.52:244][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.52:244][725]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E22
+[2021.10.23-01.36.52:244][725]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.52:244][725]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D09
+[2021.10.23-01.36.52:244][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.52:245][725]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D1E
+[2021.10.23-01.36.52:245][725]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.52:489][747]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D09
+[2021.10.23-01.36.52:489][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.52:489][747]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D1E
+[2021.10.23-01.36.52:489][747]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.58:455][281]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E52
+[2021.10.23-01.36.58:455][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.36.58:455][281]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E67
+[2021.10.23-01.36.58:455][281]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.36.58:455][281]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E0D
+[2021.10.23-01.36.58:455][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.58:455][281]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E22
+[2021.10.23-01.36.58:455][281]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.58:455][281]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D09
+[2021.10.23-01.36.58:455][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.58:455][281]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D1E
+[2021.10.23-01.36.58:456][281]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.58:935][324]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D09
+[2021.10.23-01.36.58:935][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.36.58:935][324]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_3
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D1E
+[2021.10.23-01.36.58:935][324]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.37.00:868][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.37.00:948][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.37.01:023][497]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.23-01.37.01:115][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.23-01.37.01:115][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.37.01:200][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.10.23-01.37.01:463][498]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.10.23-01.38.04:400][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.10.23-01.38.04:417][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.23-01.38.05:065][774]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto12FE56B80477961A1165FC9AE72DB83F7.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto1.umap'
+[2021.10.23-01.38.05:068][774]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 0.731
+[2021.10.23-01.38.05:068][774]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.731
+[2021.10.23-01.39.45:810][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.23-01.39.45:875][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.10.23-01.39.46:519][725]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang4DEB9FDD4628EBD0607E2CAB675D6271.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.23-01.39.46:549][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang_BuiltData" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang_BuiltData.uasset" SILENT=true
+[2021.10.23-01.39.46:751][725]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_BuiltData3F60CA4140AC80605EBED2B0F1A74337.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang_BuiltData.uasset'
+[2021.10.23-01.39.53:703][524]LogEditorViewport: Clicking on Actor (LMB): BP_UI_C (BP_UI)
+[2021.10.23-01.39.55:253][694]Cmd: DELETE
+[2021.10.23-01.39.55:253][694]Cmd: ACTOR DELETE
+[2021.10.23-01.39.55:396][694]LogEditorActor: Deleted Actor: BP_UI_C
+[2021.10.23-01.39.55:464][694]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.10.23-01.39.55:465][694]LogEditorActor: Deleted 1 Actors (0.133 secs)
+[2021.10.23-01.40.06:287][973]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox_qiaogu)
+[2021.10.23-01.40.07:836][120]Cmd: DELETE
+[2021.10.23-01.40.07:836][120]Cmd: ACTOR DELETE
+[2021.10.23-01.40.07:843][120]LogEditorActor: Deleted Actor: TriggerBox
+[2021.10.23-01.40.07:908][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.10.23-01.40.07:909][120]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2021.10.23-01.40.57:389][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-01.40.59:313][953]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_G4_gangtai.BP_G4_gangtai
+[2021.10.23-01.50.39:338][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.10.23-01.50.39:339][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.23-01.50.39:373][660]LogBlueprint: Error: [Compiler PersistentLevel.wuyoufang] The type of  Object  is undetermined.  Connect something to  Cast To BP_G4_gangtai  to imply a specific type.
+[2021.10.23-01.50.39:374][660]LogBlueprint: Error: [Compiler PersistentLevel.wuyoufang] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.10.23-01.50.39:386][660]LogBlueprint: Warning: [Compiler PersistentLevel.wuyoufang] [1919.13] Compile of PersistentLevel.wuyoufang failed. 2 Fatal Issue(s) 0 Warning(s) [in 33 ms] (/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang)
+[2021.10.23-01.50.39:987][660]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto2F6994D2D4DB7FC717065F18C4C5D60DC.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto2.umap'
+[2021.10.23-01.50.39:990][660]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 0.717
+[2021.10.23-01.50.39:990][660]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.717
+[2021.10.23-01.52.00:861][399]BlueprintLog: New page: Compile wuyoufang
+[2021.10.23-01.52.01:169][399]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.10.23-01.52.45:055][429]BlueprintLog: New page: Compile BP_G4_gangtai
+[2021.10.23-01.52.45:408][429]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.10.23-01.52.54:873][121]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_G4_tangang.BP_G4_tangang
+[2021.10.23-01.53.08:567][109]BlueprintLog: New page: Compile BP_G4_tangang
+[2021.10.23-01.53.08:882][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.10.23-01.53.12:577][401]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_G4_tong.BP_G4_tong
+[2021.10.23-01.53.29:262][744]BlueprintLog: New page: Compile BP_G4_tong
+[2021.10.23-01.53.29:577][744]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.10.23-01.53.30:804][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G4_tong" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tong.uasset" SILENT=true
+[2021.10.23-01.53.30:850][833]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G4_tong7F286AE0495A177A2F044CB077195D21.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tong.uasset'
+[2021.10.23-01.55.13:036][661]BlueprintLog: New page: Compile BP_G4_tong
+[2021.10.23-01.55.13:315][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.10.23-01.55.26:824][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G4_tong" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tong.uasset" SILENT=true
+[2021.10.23-01.55.26:864][735]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G4_tong0AAFB14248E7FBD517EFE29191FE8233.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tong.uasset'
+[2021.10.23-01.55.30:583][ 15]LogTemp: Repeating last play command: VR Preview
+[2021.10.23-01.55.30:609][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.55.30:609][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.23-01.55.30:609][ 15]PIE: New page: PIE session: wuyoufang (Oct 23, 2021, 5:55:30 PM)
+[2021.10.23-01.55.30:610][ 15]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.23-01.55.30:650][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040650s)
+[2021.10.23-01.55.30:651][ 15]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.23-01.55.30:651][ 15]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2021.10.23-01.55.30:651][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.041589s)
+[2021.10.23-01.55.30:719][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.10.23-01.55.30:775][ 15]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.23-01.55.30:797][ 15]LogInit: FAudioDevice initialized.
+[2021.10.23-01.55.30:810][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.55.30:842][ 15]LogLoad: Game class is 'GameModeBase'
+[2021.10.23-01.55.30:847][ 15]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.23-09.55.30
+[2021.10.23-01.55.30:847][ 15]LogWorld: Bringing up level for play took: 0.004613
+[2021.10.23-01.55.30:873][ 15]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 1.1
+[2021.10.23-01.55.30:873][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.55.30:930][ 17]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.23-01.55.53:936][ 39]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0EB1
+[2021.10.23-01.55.53:936][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.55.53:936][ 39]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0EC6
+[2021.10.23-01.55.53:936][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.55.53:936][ 39]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0F01
+[2021.10.23-01.55.53:936][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.55.53:936][ 39]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0F16
+[2021.10.23-01.55.53:936][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.55.53:936][ 39]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E39
+[2021.10.23-01.55.53:936][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.55.53:937][ 39]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E4E
+[2021.10.23-01.55.53:937][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.55.53:937][ 39]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D1E
+[2021.10.23-01.55.53:937][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.55.53:937][ 39]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D33
+[2021.10.23-01.55.53:937][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.55.53:937][ 39]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D6E
+[2021.10.23-01.55.53:937][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.55.53:937][ 39]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0D83
+[2021.10.23-01.55.53:937][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.55.53:937][ 39]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0DF1
+[2021.10.23-01.55.53:937][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.55.53:937][ 39]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E06
+[2021.10.23-01.55.53:937][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.05:373][ 30]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E39
+[2021.10.23-01.56.05:373][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.05:373][ 30]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E4E
+[2021.10.23-01.56.05:374][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.05:374][ 30]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0DF1
+[2021.10.23-01.56.05:374][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.05:374][ 30]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0E06
+[2021.10.23-01.56.05:374][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.12:859][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.56.12:935][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.56.13:009][700]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.23-01.56.13:082][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.23-01.56.13:082][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.56.13:223][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.10.23-01.56.13:298][701]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.10.23-01.56.19:964][117]LogSlate: Window 'Message Log' being destroyed
+[2021.10.23-01.56.19:972][117]LogSlate: Window 'Message Log' being destroyed
+[2021.10.23-01.56.20:814][183]LogTemp: Repeating last play command: VR Preview
+[2021.10.23-01.56.20:841][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.56.20:841][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.23-01.56.20:842][183]PIE: New page: PIE session: wuyoufang (Oct 23, 2021, 5:56:20 PM)
+[2021.10.23-01.56.20:842][183]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.23-01.56.20:882][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040130s)
+[2021.10.23-01.56.20:883][183]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.23-01.56.20:883][183]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2021.10.23-01.56.20:883][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.041034s)
+[2021.10.23-01.56.20:947][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.10.23-01.56.21:000][183]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.23-01.56.21:021][183]LogInit: FAudioDevice initialized.
+[2021.10.23-01.56.21:033][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.56.21:069][183]LogLoad: Game class is 'GameModeBase'
+[2021.10.23-01.56.21:073][183]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.23-09.56.21
+[2021.10.23-01.56.21:073][183]LogWorld: Bringing up level for play took: 0.003972
+[2021.10.23-01.56.21:098][183]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.675
+[2021.10.23-01.56.21:099][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.56.21:160][185]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.23-01.56.30:886][964]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_7
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0EB1
+[2021.10.23-01.56.30:886][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.56.30:886][964]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.56.30:886][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.30:886][964]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.30:886][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.30:886][964]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.30:887][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.56.30:887][964]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.56.30:887][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.30:887][964]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.30:887][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.30:887][964]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.31:310][  2]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.31:310][  2]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.31:311][  2]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.31:311][  2]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.33:620][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.56.33:620][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.56.33:620][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.33:621][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.33:621][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.33:621][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.33:621][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.56.33:621][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.56.33:621][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.33:621][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.33:621][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.33:621][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.52:804][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.52:804][723]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.52:805][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.56.52:805][723]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.07:529][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.07:529][190]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.07:529][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.07:529][190]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.07:530][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.07:530][190]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.07:531][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.07:531][190]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.07:531][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.07:531][190]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.07:531][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.07:531][190]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.17:096][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.17:096][429]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.17:096][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.17:096][429]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:668][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.18:668][484]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.18:668][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:668][484]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:668][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:669][484]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:669][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.18:669][484]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.18:669][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:669][484]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:669][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:669][484]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:893][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:893][494]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:894][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.18:894][494]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.19:440][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.19:440][529]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.19:440][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.19:440][529]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.19:441][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.19:441][529]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.19:441][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.19:441][529]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.23-01.57.19:441][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.19:441][529]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.19:441][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.19:441][529]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.24:087][945]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.24:087][945]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.24:087][945]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.24:087][945]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.23-01.57.53:106][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.57.53:184][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-01.57.53:258][497]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.23-01.57.53:304][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.23-01.57.53:304][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-01.57.53:398][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.10.23-01.57.53:457][498]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.10.23-02.02.30:044][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.23-02.02.31:192][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (screen_di3)
+[2021.10.23-02.02.31:715][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.23-02.02.33:376][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (guchui2)
+[2021.10.23-02.02.34:014][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.23-02.02.34:804][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.23-02.02.35:551][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (screen_di3)
+[2021.10.23-02.02.36:069][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chaju)
+[2021.10.23-02.02.36:712][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.23-02.02.37:310][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.23-02.02.37:945][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (yantaimaobi)
+[2021.10.23-02.02.38:511][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.23-02.02.39:246][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chaju)
+[2021.10.23-02.02.39:692][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.23-02.02.40:323][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (yantaimaobi)
+[2021.10.23-02.02.41:011][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbx_Plane01)
+[2021.10.23-02.02.42:444][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fbx_igla)
+[2021.10.23-02.02.46:131][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-02.03.33:034][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G4_gangtai" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_gangtai.uasset" SILENT=true
+[2021.10.23-02.03.33:075][786]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G4_gangtaiF3EEC29243FC8574D8BDBC98E2439BF9.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_gangtai.uasset'
+[2021.10.23-02.03.34:641][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G4_tangang" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tangang.uasset" SILENT=true
+[2021.10.23-02.03.34:678][878]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G4_tangang9E5594C54757F5B648BA73B807E46ACE.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tangang.uasset'
+[2021.10.23-02.03.59:468][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.10.23-02.03.59:469][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.23-02.04.00:157][629]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto35F28566A463A04BE09713CAC4E9E88C3.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto3.umap'
+[2021.10.23-02.04.00:161][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 0.768
+[2021.10.23-02.04.00:161][629]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.768
+[2021.10.23-02.04.41:587][654]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/playUI.playUI
+[2021.10.23-02.04.42:065][654]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2021.10.23-02.05.55:652][945]LogSlate: Took 0.011969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.23-02.09.49:384][752]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Buttons/freeplay_button.freeplay_button
+[2021.10.23-02.13.49:324][487]LogEditorTransaction: Undo Remove Widget
+[2021.10.23-02.13.51:344][630]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.13.58:810][103]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.14.07:425][625]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.14.15:204][ 87]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.14.25:900][809]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.14.25:964][809]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.10.23-02.14.28:018][809]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.054 s
+[2021.10.23-02.14.28:018][809]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.23-02.14.28:018][809]LogOutputDevice: Error: 
+[2021.10.23-02.14.28:018][809]LogOutputDevice: Error: Ensure condition failed: !PreviewSlateWidgetWeak.IsValid() [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UMGEditor\Private\WidgetBlueprintEditor.cpp] [Line: 880]
+[2021.10.23-02.14.28:018][809]LogOutputDevice: Error: 
+[2021.10.23-02.14.28:018][809]LogOutputDevice: Error: Stack: 
+[2021.10.23-02.14.28:018][809]LogOutputDevice: Error: [Callstack] 0x00007ffbebce2e39 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.10.23-02.14.28:018][809]LogOutputDevice: Error: [Callstack] 0x00007ffbebb9361e UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbebc090be UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbee938849 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf434802e UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf23565d3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbee93d820 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf2004fed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf2026366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf2012f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf206ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf20aae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf204929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbee939188 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf32d71ea UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf330743e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf27e769e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf27d6e41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf32a1e66 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf3308dcd UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffbf32ff1ce UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffc1fa3b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffc1fa2ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffc1fa3d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffc1fa2c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffc6452e7e8 USER32.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffc6452e229 USER32.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffc1fa3e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ff749295d3e UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ff7492a554c UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ff7492a55ca UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ff7492b316c UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ff7492b5b8e UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffc65df7034 KERNEL32.DLL!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: [Callstack] 0x00007ffc66522651 ntdll.dll!UnknownFunction []
+[2021.10.23-02.14.28:019][809]LogOutputDevice: Error: 
+[2021.10.23-02.14.28:030][809]LogStats:                SubmitErrorReport -  0.000 s
+[2021.10.23-02.14.33:533][809]LogStats:                    SendNewReport -  5.504 s
+[2021.10.23-02.14.33:533][809]LogStats:             FDebug::EnsureFailed -  7.570 s
+[2021.10.23-02.14.33:545][809]LogEditorTransaction: Undo Add Widget
+[2021.10.23-02.14.50:880][119]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2021.10.23-02.14.50:880][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 0.149
+[2021.10.23-02.14.50:882][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/playUI] ([1] browsable assets)...
+[2021.10.23-02.14.50:882][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/playUI]
+[2021.10.23-02.14.50:882][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/playUI" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/playUI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.10.23-02.14.50:929][119]LogSavePackage: Moving '../../../../了无忧/Saved/playUI_Auto4ECDB2B2240D7A3F6484FCFBD276A9F89.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/playUI_Auto4.uasset'
+[2021.10.23-02.14.50:945][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Buttons/freeplay_button] ([1] browsable assets)...
+[2021.10.23-02.14.50:945][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Buttons/freeplay_button]
+[2021.10.23-02.14.50:945][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Buttons/freeplay_button" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Buttons/freeplay_button_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.10.23-02.14.50:970][119]LogSavePackage: Moving '../../../../了无忧/Saved/freeplay_button_Auto45B6DD39648BE546E83397C813CE46904.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Buttons/freeplay_button_Auto4.uasset'
+[2021.10.23-02.14.50:971][119]LogFileHelpers: Auto-saving content packages took 0.090
+[2021.10.23-02.15.12:364][594]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.15.18:723][977]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.15.33:551][931]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.15.41:235][398]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.15.48:190][820]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.15.52:661][ 79]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.16.01:187][594]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.16.10:413][133]LogEditorTransaction: Undo Resize Widget
+[2021.10.23-02.16.11:523][190]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.16.20:463][746]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.16.28:580][276]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.16.35:555][723]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.16.40:555][ 14]LogEditorTransaction: Undo Wrap Widgets
+[2021.10.23-02.22.13:621][ 37]BlueprintLog: New page: Compile playUI
+[2021.10.23-02.22.13:722][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2021.10.23-02.22.39:857][995]LogEditorTransaction: Undo Add Widget
+[2021.10.23-02.22.49:251][604]BlueprintLog: New page: Compile playUI
+[2021.10.23-02.22.49:336][604]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.10.23-02.24.51:144][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.10.23-02.24.51:144][668]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 0.088
+[2021.10.23-02.24.51:145][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/playUI] ([1] browsable assets)...
+[2021.10.23-02.24.51:146][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/playUI]
+[2021.10.23-02.24.51:146][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/playUI" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/playUI_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.10.23-02.24.51:180][668]LogSavePackage: Moving '../../../../了无忧/Saved/playUI_Auto5C8B7FF0A47DFF3F917A39E86ED99C8D0.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/playUI_Auto5.uasset'
+[2021.10.23-02.24.51:181][668]LogFileHelpers: Auto-saving content packages took 0.036
+[2021.10.23-02.25.08:504][938]BlueprintLog: New page: Compile playUI
+[2021.10.23-02.25.08:593][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.10.23-02.26.17:537][180]LogEditorTransaction: Undo Resize Widget
+[2021.10.23-02.26.33:705][ 57]LogEditorTransaction: Undo Resize Widget
+[2021.10.23-02.28.48:877][414]LogEditorTransaction: Undo Resize Widget
+[2021.10.23-02.29.36:106][396]BlueprintLog: New page: Compile playUI
+[2021.10.23-02.29.36:202][396]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.10.23-02.30.37:143][ 50]BlueprintLog: New page: Compile playUI
+[2021.10.23-02.30.37:228][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.10.23-02.32.33:445][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/playUI" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/playUI.uasset" SILENT=true
+[2021.10.23-02.32.33:496][205]LogSavePackage: Moving '../../../../了无忧/Saved/playUIB128B5A840274E56962846AD9B4287A0.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/playUI.uasset'
+[2021.10.23-02.32.35:748][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Buttons/freeplay_button" FILE="../../../../了无忧/Content/VirtualRealityBP/Buttons/freeplay_button.uasset" SILENT=true
+[2021.10.23-02.32.35:778][338]LogSavePackage: Moving '../../../../了无忧/Saved/freeplay_buttonC9E965124A283B11D8176EAB4245D434.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Buttons/freeplay_button.uasset'
+[2021.10.23-02.34.51:284][519]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(326)].
+[2021.10.23-02.34.51:414][519]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.10.23-02.34.51:414][519]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 0.091
+[2021.10.23-02.34.51:416][519]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_G4_tong] ([1] browsable assets)...
+[2021.10.23-02.34.51:432][519]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_G4_tong.BP_G4_tong]
+[2021.10.23-02.34.51:432][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_G4_tong]
+[2021.10.23-02.34.51:432][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G4_tong" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_G4_tong_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.10.23-02.34.51:475][519]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G4_tong_Auto6B3CA08CC4B966161812A09BE1A5F33F8.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_G4_tong_Auto6.uasset'
+[2021.10.23-02.34.51:492][519]LogFileHelpers: Auto-saving content packages took 0.076
+[2021.10.23-02.36.10:309][ 16]BlueprintLog: New page: Compile BP_G4_tong
+[2021.10.23-02.36.10:643][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.10.23-02.36.13:034][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G4_tong" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tong.uasset" SILENT=true
+[2021.10.23-02.36.13:074][164]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G4_tong2CF0E5F146B89F3C322A6BB057006647.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tong.uasset'
+[2021.10.23-02.36.22:381][801]BlueprintLog: New page: Compile BP_G4_tangang
+[2021.10.23-02.36.22:712][801]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2021.10.23-02.36.38:752][898]BlueprintLog: New page: Compile BP_G4_gangtai
+[2021.10.23-02.36.39:088][898]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.10.23-02.37.03:500][644]BlueprintLog: New page: Compile BP_G4_gangtai
+[2021.10.23-02.37.03:834][644]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2021.10.23-02.37.08:629][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G4_gangtai" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_gangtai.uasset" SILENT=true
+[2021.10.23-02.37.08:671][940]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G4_gangtai342D2619419485F04F6E33AA01305E8D.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_gangtai.uasset'
+[2021.10.23-02.37.13:222][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G4_tangang" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tangang.uasset" SILENT=true
+[2021.10.23-02.37.13:282][207]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G4_tangang1EDCE971455D1ACD0945D7AFCEAE35C9.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G4_tangang.uasset'
+[2021.10.23-02.37.16:296][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.23-02.37.16:386][394]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.10.23-02.37.17:087][394]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufangC41EAA4F464B3000C0246E9F89E5C293.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.23-02.37.17:117][394]LogFileHelpers: Saving map 'wuyoufang' took 0.822
+[2021.10.23-02.39.27:161][948]BlueprintLog: New page: Compile wuyoufang
+[2021.10.23-02.39.27:183][948]LogBlueprint: Error: [Compiler PersistentLevel.wuyoufang] This blueprint (self) is not a BP_G4_gangtai_C, therefore ' Target ' must have a connection.
+[2021.10.23-02.39.27:545][948]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2021.10.23-02.39.27:584][948]LogBlueprint: Warning: [Compiler PersistentLevel.wuyoufang] [4847.33] Compile of PersistentLevel.wuyoufang failed. 1 Fatal Issue(s) 0 Warning(s) [in 423 ms] (/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang)
+[2021.10.23-02.44.11:909][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chaju)
+[2021.10.23-02.44.14:155][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-02.44.25:661][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-02.44.53:640][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-02.45.13:481][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-02.45.32:877][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-02.45.51:369][660]LogEditorViewport: Clicking on Actor (LMB): BP_G4_tong_C (BP_G4_tong)
+[2021.10.23-02.45.52:188][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-02.45.57:889][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.23-02.46.06:439][576]BlueprintLog: New page: Compile wuyoufang
+[2021.10.23-02.46.06:834][576]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.10.23-02.46.14:049][ 56]LogTemp: Repeating last play command: VR Preview
+[2021.10.23-02.46.14:085][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.23-02.46.14:085][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.23-02.46.14:086][ 56]PIE: New page: PIE session: wuyoufang (Oct 23, 2021, 6:46:14 PM)
+[2021.10.23-02.46.14:086][ 56]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.23-02.46.14:129][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043632s)
+[2021.10.23-02.46.14:132][ 56]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.23-02.46.14:132][ 56]LogPlayLevel: PIE: World Init took: (0.003345s)
+[2021.10.23-02.46.14:132][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.047201s)
+[2021.10.23-02.46.14:213][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.10.23-02.46.14:272][ 56]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.23-02.46.14:298][ 56]LogInit: FAudioDevice initialized.
+[2021.10.23-02.46.14:311][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.23-02.46.14:342][ 56]LogLoad: Game class is 'GameModeBase'
+[2021.10.23-02.46.14:348][ 56]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.23-10.46.14
+[2021.10.23-02.46.14:349][ 56]LogWorld: Bringing up level for play took: 0.005796
+[2021.10.23-02.46.14:364][ 56]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2021.10.23-02.46.14:377][ 56]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2021.10.23-02.46.14:475][ 56]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.097 s
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: 
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp] [Line: 8]
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: Stack: 
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf3dfd386 UE4Editor-Core.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf3a57894 UE4Editor-Core.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf435aaba UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf4b98ae8 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf4bd06b4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0ae5bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b0500e2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06cbc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b045efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b045efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e378 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0ae5bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06df07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf4419ff3 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf43e7358 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf43f1af6 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf4416b2b UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf43fddcb UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf4a6ac6f UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf4444596 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0ae5bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b0500e2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06cbc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b084be6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b045efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06e378 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0ae5bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc0b06df07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.10.23-02.46.14:475][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf4419ff3 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf43e7358 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf43f1af6 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf550cb99 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf4a72911 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf54c754e UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf4a399af UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf24cbe44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf24eb044 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf250319f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf1fdfc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffbf27fd396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff749296bb1 UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff7492a554c UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff7492a55ca UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff7492b316c UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff7492b5b8e UE4Editor.exe!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc65df7034 KERNEL32.DLL!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: [Callstack] 0x00007ffc66522651 ntdll.dll!UnknownFunction []
+[2021.10.23-02.46.14:476][ 56]LogOutputDevice: Error: 
+[2021.10.23-02.46.14:481][ 56]LogStats:                SubmitErrorReport -  0.000 s

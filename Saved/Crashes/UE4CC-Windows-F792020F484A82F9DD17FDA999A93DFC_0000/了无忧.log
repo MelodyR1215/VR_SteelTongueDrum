@@ -1,0 +1,1716 @@
+﻿Log file open, 10/21/21 20:50:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: 了无忧
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.970208
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4Project/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.21-12.50.38:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.21-12.50.38:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.21-12.50.38:252][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.21-12.50.38:261][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.21-12.50.38:261][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.21-12.50.38:262][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.21-12.50.38:262][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.21-12.50.38:262][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.21-12.50.38:273][  0]LogHAL: Display: Platform has ~ 16 GB [16860520448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.10.21-12.50.38:273][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.21-12.50.38:273][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.21-12.50.38:273][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.21-12.50.38:274][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.21-12.50.38:275][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.21-12.50.38:275][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.21-12.50.38:275][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.21-12.50.38:275][  0]LogInit: Computer: DESKTOP-K6K5E71
+[2021.10.21-12.50.38:275][  0]LogInit: User: HP
+[2021.10.21-12.50.38:275][  0]LogInit: CPU Page size=4096, Cores=10
+[2021.10.21-12.50.38:275][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.21-12.50.38:275][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.10.21-12.50.38:275][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.21-12.50.38:275][  0]LogMemory: Process Physical Memory: 103.09 MB used, 103.09 MB peak
+[2021.10.21-12.50.38:275][  0]LogMemory: Process Virtual Memory: 95.24 MB used, 95.24 MB peak
+[2021.10.21-12.50.38:275][  0]LogMemory: Physical Memory: 7767.58 MB used,  8311.87 MB free, 16079.45 MB total
+[2021.10.21-12.50.38:275][  0]LogMemory: Virtual Memory: 4700.14 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2021.10.21-12.50.38:443][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.10.21-12.50.38:443][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2021.10.21-12.50.38:656][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.21-12.50.38:780][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.21-12.50.38:781][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.21-12.50.42:918][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.21-12.50.43:104][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2021.10.21-12.50.43:104][  0]LogD3D11RHI:       8010/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.21-12.50.43:109][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.21-12.50.43:109][  0]LogD3D11RHI:       0/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.21-12.50.43:109][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.21-12.50.43:123][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.21-12.50.43:123][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.21-12.50.43:123][  0]LogWindows: EnumDisplayDevices:
+[2021.10.21-12.50.43:123][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2021.10.21-12.50.43:125][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2021.10.21-12.50.43:126][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.21-12.50.43:128][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.21-12.50.43:129][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.21-12.50.43:129][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2021.10.21-12.50.43:129][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.10.21-12.50.43:129][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.10.21-12.50.43:129][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.10.21-12.50.43:261][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.21-12.50.43:266][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.21-12.50.43:267][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.21-12.50.43:267][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.21-12.50.43:275][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.21-12.50.43:800][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.10.21-12.50.43:818][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.10.21-12.50.43:836][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.10.21-12.50.43:853][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.10.21-12.50.43:870][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.10.21-12.50.43:892][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.10.21-12.50.43:910][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.21-12.50.43:928][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.10.21-12.50.43:936][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.10.21-12.50.44:039][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.10.21-12.50.44:044][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.10.21-12.50.44:100][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.10.21-12.50.44:100][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.10.21-12.50.44:132][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.10.21-12.50.44:132][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.10.21-12.50.44:149][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.10.21-12.50.44:166][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.21-12.50.44:183][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.10.21-12.50.44:200][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.10.21-12.50.44:259][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.10.21-12.50.44:259][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.10.21-12.50.44:259][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.21-12.50.44:269][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.21-12.50.44:319][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (../../../../了无忧/Intermediate/Shaders/WorkingDirectory/18820/).
+[2021.10.21-12.50.44:320][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP/AppData/Local/Temp/UnrealShaderWorkingDir/2A4D1B044663F0F2F7E775BA01CDF1FF/'.
+[2021.10.21-12.50.44:321][  0]LogXGEController: Cleaning working directory: C:/Users/HP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.10.21-12.50.44:322][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.21-12.50.44:323][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.21-12.50.44:323][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.21-12.50.45:092][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.21-12.50.45:158][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.21-12.50.45:158][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.10.21-12.50.45:158][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../了无忧/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.21-12.50.45:158][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.21-12.50.45:158][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../了无忧/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.21-12.50.45:158][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.21-12.50.45:175][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.21-12.50.45:176][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.21-12.50.45:176][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.21-12.50.45:189][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.21-12.50.45:189][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.21-12.50.45:189][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.21-12.50.45:219][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.10.21-12.50.45:221][  0]LogSlate: Using FreeType 2.6.0
+[2021.10.21-12.50.45:222][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.21-12.50.45:344][  0]LogAssetRegistry: FAssetRegistry took 0.0379 seconds to start up
+[2021.10.21-12.50.45:805][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.21-12.50.45:994][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.21-12.50.45:994][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.21-12.50.45:994][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.21-12.50.45:994][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.21-12.50.45:994][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.21-12.50.46:009][  0]LogNetVersion: 了无忧 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3095921557)
+[2021.10.21-12.50.46:527][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.042761 seconds
+[2021.10.21-12.50.46:537][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.10.21-12.50.46:537][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.10.21-12.50.46:537][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.21-12.50.47:769][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.21-12.50.47:784][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.21-12.50.47:905][  0]SourceControl: Source control is disabled
+[2021.10.21-12.50.47:905][  0]SourceControl: Source control is disabled
+[2021.10.21-12.50.47:907][  0]SourceControl: Source control is disabled
+[2021.10.21-12.50.47:908][  0]SourceControl: Source control is disabled
+[2021.10.21-12.50.48:010][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.21-12.50.48:221][  0]LogOcInput: OculusInput pre-init called
+[2021.10.21-12.50.49:274][  0]LogEngine: Initializing Engine...
+[2021.10.21-12.50.49:275][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-E2BAAB8B
+[2021.10.21-12.50.49:276][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.21-12.50.49:527][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.21-12.50.49:540][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.21-12.50.49:616][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.21-12.50.49:652][  0]LogInit: FAudioDevice initialized.
+[2021.10.21-12.50.49:652][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.21-12.50.49:701][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.21-12.50.49:702][  0]LogInit: Texture streaming: Enabled
+[2021.10.21-12.50.49:721][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.21-12.50.49:745][  0]LogInit: Transaction tracking system initialized
+[2021.10.21-12.50.49:767][  0]BlueprintLog: New page: Editor Load
+[2021.10.21-12.50.49:854][  0]LocalizationService: Localization service is disabled
+[2021.10.21-12.50.50:192][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.10.21-12.50.50:192][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.21-12.50.50:218][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/' took 0.04s
+[2021.10.21-12.50.50:408][  0]SourceControl: Source control is disabled
+[2021.10.21-12.50.50:408][  0]Cmd: MAP LOAD FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.21-12.50.50:409][  0]LightingResults: New page: Lighting Build
+[2021.10.21-12.50.50:411][  0]MapCheck: New page: Map Check
+[2021.10.21-12.50.50:411][  0]LightingResults: New page: Lighting Build
+[2021.10.21-12.50.50:468][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.10.21-12.50.50:802][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Heat_Distortion'
+[2021.10.21-12.50.50:802][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Heat_Distortion' while loading NULL.
+[2021.10.21-12.50.50:802][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Radial_Gradient'
+[2021.10.21-12.50.50:802][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Radial_Gradient' while loading NULL.
+[2021.10.21-12.50.50:802][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_smoke_subUV'
+[2021.10.21-12.50.50:803][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_smoke_subUV' while loading NULL.
+[2021.10.21-12.50.50:803][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Heat_Distortion'
+[2021.10.21-12.50.50:803][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Heat_Distortion' while loading NULL.
+[2021.10.21-12.50.50:803][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Radial_Gradient'
+[2021.10.21-12.50.50:803][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Radial_Gradient' while loading NULL.
+[2021.10.21-12.50.50:803][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_smoke_subUV'
+[2021.10.21-12.50.50:803][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_smoke_subUV' while loading NULL.
+[2021.10.21-12.50.50:916][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Radial_Gradient'
+[2021.10.21-12.50.50:916][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Radial_Gradient' while loading NULL.
+[2021.10.21-12.50.50:916][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_smoke_subUV'
+[2021.10.21-12.50.50:916][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_smoke_subUV' while loading NULL.
+[2021.10.21-12.50.50:916][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Spark'
+[2021.10.21-12.50.50:916][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Spark' while loading NULL.
+[2021.10.21-12.50.50:916][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Radial_Gradient'
+[2021.10.21-12.50.50:916][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Radial_Gradient' while loading NULL.
+[2021.10.21-12.50.50:916][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_smoke_subUV'
+[2021.10.21-12.50.50:917][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_smoke_subUV' while loading NULL.
+[2021.10.21-12.50.50:917][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Spark'
+[2021.10.21-12.50.50:917][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Spark' while loading NULL.
+[2021.10.21-12.50.51:648][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Spark'
+[2021.10.21-12.50.51:648][  0]LoadErrors: Failed to load /Game/WHJ/M_Spark.M_Spark Referenced by ParticleModuleRequired_0
+[2021.10.21-12.50.51:648][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Spark' while loading NULL.
+[2021.10.21-12.50.51:648][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_smoke_subUV'
+[2021.10.21-12.50.51:648][  0]LoadErrors: Failed to load /Game/WHJ/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_1
+[2021.10.21-12.50.51:648][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_smoke_subUV' while loading NULL.
+[2021.10.21-12.50.51:649][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Radial_Gradient'
+[2021.10.21-12.50.51:649][  0]LoadErrors: Failed to load /Game/WHJ/M_Radial_Gradient.M_Radial_Gradient Referenced by ParticleModuleRequired_4
+[2021.10.21-12.50.51:649][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Radial_Gradient' while loading NULL.
+[2021.10.21-12.50.51:662][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Heat_Distortion'
+[2021.10.21-12.50.51:662][  0]LoadErrors: Failed to load /Game/WHJ/M_Heat_Distortion.M_Heat_Distortion Referenced by ParticleModuleRequired_0
+[2021.10.21-12.50.51:662][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Heat_Distortion' while loading NULL.
+[2021.10.21-12.50.51:663][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_smoke_subUV'
+[2021.10.21-12.50.51:663][  0]LoadErrors: Failed to load /Game/WHJ/M_smoke_subUV.M_smoke_subUV Referenced by ParticleModuleRequired_1
+[2021.10.21-12.50.51:663][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_smoke_subUV' while loading NULL.
+[2021.10.21-12.50.51:663][  0]LogLinker: Warning: Can't find file '/Game/WHJ/M_Radial_Gradient'
+[2021.10.21-12.50.51:663][  0]LoadErrors: Failed to load /Game/WHJ/M_Radial_Gradient.M_Radial_Gradient Referenced by ParticleModuleRequired_3
+[2021.10.21-12.50.51:663][  0]LogLinker: Warning: Can't find file for asset '/Game/WHJ/M_Radial_Gradient' while loading NULL.
+[2021.10.21-12.50.53:467][  0]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.21-12.50.53:487][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.21-12.50.53:554][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.10.21-12.50.53:554][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.21-12.50.53:554][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2021.10.21-12.50.53:554][  0]LogFileHelpers: Loading map 'wuyoufang' took 3.146
+[2021.10.21-12.50.53:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.21-12.50.53:722][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.21-12.50.53:732][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.21-12.50.53:741][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.21-12.50.53:748][  0]LogCollectionManager: Loaded 0 collections in 0.001511 seconds
+[2021.10.21-12.50.53:788][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Saved/Collections/' took 0.01s
+[2021.10.21-12.50.53:789][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Developers/HP/Collections/' took 0.01s
+[2021.10.21-12.50.53:789][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Collections/' took 0.01s
+[2021.10.21-12.50.53:789][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.10.21-12.50.53:800][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2732 classes and 659 folders.
+[2021.10.21-12.50.53:809][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.21-12.50.53:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:815][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.21-12.50.53:903][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.21-12.50.53:909][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.10.21-12.50.53:954][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.21-12.50.53:956][  0]LogSlate: Took 0.001963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.10.21-12.50.53:958][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.21-12.50.53:964][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.21-12.50.54:046][  0]LogRenderer: Reallocating scene render targets to support 1148x572 Format 26 NumSamples 1 (Frame:1).
+[2021.10.21-12.50.54:298][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.21-12.50.54:298][  0]LogLoad: (Engine Initialization) Total time: 20.08 seconds
+[2021.10.21-12.50.54:298][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.21-12.50.54:369][  0]LogAssetRegistry: Asset discovery search completed in 9.0463 seconds
+[2021.10.21-12.50.54:372][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.10.21-12.50.54:372][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2021.10.21-12.50.54:377][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.21-12.50.54:412][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-12.50.55:355][ 34]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.21-12.50.59:549][ 83]LogFileCache: Retrieving MD5 hashes for directory 'D:/UE4Project/了无忧/Content/' took 5.22s
+[2021.10.21-12.51.02:222][ 97]LogSlate: Took 0.001818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.21-12.55.26:170][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PLAY_free1.tga)
+[2021.10.21-12.55.26:202][126]LogTexture: Display: Building textures: UI_PLAY_free1 (BGRA8, 888X679)
+[2021.10.21-12.55.26:250][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PLAY_pu0.tga)
+[2021.10.21-12.55.26:259][126]LogTexture: Display: Building textures: UI_PLAY_pu0 (BGRA8, 656X447)
+[2021.10.21-12.55.26:289][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PLAY_pu1.tga)
+[2021.10.21-12.55.26:300][126]LogTexture: Display: Building textures: UI_PLAY_pu1 (BGRA8, 888X679)
+[2021.10.21-12.55.26:333][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PLAY_return0.tga)
+[2021.10.21-12.55.26:341][126]LogTexture: Display: Building textures: UI_PLAY_return0 (BGRA8, 656X447)
+[2021.10.21-12.55.26:373][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PLAY_return1.tga)
+[2021.10.21-12.55.26:384][126]LogTexture: Display: Building textures: UI_PLAY_return1 (BGRA8, 888X679)
+[2021.10.21-12.55.26:427][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PU_sb0.tga)
+[2021.10.21-12.55.26:454][126]LogTexture: Display: Building textures: UI_PU_sb0 (BGRA8, 3232X473)
+[2021.10.21-12.55.26:576][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PU_sb1.tga)
+[2021.10.21-12.55.27:821][126]LogSlate: Window 'Message' being destroyed
+[2021.10.21-12.55.27:905][126]LogTexture: Display: Building textures: UI_PU_sb1 (BGRA8, 30767X200)
+[2021.10.21-12.55.28:048][126]LogTexture: Warning: Texture2D /Game/ui/UI_PU_sb1.UI_PU_sb1 cannot be created, exceeds this rhi's maximum dimension (16384) and has no mip chain to fall back on.
+[2021.10.21-12.55.28:053][126]LogTexture: Warning: Texture2D /Game/ui/UI_PU_sb1.UI_PU_sb1 cannot be created, exceeds this rhi's maximum dimension (16384) and has no mip chain to fall back on.
+[2021.10.21-12.55.28:078][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PU_XXX0.tga)
+[2021.10.21-12.55.28:115][126]LogTexture: Display: Building textures: UI_PU_XXX0 (BGRA8, 3232X473)
+[2021.10.21-12.55.28:293][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PU_XXX1.tga)
+[2021.10.21-12.55.29:095][126]LogSlate: Window 'Message' being destroyed
+[2021.10.21-12.55.29:245][126]LogTexture: Display: Building textures: UI_PU_XXX1 (BGRA8, 16673X754)
+[2021.10.21-12.55.29:550][126]LogTexture: Warning: Texture2D /Game/ui/UI_PU_XXX1.UI_PU_XXX1 cannot be created, exceeds this rhi's maximum dimension (16384) and has no mip chain to fall back on.
+[2021.10.21-12.55.29:556][126]LogTexture: Warning: Texture2D /Game/ui/UI_PU_XXX1.UI_PU_XXX1 cannot be created, exceeds this rhi's maximum dimension (16384) and has no mip chain to fall back on.
+[2021.10.21-12.55.29:567][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_left.tga)
+[2021.10.21-12.55.29:575][126]LogTexture: Display: Building textures: UI_DRAW_left (BGRA8, 243X989)
+[2021.10.21-12.55.29:600][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_right.tga)
+[2021.10.21-12.55.29:607][126]LogTexture: Display: Building textures: UI_DRAW_right (BGRA8, 243X989)
+[2021.10.21-12.55.29:640][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_wen01.tga)
+[2021.10.21-12.55.29:654][126]LogTexture: Display: Building textures: UI_DRAW_wen01 (BGRA8, 789X989)
+[2021.10.21-12.55.29:737][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_wen02.tga)
+[2021.10.21-12.55.29:750][126]LogTexture: Display: Building textures: UI_DRAW_wen02 (BGRA8, 789X989)
+[2021.10.21-12.55.29:795][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_wen03.tga)
+[2021.10.21-12.55.29:808][126]LogTexture: Display: Building textures: UI_DRAW_wen03 (BGRA8, 789X989)
+[2021.10.21-12.55.29:845][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_wen-an.tga)
+[2021.10.21-12.55.29:853][126]LogTexture: Display: Building textures: UI_DRAW_wen-an (BGRA8, 1377X244)
+[2021.10.21-12.55.29:882][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_zi-an.tga)
+[2021.10.21-12.55.29:890][126]LogTexture: Display: Building textures: UI_DRAW_zi-an (BGRA8, 1377X244)
+[2021.10.21-12.55.29:924][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_ziF.tga)
+[2021.10.21-12.55.29:937][126]LogTexture: Display: Building textures: UI_DRAW_ziF (BGRA8, 789X989)
+[2021.10.21-12.55.29:980][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_ziJ.tga)
+[2021.10.21-12.55.29:994][126]LogTexture: Display: Building textures: UI_DRAW_ziJ (BGRA8, 789X989)
+[2021.10.21-12.55.30:035][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_DRAW_ziL.tga)
+[2021.10.21-12.55.30:049][126]LogTexture: Display: Building textures: UI_DRAW_ziL (BGRA8, 789X989)
+[2021.10.21-12.55.30:083][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\UE4Project\了无忧\Content\ui\UI_PLAY_free0.tga)
+[2021.10.21-12.55.30:091][126]LogTexture: Display: Building textures: UI_PLAY_free0 (BGRA8, 656X447)
+[2021.10.21-12.56.58:890][362]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.21-12.57.10:395][977]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI
+[2021.10.21-12.57.10:715][977]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2021.10.21-12.57.13:375][ 65]LogRenderer: Reallocating scene render targets to support 1148x712 Format 26 NumSamples 1 (Frame:80).
+[2021.10.21-12.57.14:693][135]LogSlate: Took 0.013423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.21-12.57.15:106][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-12.57.20:635][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-12.57.22:073][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-12.57.56:824][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-12.57.56:996][ 56]LogActorFactory: Actor Factory created Plane
+[2021.10.21-12.57.58:548][137]LogActorFactory: Actor Factory created Plane
+[2021.10.21-12.57.59:569][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-12.58.30:187][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.06.34:191][324]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.10.21-13.06.35:522][324]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.21-13.06.35:679][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.10.21-13.07.07:474][ 41]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/freeplay_off.freeplay_off
+[2021.10.21-13.07.07:478][ 41]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.07.07:846][ 41]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.07.07:865][ 41]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.07.07:887][ 41]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.07.07:887][ 41]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.07.07:956][ 41]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.21-13.07.09:355][ 90]MaterialEditorStats: Base pass shader: 107 instructions
+[2021.10.21-13.07.09:355][ 90]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2021.10.21-13.07.09:355][ 90]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2021.10.21-13.07.09:355][ 90]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.21-13.07.28:109][385]LogAssetEditorManager: Opening Asset editor for Material /Game/Material/111.111
+[2021.10.21-13.07.28:113][385]LogMaterial: Display: Missing cached shader map for material 111, compiling. 
+[2021.10.21-13.07.28:114][385]LogMaterial: Warning: /Engine/Transient.111 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.07.28:114][385]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.07.28:194][385]LogMaterial: Display: Missing cached shader map for material 111, compiling. 
+[2021.10.21-13.07.28:195][385]LogMaterial: Warning: /Engine/Transient.111 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.07.28:195][385]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.07.28:199][385]LogMaterial: Display: Missing cached shader map for material 111, compiling. 
+[2021.10.21-13.07.28:200][385]LogMaterial: Warning: /Engine/Transient.111 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.07.28:200][385]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.07.28:235][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2021.10.21-13.07.28:242][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2021.10.21-13.07.28:249][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.07.28:252][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2021.10.21-13.07.28:259][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2021.10.21-13.07.28:308][385]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.07.48:898][678]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.07.48:916][678]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.07.48:948][679]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.07.48:948][679]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.07.50:258][722]MaterialEditorStats: Base pass shader: 107 instructions
+[2021.10.21-13.07.50:258][722]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2021.10.21-13.07.50:258][722]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2021.10.21-13.07.50:258][722]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.21-13.07.53:013][897]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.07.53:013][897]LogMaterial: Warning: /Engine/Transient.freeplay_off (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.07.53:013][897]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.21-13.07.53:023][897]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.07.53:049][897]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.10.21-13.08.07:222][782]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.08.07:245][782]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.08.07:261][782]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.08.07:261][782]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.08.07:277][782]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.08.07:715][792]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.08.08:188][805]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.08.08:974][829]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.08.08:974][829]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.08.08:974][829]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.08.08:974][829]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.08.08:974][829]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.08.08:974][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.08.11:737][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.08.11:812][  3]LogMaterialEditor: Saving and Compiling material freeplay_off
+[2021.10.21-13.08.12:368][  3]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.08.12:431][  3]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.08.12:431][  3]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.08.12:448][  3]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.08.12:473][  3]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.08.12:564][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.10.21-13.08.12:579][  3]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.08.13:261][  3]TextureStreamingBuild: Display: Compiling optional shaders took 0.696 seconds.
+[2021.10.21-13.08.13:328][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.10.21-13.08.16:166][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/freeplay_off" FILE="../../../../了无忧/Content/ui/freeplay_off.uasset" SILENT=true
+[2021.10.21-13.08.16:182][  3]LogSavePackage: Moving '../../../../了无忧/Saved/freeplay_offFF5DFF17456241D8ACD4C581EF7BE947.tmp' to '../../../../了无忧/Content/ui/freeplay_off.uasset'
+[2021.10.21-13.08.37:961][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (screen_di2)
+[2021.10.21-13.08.38:500][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.08.48:567][335]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane)
+[2021.10.21-13.08.50:719][504]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2021.10.21-13.08.50:743][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.09.03:107][665]LogSlate: Window 'Select Path' being destroyed
+[2021.10.21-13.09.03:676][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.09.04:425][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.09.07:002][976]Cmd: DELETE
+[2021.10.21-13.09.07:002][976]Cmd: ACTOR DELETE
+[2021.10.21-13.09.07:009][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.21-13.09.07:067][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.10.21-13.09.07:068][976]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2021.10.21-13.09.07:616][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.09.28:064][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.09.29:334][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (screen_di3)
+[2021.10.21-13.09.29:922][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.09.34:605][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.10.20:429][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.10.25:270][672]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.10.33:175][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/freeplay_on" FILE="../../../../了无忧/Content/ui/freeplay_on.uasset" SILENT=true
+[2021.10.21-13.10.33:190][270]LogSavePackage: Moving '../../../../了无忧/Saved/freeplay_on7DD721DC4D2A3DED9C91CDB9204C2C01.tmp' to '../../../../了无忧/Content/ui/freeplay_on.uasset'
+[2021.10.21-13.10.33:441][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.10.21-13.10.33:509][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.10.21-13.10.33:566][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.10.21-13.10.34:672][346]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/freeplay_on.freeplay_on
+[2021.10.21-13.10.34:676][346]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.10.34:781][346]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.10.34:799][346]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.10.34:823][346]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.10.34:823][346]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.10.34:850][346]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.10.36:125][379]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.10.36:125][379]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.10.36:125][379]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.10.36:126][379]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.10.36:126][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.10.36:126][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.10.37:818][448]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.10.37:843][448]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.10.37:843][448]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.10.37:843][448]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.10.37:875][448]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.10.38:283][458]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.10.38:762][469]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.10.39:006][478]LogMaterialEditor: Saving and Compiling material freeplay_on
+[2021.10.21-13.10.39:706][478]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.10.39:766][478]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.10.39:766][478]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.10.39:782][478]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.10.39:808][478]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.10.39:902][478]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.10.21-13.10.39:917][478]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.10.40:583][478]TextureStreamingBuild: Display: Compiling optional shaders took 0.681 seconds.
+[2021.10.21-13.10.40:646][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.10.21-13.10.43:489][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/freeplay_on" FILE="../../../../了无忧/Content/ui/freeplay_on.uasset" SILENT=true
+[2021.10.21-13.10.43:518][478]LogSavePackage: Moving '../../../../了无忧/Saved/freeplay_on720A1BCD47D548D357C3BC99545C73D0.tmp' to '../../../../了无忧/Content/ui/freeplay_on.uasset'
+[2021.10.21-13.10.43:549][478]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.10.43:550][478]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.10.43:550][478]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.10.43:550][478]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.10.43:550][478]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.10.43:550][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.10.48:460][817]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.10.55:126][284]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/freeplay_off_2.freeplay_off_2
+[2021.10.21-13.10.55:130][284]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.10.55:227][284]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.10.55:244][284]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.10.55:267][284]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.10.55:267][284]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.10.55:295][284]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.10.56:361][316]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.10.56:361][316]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.10.56:361][316]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.10.56:361][316]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.10.56:361][316]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.10.56:361][316]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.11.13:576][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/normalplay_off" FILE="../../../../了无忧/Content/ui/normalplay_off.uasset" SILENT=true
+[2021.10.21-13.11.13:592][608]LogSavePackage: Moving '../../../../了无忧/Saved/normalplay_off189E8003402DCDC0933BFC847544B5CF.tmp' to '../../../../了无忧/Content/ui/normalplay_off.uasset'
+[2021.10.21-13.11.13:832][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.10.21-13.11.13:898][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.10.21-13.11.13:952][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.10.21-13.11.23:714][194]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.11.23:736][194]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.11.23:736][194]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.11.23:739][194]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.11.23:771][194]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.11.24:633][220]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.11.25:040][230]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.11.25:814][258]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.11.25:814][258]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.11.25:814][258]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.11.25:814][258]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.11.25:814][258]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.11.25:814][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.11.26:299][289]LogMaterialEditor: Saving and Compiling material normalplay_off
+[2021.10.21-13.11.26:858][289]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.11.26:923][289]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.11.26:923][289]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.11.26:934][289]LogMaterial: Display: Missing cached shader map for material normalplay_off, compiling. 
+[2021.10.21-13.11.26:962][289]LogMaterial: Display: Missing cached shader map for material normalplay_off, compiling. 
+[2021.10.21-13.11.27:048][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.10.21-13.11.27:065][289]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.11.27:719][289]TextureStreamingBuild: Display: Compiling optional shaders took 0.670 seconds.
+[2021.10.21-13.11.27:784][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.10.21-13.11.30:642][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/normalplay_off" FILE="../../../../了无忧/Content/ui/normalplay_off.uasset" SILENT=true
+[2021.10.21-13.11.30:685][289]LogSavePackage: Moving '../../../../了无忧/Saved/normalplay_offB41649744D10D923D4DCEA926E38CF87.tmp' to '../../../../了无忧/Content/ui/normalplay_off.uasset'
+[2021.10.21-13.11.54:514][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.11.58:334][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.12.12:276][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.12.15:417][678]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.17:096][774]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/normalplay_off_2.normalplay_off_2
+[2021.10.21-13.12.17:100][774]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.17:221][774]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.17:237][774]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.12.17:237][774]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.12.17:240][774]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.17:286][774]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.12.18:018][792]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.12.18:416][802]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.12.19:291][827]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.12.19:291][827]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.12.19:291][827]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.12.19:291][827]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.12.19:291][827]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.12.19:291][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.12.22:407][996]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.22:431][996]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.12.22:431][996]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.12.22:431][996]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.12.22:462][996]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.22:871][  7]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.12.23:365][ 19]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.12.24:960][ 82]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.24:981][ 82]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.12.24:981][ 82]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.12.24:981][ 82]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.12.25:014][ 82]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.25:441][ 91]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.12.25:876][ 99]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.12.26:686][128]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.12.26:686][128]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.12.26:686][128]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.12.26:686][128]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.12.26:686][128]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.12.26:686][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.12.27:050][151]LogMaterialEditor: Saving and Compiling material normalplay_off_2
+[2021.10.21-13.12.27:613][151]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.27:676][151]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.12.27:676][151]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.12.27:689][151]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.27:716][151]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.12.27:804][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.10.21-13.12.27:819][151]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.12.28:489][151]TextureStreamingBuild: Display: Compiling optional shaders took 0.685 seconds.
+[2021.10.21-13.12.28:552][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.10.21-13.12.31:379][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/normalplay_off_2" FILE="../../../../了无忧/Content/ui/normalplay_off_2.uasset" SILENT=true
+[2021.10.21-13.12.31:397][151]LogSavePackage: Moving '../../../../了无忧/Saved/normalplay_off_2F5F7262C44434A30F8639CA6776C4345.tmp' to '../../../../了无忧/Content/ui/normalplay_off_2.uasset'
+[2021.10.21-13.12.51:650][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.10.21-13.12.51:651][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.21-13.12.52:203][381]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto1C71A6FAB4ADCE2CDD4E9BA9E9B0420AD.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto1.umap'
+[2021.10.21-13.12.52:213][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 0.626
+[2021.10.21-13.12.52:213][381]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.626
+[2021.10.21-13.12.52:217][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PLAY_free1] ([1] browsable assets)...
+[2021.10.21-13.12.52:225][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PLAY_free1.UI_PLAY_free1]
+[2021.10.21-13.12.52:226][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PLAY_free1]
+[2021.10.21-13.12.52:226][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PLAY_free1" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_free1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:233][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PLAY_free1_Auto104B8F3F7459B2B40E375F2863FD29DA1.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_free1_Auto1.uasset'
+[2021.10.21-13.12.52:234][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PLAY_pu0] ([1] browsable assets)...
+[2021.10.21-13.12.52:241][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PLAY_pu0.UI_PLAY_pu0]
+[2021.10.21-13.12.52:241][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PLAY_pu0]
+[2021.10.21-13.12.52:241][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PLAY_pu0" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_pu0_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:248][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PLAY_pu0_Auto1FABAED7B4A0D5B57BC6165B58F7DF914.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_pu0_Auto1.uasset'
+[2021.10.21-13.12.52:250][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PLAY_pu1] ([1] browsable assets)...
+[2021.10.21-13.12.52:257][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PLAY_pu1.UI_PLAY_pu1]
+[2021.10.21-13.12.52:257][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PLAY_pu1]
+[2021.10.21-13.12.52:257][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PLAY_pu1" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_pu1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:264][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PLAY_pu1_Auto157FFCDB743F89471E072F99A8925905C.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_pu1_Auto1.uasset'
+[2021.10.21-13.12.52:266][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PLAY_return0] ([1] browsable assets)...
+[2021.10.21-13.12.52:272][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PLAY_return0.UI_PLAY_return0]
+[2021.10.21-13.12.52:272][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PLAY_return0]
+[2021.10.21-13.12.52:272][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PLAY_return0" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_return0_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:277][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PLAY_return0_Auto152E899654FF260BCBEBA988FBC83A8CF.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_return0_Auto1.uasset'
+[2021.10.21-13.12.52:278][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PLAY_return1] ([1] browsable assets)...
+[2021.10.21-13.12.52:285][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PLAY_return1.UI_PLAY_return1]
+[2021.10.21-13.12.52:285][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PLAY_return1]
+[2021.10.21-13.12.52:285][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PLAY_return1" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_return1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:291][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PLAY_return1_Auto115FC9D0B4DE0775A3F8C21BF3AE90C1E.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_return1_Auto1.uasset'
+[2021.10.21-13.12.52:292][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PU_sb0] ([1] browsable assets)...
+[2021.10.21-13.12.52:295][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PU_sb0.UI_PU_sb0]
+[2021.10.21-13.12.52:295][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PU_sb0]
+[2021.10.21-13.12.52:295][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PU_sb0" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PU_sb0_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:331][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PU_sb0_Auto10E0A756F4E410058C8BA028F35B2FB64.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PU_sb0_Auto1.uasset'
+[2021.10.21-13.12.52:333][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PU_sb1] ([1] browsable assets)...
+[2021.10.21-13.12.52:333][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PU_sb1.UI_PU_sb1]
+[2021.10.21-13.12.52:333][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PU_sb1]
+[2021.10.21-13.12.52:333][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PU_sb1" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PU_sb1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:407][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PU_sb1_Auto1E0630CD24D7F9882876EE0A62B9B3704.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PU_sb1_Auto1.uasset'
+[2021.10.21-13.12.52:409][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PU_XXX0] ([1] browsable assets)...
+[2021.10.21-13.12.52:411][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PU_XXX0.UI_PU_XXX0]
+[2021.10.21-13.12.52:411][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PU_XXX0]
+[2021.10.21-13.12.52:411][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PU_XXX0" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PU_XXX0_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:491][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PU_XXX0_Auto18B44A26340B408E25707BCA0E28A2BE3.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PU_XXX0_Auto1.uasset'
+[2021.10.21-13.12.52:492][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PU_XXX1] ([1] browsable assets)...
+[2021.10.21-13.12.52:493][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PU_XXX1.UI_PU_XXX1]
+[2021.10.21-13.12.52:493][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PU_XXX1]
+[2021.10.21-13.12.52:493][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PU_XXX1" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PU_XXX1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:705][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PU_XXX1_Auto14E21A6754D77C4FCD50E9EAE8ED63C74.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PU_XXX1_Auto1.uasset'
+[2021.10.21-13.12.52:707][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_left] ([1] browsable assets)...
+[2021.10.21-13.12.52:709][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_left.UI_DRAW_left]
+[2021.10.21-13.12.52:709][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_left]
+[2021.10.21-13.12.52:709][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_left" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_left_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:713][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_left_Auto19287E7A7419A089829FCBE9BC190B11E.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_left_Auto1.uasset'
+[2021.10.21-13.12.52:714][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_right] ([1] browsable assets)...
+[2021.10.21-13.12.52:717][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_right.UI_DRAW_right]
+[2021.10.21-13.12.52:717][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_right]
+[2021.10.21-13.12.52:717][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_right" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_right_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:836][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_right_Auto11A152A8B4DC9B095100AC1A0FE5FD863.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_right_Auto1.uasset'
+[2021.10.21-13.12.52:837][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_wen01] ([1] browsable assets)...
+[2021.10.21-13.12.52:846][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_wen01.UI_DRAW_wen01]
+[2021.10.21-13.12.52:846][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_wen01]
+[2021.10.21-13.12.52:846][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_wen01" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_wen01_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:854][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_wen01_Auto1FED2832E49BA304A6EEC22B0CD219E21.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_wen01_Auto1.uasset'
+[2021.10.21-13.12.52:855][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_wen02] ([1] browsable assets)...
+[2021.10.21-13.12.52:863][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_wen02.UI_DRAW_wen02]
+[2021.10.21-13.12.52:863][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_wen02]
+[2021.10.21-13.12.52:863][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_wen02" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_wen02_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:871][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_wen02_Auto1D25F01AA4233AC96067CE08E3FD68511.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_wen02_Auto1.uasset'
+[2021.10.21-13.12.52:872][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_wen03] ([1] browsable assets)...
+[2021.10.21-13.12.52:880][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_wen03.UI_DRAW_wen03]
+[2021.10.21-13.12.52:880][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_wen03]
+[2021.10.21-13.12.52:880][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_wen03" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_wen03_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:906][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_wen03_Auto1AE72D36442A560EA974728BA688E2A7B.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_wen03_Auto1.uasset'
+[2021.10.21-13.12.52:908][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_wen-an] ([1] browsable assets)...
+[2021.10.21-13.12.52:910][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_wen-an.UI_DRAW_wen-an]
+[2021.10.21-13.12.52:911][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_wen-an]
+[2021.10.21-13.12.52:911][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_wen-an" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_wen-an_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:915][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_wen-an_Auto1F99B9F284DB3E16FF63A799073FB9B50.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_wen-an_Auto1.uasset'
+[2021.10.21-13.12.52:916][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_zi-an] ([1] browsable assets)...
+[2021.10.21-13.12.52:919][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_zi-an.UI_DRAW_zi-an]
+[2021.10.21-13.12.52:919][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_zi-an]
+[2021.10.21-13.12.52:919][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_zi-an" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_zi-an_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:923][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_zi-an_Auto10FCC42B44399E0A93777BBA1AF9A0F29.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_zi-an_Auto1.uasset'
+[2021.10.21-13.12.52:924][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_ziF] ([1] browsable assets)...
+[2021.10.21-13.12.52:932][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_ziF.UI_DRAW_ziF]
+[2021.10.21-13.12.52:932][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_ziF]
+[2021.10.21-13.12.52:932][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_ziF" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_ziF_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:938][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_ziF_Auto183335D4F4D9030496C08169E7A123089.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_ziF_Auto1.uasset'
+[2021.10.21-13.12.52:939][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_ziJ] ([1] browsable assets)...
+[2021.10.21-13.12.52:947][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_ziJ.UI_DRAW_ziJ]
+[2021.10.21-13.12.52:947][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_ziJ]
+[2021.10.21-13.12.52:947][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_ziJ" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_ziJ_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:953][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_ziJ_Auto1492EFCF849E3AA7A21C8219E11095D82.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_ziJ_Auto1.uasset'
+[2021.10.21-13.12.52:954][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_DRAW_ziL] ([1] browsable assets)...
+[2021.10.21-13.12.52:962][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_DRAW_ziL.UI_DRAW_ziL]
+[2021.10.21-13.12.52:962][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_DRAW_ziL]
+[2021.10.21-13.12.52:962][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_DRAW_ziL" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_ziL_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:968][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_DRAW_ziL_Auto1523C7C8348858020C5E30EB3B3F0F586.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_DRAW_ziL_Auto1.uasset'
+[2021.10.21-13.12.52:969][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ui/UI_PLAY_free0] ([1] browsable assets)...
+[2021.10.21-13.12.52:976][381]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ui/UI_PLAY_free0.UI_PLAY_free0]
+[2021.10.21-13.12.52:976][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_PLAY_free0]
+[2021.10.21-13.12.52:976][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_PLAY_free0" FILE="../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_free0_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:983][381]LogSavePackage: Moving '../../../../了无忧/Saved/UI_PLAY_free0_Auto14C4B6F884249AD59875A438EDE535689.tmp' to '../../../../了无忧/Saved/Autosaves/Game/ui/UI_PLAY_free0_Auto1.uasset'
+[2021.10.21-13.12.52:984][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_UI] ([1] browsable assets)...
+[2021.10.21-13.12.52:984][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_UI]
+[2021.10.21-13.12.52:984][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.12.52:993][381]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI_Auto18B5551DA4FE0AC16B4FED18677F884D6.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto1.uasset'
+[2021.10.21-13.12.52:994][381]LogFileHelpers: Auto-saving content packages took 0.778
+[2021.10.21-13.13.07:604][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/normalplay_on" FILE="../../../../了无忧/Content/ui/normalplay_on.uasset" SILENT=true
+[2021.10.21-13.13.07:620][375]LogSavePackage: Moving '../../../../了无忧/Saved/normalplay_on09F50EB345AB05D871A4898041ED9F5F.tmp' to '../../../../了无忧/Content/ui/normalplay_on.uasset'
+[2021.10.21-13.13.07:857][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.10.21-13.13.07:920][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.10.21-13.13.07:979][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.10.21-13.13.10:282][522]LogMaterial: Display: Missing cached shader map for material normalplay_on_2, compiling. 
+[2021.10.21-13.13.23:715][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/return_on" FILE="../../../../了无忧/Content/ui/return_on.uasset" SILENT=true
+[2021.10.21-13.13.23:730][512]LogSavePackage: Moving '../../../../了无忧/Saved/return_on0380351F437FE43F703A87BBDEB58B9F.tmp' to '../../../../了无忧/Content/ui/return_on.uasset'
+[2021.10.21-13.13.23:970][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.10.21-13.13.24:039][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.10.21-13.13.24:095][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.10.21-13.13.25:206][582]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/return_on.return_on
+[2021.10.21-13.13.25:210][582]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.25:306][582]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.25:324][582]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.25:361][582]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.13.25:361][582]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.13.25:376][582]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.13.26:679][618]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.13.26:679][618]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.13.26:679][618]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.13.26:679][618]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.13.26:679][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.13.26:679][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.13.30:513][825]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.30:534][825]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.13.30:551][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.13.30:551][825]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.13.30:567][825]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.30:987][836]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.13.31:447][847]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.13.32:485][878]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.32:505][878]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.13.32:505][878]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.13.32:509][878]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.13.32:542][878]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.32:964][889]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.13.33:435][900]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.13.34:156][921]LogMaterialEditor: Saving and Compiling material return_on
+[2021.10.21-13.13.34:722][921]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.34:783][921]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.13.34:783][921]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.13.34:796][921]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.34:819][921]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.13.34:910][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.10.21-13.13.34:926][921]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.13.35:602][921]TextureStreamingBuild: Display: Compiling optional shaders took 0.692 seconds.
+[2021.10.21-13.13.35:672][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.10.21-13.13.38:484][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/return_on" FILE="../../../../了无忧/Content/ui/return_on.uasset" SILENT=true
+[2021.10.21-13.13.38:513][921]LogSavePackage: Moving '../../../../了无忧/Saved/return_on01840FB24EDDD0342173429137B501EC.tmp' to '../../../../了无忧/Content/ui/return_on.uasset'
+[2021.10.21-13.13.38:537][921]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.13.38:537][921]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.13.38:537][921]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.13.38:537][921]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.13.38:537][921]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.13.38:537][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.13.42:524][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.13.43:993][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.13.53:534][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.13.54:002][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.13.54:448][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.13.57:493][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.13.58:491][386]LogMaterial: Display: Missing cached shader map for material return_on_2, compiling. 
+[2021.10.21-13.14.04:738][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/return_off" FILE="../../../../了无忧/Content/ui/return_off.uasset" SILENT=true
+[2021.10.21-13.14.04:754][819]LogSavePackage: Moving '../../../../了无忧/Saved/return_off13FA5A0D4C8AA476C2A53082AB105FAA.tmp' to '../../../../了无忧/Content/ui/return_off.uasset'
+[2021.10.21-13.14.04:990][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.10.21-13.14.05:058][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.10.21-13.14.05:112][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.10.21-13.14.21:180][979]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/return_off.return_off
+[2021.10.21-13.14.21:184][979]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.14.21:275][979]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.14.21:290][979]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.14.21:290][979]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.14.21:293][979]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.14.21:339][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.14.22:136][999]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.14.22:469][  6]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.14.23:293][ 29]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.14.23:293][ 29]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.14.23:293][ 29]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.14.23:293][ 29]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.14.23:293][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.14.23:293][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.14.24:930][114]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.14.24:952][114]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.14.24:968][114]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.14.24:968][114]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.14.24:984][114]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.14.25:402][125]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.14.25:860][136]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.14.26:273][147]LogMaterialEditor: Saving and Compiling material return_off
+[2021.10.21-13.14.26:892][147]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.14.26:961][147]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.14.26:961][147]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.14.26:973][147]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.14.26:997][147]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.14.27:085][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.10.21-13.14.27:101][147]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.14.27:766][147]TextureStreamingBuild: Display: Compiling optional shaders took 0.681 seconds.
+[2021.10.21-13.14.27:834][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.21-13.14.30:705][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/return_off" FILE="../../../../了无忧/Content/ui/return_off.uasset" SILENT=true
+[2021.10.21-13.14.30:733][147]LogSavePackage: Moving '../../../../了无忧/Saved/return_offD6050C1549AA43D2A00796A351FD1509.tmp' to '../../../../了无忧/Content/ui/return_off.uasset'
+[2021.10.21-13.14.30:759][147]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.14.30:759][147]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.14.30:759][147]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.14.30:759][147]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.14.30:759][147]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.14.30:759][147]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.14.37:954][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.14.41:829][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.14.42:617][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.10.21-13.15.17:136][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.15.18:924][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.10.21-13.15.28:995][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.15.29:504][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.15.30:130][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.10.21-13.15.31:071][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.15.55:648][959]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/pu1.pu1
+[2021.10.21-13.15.55:652][959]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.15.55:744][959]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.15.55:762][959]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.15.55:780][959]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.15.55:780][959]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.16.08:302][766]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.16.08:320][766]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.16.08:355][767]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.16.08:355][767]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.16.09:263][793]MaterialEditorStats: Base pass shader: 107 instructions
+[2021.10.21-13.16.09:263][793]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2021.10.21-13.16.09:263][793]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2021.10.21-13.16.09:263][793]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.21-13.16.18:434][314]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.16.18:456][314]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.16.18:473][314]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.16.18:473][314]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.16.18:490][314]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.16.18:846][323]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.16.19:329][333]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.16.20:080][357]MaterialEditorStats: Base pass shader: 107 instructions
+[2021.10.21-13.16.20:080][357]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2021.10.21-13.16.20:080][357]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2021.10.21-13.16.20:080][357]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.21-13.16.21:895][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.16.21:974][467]LogMaterialEditor: Saving and Compiling material pu1
+[2021.10.21-13.16.22:525][467]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.16.22:584][467]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.16.22:584][467]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.16.22:598][467]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.16.22:625][467]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.16.22:722][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.10.21-13.16.22:738][467]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.16.23:362][467]TextureStreamingBuild: Display: Compiling optional shaders took 0.639 seconds.
+[2021.10.21-13.16.23:433][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.10.21-13.16.26:213][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/pu1" FILE="../../../../了无忧/Content/ui/pu1.uasset" SILENT=true
+[2021.10.21-13.16.26:227][467]LogSavePackage: Moving '../../../../了无忧/Saved/pu10861E51B430FBDC4BE8ACD9BA43FEA72.tmp' to '../../../../了无忧/Content/ui/pu1.uasset'
+[2021.10.21-13.16.34:987][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.16.41:133][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.17.16:437][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.17.20:996][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.17.26:030][323]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.26:048][323]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.17.26:048][323]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.17.26:053][323]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.17.26:084][323]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.26:106][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.17.26:835][349]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.17.27:281][361]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.17.28:038][387]MaterialEditorStats: Base pass shader: 107 instructions
+[2021.10.21-13.17.28:038][387]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2021.10.21-13.17.28:038][387]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2021.10.21-13.17.28:039][387]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.21-13.17.36:665][894]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.36:690][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.17.36:706][894]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.17.36:706][894]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.17.36:722][894]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.37:125][905]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.17.37:539][915]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.17.38:296][942]MaterialEditorStats: Base pass shader: 107 instructions
+[2021.10.21-13.17.38:296][942]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2021.10.21-13.17.38:296][942]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2021.10.21-13.17.38:296][942]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.21-13.17.42:492][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.17.43:175][230]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.43:197][230]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.17.43:197][230]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.17.43:201][230]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.17.44:209][258]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.17.44:209][258]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.17.44:209][258]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.17.44:209][258]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.17.44:210][258]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.17.44:210][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.17.46:658][388]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.46:677][388]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.17.46:677][388]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.17.46:681][388]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.17.46:713][388]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.47:102][398]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.17.47:607][410]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.17.48:374][436]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.17.48:374][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.17.48:374][436]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.17.48:374][436]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.17.48:374][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.17.48:374][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.17.49:799][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.17.49:878][522]LogMaterialEditor: Saving and Compiling material pu1
+[2021.10.21-13.17.50:433][522]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.50:486][522]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.17.50:486][522]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.17.50:514][522]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.50:541][522]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.17.50:635][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.10.21-13.17.50:650][522]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.17.51:326][522]TextureStreamingBuild: Display: Compiling optional shaders took 0.692 seconds.
+[2021.10.21-13.17.51:388][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.10.21-13.17.54:255][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/pu1" FILE="../../../../了无忧/Content/ui/pu1.uasset" SILENT=true
+[2021.10.21-13.17.54:286][522]LogSavePackage: Moving '../../../../了无忧/Saved/pu1270189A6462EFCDE8D9413B362116D6C.tmp' to '../../../../了无忧/Content/ui/pu1.uasset'
+[2021.10.21-13.18.02:495][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.18.16:061][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.21-13.18.17:645][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.18.18:778][ 77]Cmd: TRANSACTION UNDO
+[2021.10.21-13.18.18:778][ 77]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.21-13.18.18:805][ 77]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.18.18:831][ 77]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.18.18:831][ 77]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.18.18:831][ 77]LogMaterial: Display: Missing cached shader map for material 111, compiling. 
+[2021.10.21-13.18.18:832][ 77]LogMaterial: Warning: /Engine/Transient.111 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.18.18:832][ 77]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.18.18:843][ 77]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.18.18:868][ 77]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.18.18:892][ 77]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.18.18:924][ 77]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.18.18:962][ 77]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.18.19:007][ 77]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.18.19:420][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.10.21-13.18.19:623][ 91]LogShaderCompilers: Display: Shaders left to compile 130
+[2021.10.21-13.18.20:079][108]LogShaderCompilers: Display: Shaders left to compile 120
+[2021.10.21-13.18.20:221][113]LogShaderCompilers: Display: Shaders left to compile 110
+[2021.10.21-13.18.20:449][120]Cmd: TRANSACTION UNDO
+[2021.10.21-13.18.20:449][120]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.21-13.18.20:456][120]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.18.20:487][120]LogMaterial: Display: Missing cached shader map for material 111, compiling. 
+[2021.10.21-13.18.20:488][120]LogMaterial: Warning: /Engine/Transient.111 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.18.20:488][120]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.18.20:497][120]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.18.20:527][120]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.18.20:557][120]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.18.20:592][120]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.18.20:626][120]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.18.20:658][120]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.18.20:917][127]LogShaderCompilers: Display: Shaders left to compile 140
+[2021.10.21-13.18.21:160][138]LogShaderCompilers: Display: Shaders left to compile 130
+[2021.10.21-13.18.21:801][157]LogShaderCompilers: Display: Shaders left to compile 120
+[2021.10.21-13.18.21:880][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.18.22:067][164]LogShaderCompilers: Display: Shaders left to compile 110
+[2021.10.21-13.18.22:225][171]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.18.22:225][171]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.18.22:225][171]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.18.22:225][171]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.18.22:225][171]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.18.22:225][171]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.18.22:582][180]LogShaderCompilers: Display: Shaders left to compile 100
+[2021.10.21-13.18.22:849][188]LogShaderCompilers: Display: Shaders left to compile 90
+[2021.10.21-13.18.23:002][192]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.18.23:002][192]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.18.23:002][192]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.18.23:002][192]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.18.23:002][192]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.18.23:002][192]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.18.23:207][198]LogShaderCompilers: Display: Shaders left to compile 80
+[2021.10.21-13.18.23:622][208]LogShaderCompilers: Display: Shaders left to compile 70
+[2021.10.21-13.18.23:821][214]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.18.23:821][214]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.18.23:821][214]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.18.23:821][214]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.18.23:821][214]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.18.23:821][214]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.18.23:867][216]LogShaderCompilers: Display: Shaders left to compile 60
+[2021.10.21-13.18.24:481][232]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.10.21-13.18.24:635][237]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.21-13.18.24:655][237]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.18.24:656][237]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.18.24:656][237]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.18.24:656][237]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.18.24:656][237]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.18.24:656][237]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.18.25:281][251]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.21-13.18.25:494][258]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.18.25:501][258]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.18.25:501][258]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.18.25:501][258]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.18.25:501][258]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.18.25:501][258]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.18.25:501][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.18.26:048][274]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.18.26:362][286]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.18.26:362][286]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.18.26:362][286]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.18.26:363][286]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.18.26:363][286]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.18.26:363][286]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.18.26:912][305]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.18.26:912][305]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.18.26:912][305]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.18.26:912][305]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.18.26:912][305]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.18.26:912][305]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.18.33:759][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.18.42:082][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.10.21-13.18.49:879][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.21-13.18.50:398][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.18.52:796][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.10.21-13.19.01:284][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.19.44:319][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.19.51:276][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.21.02:498][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/pu1_songbie" FILE="../../../../了无忧/Content/ui/pu1_songbie.uasset" SILENT=true
+[2021.10.21-13.21.02:515][636]LogSavePackage: Moving '../../../../了无忧/Saved/pu1_songbieB8DA73DE44569F8A65E8C595DF3D0E4F.tmp' to '../../../../了无忧/Content/ui/pu1_songbie.uasset'
+[2021.10.21-13.21.02:750][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.10.21-13.21.02:817][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.10.21-13.21.02:879][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.10.21-13.21.12:819][296]Cmd: EDIT CUT
+[2021.10.21-13.21.12:836][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.21-13.21.12:895][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.10.21-13.21.12:895][296]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2021.10.21-13.21.14:765][438]LogMaterial: Display: Missing cached shader map for material pu1_songbie_2, compiling. 
+[2021.10.21-13.22.06:015][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/yinfu1" FILE="../../../../了无忧/Content/ui/yinfu1.uasset" SILENT=true
+[2021.10.21-13.22.06:032][956]LogSavePackage: Moving '../../../../了无忧/Saved/yinfu159DEBF8D4261B51F790193B15F1FE014.tmp' to '../../../../了无忧/Content/ui/yinfu1.uasset'
+[2021.10.21-13.22.06:271][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.10.21-13.22.06:339][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.10.21-13.22.06:400][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.10.21-13.22.07:520][ 31]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/yinfu1.yinfu1
+[2021.10.21-13.22.07:524][ 31]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.22.07:625][ 31]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.22.07:644][ 31]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.22.07:674][ 31]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.22.07:674][ 31]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.22.07:689][ 31]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.22.09:114][ 73]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.22.09:114][ 73]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.22.09:114][ 73]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.22.09:115][ 73]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.22.09:115][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.22.09:115][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.22.15:337][453]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.22.15:364][453]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.22.15:364][453]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.22.15:364][453]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.10.21-13.22.15:399][453]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.22.15:801][464]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.22.16:275][471]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.22.17:088][499]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.22.17:088][499]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.22.17:088][499]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.22.17:088][499]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.22.17:088][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.22.17:088][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.22.24:620][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.22.24:704][977]LogMaterialEditor: Saving and Compiling material yinfu1
+[2021.10.21-13.22.25:272][977]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.22.25:339][977]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.22.25:339][977]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.22.25:356][977]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.22.25:382][977]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.22.25:475][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.10.21-13.22.25:489][977]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.22.26:179][977]TextureStreamingBuild: Display: Compiling optional shaders took 0.705 seconds.
+[2021.10.21-13.22.26:255][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.10.21-13.22.29:113][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/yinfu1" FILE="../../../../了无忧/Content/ui/yinfu1.uasset" SILENT=true
+[2021.10.21-13.22.29:195][977]LogSavePackage: Moving '../../../../了无忧/Saved/yinfu117466D3D4347022A696F4B923C7E9AF2.tmp' to '../../../../了无忧/Content/ui/yinfu1.uasset'
+[2021.10.21-13.22.41:481][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.21-13.22.42:166][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.21-13.22.42:776][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.22.43:477][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.21-13.22.45:035][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.22.49:432][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.22.54:439][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.23.07:960][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.23.10:115][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.10.21-13.23.11:148][957]Cmd: DELETE
+[2021.10.21-13.23.11:148][957]Cmd: ACTOR DELETE
+[2021.10.21-13.23.11:155][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.21-13.23.11:216][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.10.21-13.23.11:216][957]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.10.21-13.23.18:746][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.10.21-13.23.19:941][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.23.20:445][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.23.20:900][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.10.21-13.23.21:368][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.23.21:837][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.21-13.23.22:231][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.23.22:649][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.10.21-13.23.23:326][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.23.23:817][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.23.24:344][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.10.21-13.23.25:455][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.23.26:635][166]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.23.27:560][238]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane3)
+[2021.10.21-13.23.28:201][285]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane4)
+[2021.10.21-13.23.30:488][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.23.34:351][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.23.40:136][188]Cmd: TRANSACTION UNDO
+[2021.10.21-13.23.40:136][188]LogEditorTransaction: Undo Set Scale
+[2021.10.21-13.23.40:152][188]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.23.40:171][188]LogMaterial: Display: Missing cached shader map for material 111, compiling. 
+[2021.10.21-13.23.40:172][188]LogMaterial: Warning: /Engine/Transient.111 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.23.40:172][188]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.23.40:176][188]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.23.40:190][188]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.23.40:190][188]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.23.40:195][188]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.23.40:215][188]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.23.40:234][188]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.23.40:256][188]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.23.40:287][188]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.23.40:329][188]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.23.40:988][209]LogShaderCompilers: Display: Shaders left to compile 150
+[2021.10.21-13.23.41:055][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.23.41:471][220]LogShaderCompilers: Display: Shaders left to compile 140
+[2021.10.21-13.23.41:574][224]LogShaderCompilers: Display: Shaders left to compile 130
+[2021.10.21-13.23.41:998][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.23.42:170][236]LogShaderCompilers: Display: Shaders left to compile 120
+[2021.10.21-13.23.42:442][248]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.23.42:442][248]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.23.42:442][248]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.23.42:442][248]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.23.42:442][248]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.23.42:442][248]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.23.42:461][249]LogShaderCompilers: Display: Shaders left to compile 110
+[2021.10.21-13.23.42:531][251]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.23.42:531][251]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.23.42:531][251]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.23.42:531][251]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.23.42:531][251]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.23.42:531][251]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.23.43:011][260]LogShaderCompilers: Display: Shaders left to compile 100
+[2021.10.21-13.23.43:244][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.23.43:301][268]LogShaderCompilers: Display: Shaders left to compile 90
+[2021.10.21-13.23.43:618][280]LogShaderCompilers: Display: Shaders left to compile 80
+[2021.10.21-13.23.44:018][295]LogShaderCompilers: Display: Shaders left to compile 70
+[2021.10.21-13.23.44:250][306]LogShaderCompilers: Display: Shaders left to compile 60
+[2021.10.21-13.23.44:816][328]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.10.21-13.23.44:930][334]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.23.44:930][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.23.44:930][334]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.23.44:931][334]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.23.44:931][334]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.23.44:931][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.23.44:931][334]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.23.44:931][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.23.44:931][334]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.23.44:931][334]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.23.44:931][334]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.23.44:931][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.23.44:986][336]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.23.44:986][336]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.23.44:986][336]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.23.44:986][336]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.23.44:986][336]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.23.44:986][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.23.45:005][337]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.21-13.23.45:595][353]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.21-13.23.45:844][361]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.23.45:856][361]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.23.45:856][361]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.23.45:856][361]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.23.45:856][361]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.23.45:856][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.23.45:856][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.23.46:367][375]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.23.46:782][386]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.23.46:782][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.23.46:782][386]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.23.46:782][386]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.23.46:782][386]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.23.46:782][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.23.47:250][404]MaterialEditorStats: Base pass shader: 110 instructions
+[2021.10.21-13.23.47:250][404]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2021.10.21-13.23.47:250][404]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2021.10.21-13.23.47:250][404]MaterialEditorStats: Texture samplers: 4/16
+[2021.10.21-13.23.47:250][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.21-13.23.47:250][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.21-13.24.04:686][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2021.10.21-13.24.07:310][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.10.21-13.24.08:142][967]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane2)
+[2021.10.21-13.24.08:696][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane3)
+[2021.10.21-13.24.09:286][ 49]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane4)
+[2021.10.21-13.24.10:851][165]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.24.12:713][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.24.19:023][751]LogSlate: Window 'Select Path' being destroyed
+[2021.10.21-13.24.19:382][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.24.19:387][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Plane_Blueprint.Plane_Blueprint
+[2021.10.21-13.24.56:169][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.24.56:257][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.10.21-13.24.56:258][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.21-13.24.56:812][901]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto21260172E48D6B08AE66B88BB701EF2A0.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto2.umap'
+[2021.10.21-13.24.56:815][901]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 0.619
+[2021.10.21-13.24.56:815][901]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.619
+[2021.10.21-13.24.56:818][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_UI] ([1] browsable assets)...
+[2021.10.21-13.24.56:818][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_UI]
+[2021.10.21-13.24.56:818][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.10.21-13.24.56:827][901]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI_Auto24ABB72194F2602724FEA1FB7A3C7A511.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto2.uasset'
+[2021.10.21-13.24.56:828][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Plane_Blueprint] ([1] browsable assets)...
+[2021.10.21-13.24.56:842][901]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/Plane_Blueprint.Plane_Blueprint]
+[2021.10.21-13.24.56:842][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Plane_Blueprint]
+[2021.10.21-13.24.56:866][901]LogSavePackage: Moving '../../../../了无忧/Saved/Plane_Blueprint_Auto2271D7CDE473644DC096FF0BE8D5E5E95.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Plane_Blueprint_Auto2.uasset'
+[2021.10.21-13.24.56:867][901]LogFileHelpers: Auto-saving content packages took 0.051
+[2021.10.21-13.25.06:588][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.25.59:261][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.26.00:614][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.26.22:724][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.26.24:360][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.26.34:960][401]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ui/UI_PU_sb1.UI_PU_sb1
+[2021.10.21-13.26.34:967][401]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2021.10.21-13.26.34:967][401]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.10.21-13.26.49:744][266]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2021.10.21-13.26.52:235][266]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.21-13.26.52:379][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.26.53:516][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.26.54:086][266]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.26.54:134][266]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.26.54:134][266]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.26.54:140][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.26.54:157][266]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.26.54:178][266]LogMaterial: Display: Missing cached shader map for material freeplay_off, compiling. 
+[2021.10.21-13.26.54:283][266]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2021.10.21-13.26.54:301][266]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.26.55:296][266]TextureStreamingBuild: Display: Compiling optional shaders took 1.013 seconds.
+[2021.10.21-13.26.55:368][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.10.21-13.26.55:519][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.26.56:650][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.26.56:666][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.26.57:547][266]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.10.21-13.26.58:178][266]LogMaterial: Display: Missing cached shader map for material 111, compiling. 
+[2021.10.21-13.26.58:179][266]LogMaterial: Warning: /Engine/Transient.111 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.26.58:179][266]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.26.58:186][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.26.58:205][266]LogMaterial: Display: Missing cached shader map for material 111, compiling. 
+[2021.10.21-13.26.58:205][266]LogMaterial: Warning: D:\UE4Project\了无忧\Content\Material\111.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.26.58:205][266]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.26.58:213][266]LogMaterial: Display: Missing cached shader map for material 111, compiling. 
+[2021.10.21-13.26.58:214][266]LogMaterial: Warning: D:\UE4Project\了无忧\Content\Material\111.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.26.58:214][266]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Grayscale, should be Linear Grayscale for /Game/Material/texturex/1/gai/1_Roughness.1_Roughness
+[2021.10.21-13.26.58:289][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.10.21-13.26.58:299][266]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.26.58:300][266]TextureStreamingBuild: Display: Compiling optional shaders took 0.010 seconds.
+[2021.10.21-13.26.58:364][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.10.21-13.26.58:487][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.26.59:769][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.00:341][266]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.27.00:398][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.00:402][266]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.27.00:402][266]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.27.00:415][266]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.27.00:440][266]LogMaterial: Display: Missing cached shader map for material freeplay_on, compiling. 
+[2021.10.21-13.27.00:549][266]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.10.21-13.27.00:564][266]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.27.01:196][266]TextureStreamingBuild: Display: Compiling optional shaders took 0.646 seconds.
+[2021.10.21-13.27.01:275][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.10.21-13.27.01:418][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.01:963][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.02:590][266]LogMaterial: Display: Missing cached shader map for material freeplay_off_2, compiling. 
+[2021.10.21-13.27.02:642][266]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.27.02:643][266]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.27.02:650][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.02:669][266]LogMaterial: Display: Missing cached shader map for material normalplay_off, compiling. 
+[2021.10.21-13.27.02:699][266]LogMaterial: Display: Missing cached shader map for material normalplay_off, compiling. 
+[2021.10.21-13.27.02:816][266]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2021.10.21-13.27.02:831][266]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.27.03:458][266]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.21-13.27.03:462][266]TextureStreamingBuild: Display: Compiling optional shaders took 0.647 seconds.
+[2021.10.21-13.27.03:536][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.10.21-13.27.03:684][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.04:251][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.04:874][266]LogMaterial: Display: Missing cached shader map for material normalplay_off_2, compiling. 
+[2021.10.21-13.27.04:926][266]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.27.04:926][266]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.27.04:932][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.04:949][266]LogMaterial: Display: Missing cached shader map for material normalplay_on, compiling. 
+[2021.10.21-13.27.04:978][266]LogMaterial: Display: Missing cached shader map for material normalplay_on, compiling. 
+[2021.10.21-13.27.05:081][266]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.10.21-13.27.05:097][266]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.27.05:760][266]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.21-13.27.05:766][266]TextureStreamingBuild: Display: Compiling optional shaders took 0.685 seconds.
+[2021.10.21-13.27.05:835][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.10.21-13.27.05:968][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.07:297][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.07:313][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.10:253][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.10:821][266]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.27.10:873][266]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.27.10:873][266]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.27.10:877][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.10:893][266]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.27.10:918][266]LogMaterial: Display: Missing cached shader map for material return_on, compiling. 
+[2021.10.21-13.27.11:023][266]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.10.21-13.27.11:037][266]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.27.11:682][266]TextureStreamingBuild: Display: Compiling optional shaders took 0.659 seconds.
+[2021.10.21-13.27.11:751][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.10.21-13.27.11:884][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.12:659][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.12:676][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.13:491][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.13:507][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.13:962][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.13:980][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.14:988][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.15:004][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.15:990][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.16:007][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.16:295][266]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.16:308][266]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.21-13.27.16:387][266]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ui/UI_PU_sb1.UI_PU_sb1
+[2021.10.21-13.27.16:395][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.24:201][266]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.27.24:202][266]LogMaterial: Warning: D:\UE4Project\了无忧\Content\ui\yinfu1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.27.24:202][266]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.21-13.27.24:206][266]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.27.24:207][266]LogMaterial: Warning: /Engine/Transient.yinfu1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.27.24:207][266]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.21-13.27.24:210][266]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.27.24:210][266]LogMaterial: Warning: D:\UE4Project\了无忧\Content\ui\yinfu1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.27.24:210][266]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.21-13.27.24:612][266]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2021.10.21-13.27.24:664][266]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.10.21-13.27.27:958][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.10.21-13.27.29:084][459]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.21-13.27.29:102][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.30:176][459]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.30:740][459]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.27.30:793][459]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.27.30:793][459]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.27.30:797][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.30:813][459]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.27.30:840][459]LogMaterial: Display: Missing cached shader map for material return_off, compiling. 
+[2021.10.21-13.27.30:923][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.10.21-13.27.30:939][459]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.27.31:597][459]TextureStreamingBuild: Display: Compiling optional shaders took 0.672 seconds.
+[2021.10.21-13.27.31:659][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.10.21-13.27.31:812][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.32:812][459]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.33:439][459]LogMaterial: Display: Missing cached shader map for material pu1, compiling. 
+[2021.10.21-13.27.33:491][459]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.21-13.27.33:491][459]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.21-13.27.33:499][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.33:516][459]LogMaterial: Display: Missing cached shader map for material pu1_songbie, compiling. 
+[2021.10.21-13.27.33:542][459]LogMaterial: Display: Missing cached shader map for material pu1_songbie, compiling. 
+[2021.10.21-13.27.33:639][459]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.10.21-13.27.33:654][459]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.21-13.27.34:302][459]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.21-13.27.34:310][459]TextureStreamingBuild: Display: Compiling optional shaders took 0.670 seconds.
+[2021.10.21-13.27.34:376][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.10.21-13.27.34:527][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.35:543][459]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.35:560][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.36:271][459]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.36:280][459]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ui/yinfu1.yinfu1
+[2021.10.21-13.27.36:290][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.36:540][459]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.27.36:540][459]LogMaterial: Warning: /Engine/Transient.yinfu1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.27.36:541][459]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.21-13.27.38:095][459]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.27.38:408][459]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.10.21-13.27.39:320][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.27.42:940][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.10.21-13.27.44:040][765]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.21-13.27.44:060][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.44:092][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.27.44:168][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.10.21-13.27.45:101][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.27.54:343][340]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (29.664 sec). This should never happen. Something is wrong with the timer delegate!
+[2021.10.21-13.28.27:708][779]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.28.27:718][779]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HP\Desktop\ui\涔愯氨\UI_PU_sb0.jpg)
+[2021.10.21-13.28.28:731][779]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.28.28:809][779]LogTexture: Display: Building textures: UI_PU_sb0 (BGRA8, 3232X473)
+[2021.10.21-13.28.28:899][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.28.52:691][860]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HP\Desktop\ui\涔愯氨\UI_PU_sb1.jpg)
+[2021.10.21-13.28.52:692][860]Error: Texture import failed
+[2021.10.21-13.28.52:703][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.28.55:080][860]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.28.55:089][860]LogAssetTools: Warning: Failed to import 'C:\Users\HP\Desktop\ui\涔愯氨\UI_PU_sb1.jpg'. Failed to create asset '/Game/ui/UI_PU_sb1'.
+Please see Output Log for details.
+[2021.10.21-13.29.08:753][112]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HP\Desktop\ui\涔愯氨\UI_PU_XXX1.jpg)
+[2021.10.21-13.29.08:755][112]Error: Texture import failed
+[2021.10.21-13.29.08:763][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.29.11:217][112]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.29.11:225][112]LogAssetTools: Warning: Failed to import 'C:\Users\HP\Desktop\ui\涔愯氨\UI_PU_XXX1.jpg'. Failed to create asset '/Game/ui/UI_PU_XXX1'.
+Please see Output Log for details.
+[2021.10.21-13.29.13:228][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.29.24:711][805]LogSlate: Window 'Message Log' being destroyed
+[2021.10.21-13.29.24:723][805]LogSlate: Window 'Message Log' being destroyed
+[2021.10.21-13.29.49:129][757]LogEditorViewport: Clicking on Actor (LMB): Plane_Blueprint_C (Plane_Blueprint)
+[2021.10.21-13.29.51:680][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.29.53:835][207]LogEditorViewport: Clicking on Actor (LMB): Plane_Blueprint_C (Plane_Blueprint)
+[2021.10.21-13.29.54:638][280]LogEditorViewport: Clicking on Actor (LMB): Plane_Blueprint_C (Plane_Blueprint)
+[2021.10.21-13.29.55:391][348]LogEditorViewport: Clicking on Actor (LMB): Plane_Blueprint_C (Plane_Blueprint)
+[2021.10.21-13.30.00:299][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.21-13.30.02:334][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.10.21-13.30.03:394][899]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.21-13.30.03:410][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.30.04:476][899]LogSlate: Window 'Message' being destroyed
+[2021.10.21-13.30.04:491][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.21-13.30.05:395][899]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2021.10.21-13.30.05:955][899]LogMaterial: Display: Missing cached shader map for material yinfu1, compiling. 
+[2021.10.21-13.30.05:955][899]LogMaterial: Warning: /Engine/Transient.yinfu1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.21-13.30.05:955][899]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.21-13.30.05:964][899]LogSlate: FSceneViewport::OnFocusLost() reason 2

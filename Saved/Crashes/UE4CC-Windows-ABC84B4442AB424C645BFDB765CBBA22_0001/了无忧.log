@@ -1,0 +1,1211 @@
+﻿Log file open, 10/11/21 20:11:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: 了无忧
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.380162
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4Project/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.11-12.11.27:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.11-12.11.27:012][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.11-12.11.27:012][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.11-12.11.27:073][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.11-12.11.27:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.11-12.11.27:074][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.11-12.11.27:082][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.11-12.11.27:082][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.11-12.11.27:178][  0]LogHAL: Display: Platform has ~ 16 GB [16860520448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.10.11-12.11.27:182][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.11-12.11.27:182][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.11-12.11.27:182][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.11-12.11.27:183][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.11-12.11.27:184][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.11-12.11.27:184][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.11-12.11.27:184][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.11-12.11.27:192][  0]LogInit: Computer: DESKTOP-K6K5E71
+[2021.10.11-12.11.27:192][  0]LogInit: User: HP
+[2021.10.11-12.11.27:192][  0]LogInit: CPU Page size=4096, Cores=10
+[2021.10.11-12.11.27:192][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.11-12.11.27:193][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.10.11-12.11.27:193][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.11-12.11.27:193][  0]LogMemory: Process Physical Memory: 99.96 MB used, 99.96 MB peak
+[2021.10.11-12.11.27:193][  0]LogMemory: Process Virtual Memory: 95.08 MB used, 95.08 MB peak
+[2021.10.11-12.11.27:193][  0]LogMemory: Physical Memory: 5247.63 MB used,  10831.81 MB free, 16079.45 MB total
+[2021.10.11-12.11.27:193][  0]LogMemory: Virtual Memory: 4700.14 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2021.10.11-12.11.27:853][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.10.11-12.11.27:853][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2021.10.11-12.11.28:455][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.11-12.11.28:930][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.11-12.11.28:930][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.11-12.11.35:732][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.11-12.11.36:530][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2021.10.11-12.11.36:530][  0]LogD3D11RHI:       8010/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.11-12.11.36:536][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.11-12.11.36:536][  0]LogD3D11RHI:       0/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.11-12.11.36:536][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.11-12.11.36:579][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.11-12.11.36:579][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.11-12.11.36:579][  0]LogWindows: EnumDisplayDevices:
+[2021.10.11-12.11.36:580][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2021.10.11-12.11.36:583][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2021.10.11-12.11.36:585][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.11-12.11.36:587][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.11-12.11.36:588][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.11-12.11.36:588][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2021.10.11-12.11.36:588][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.10.11-12.11.36:588][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.10.11-12.11.36:588][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.10.11-12.11.36:744][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.11-12.11.37:156][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.11-12.11.37:162][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.11-12.11.37:162][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.11-12.11.37:183][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.11-12.11.38:301][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.10.11-12.11.38:425][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.10.11-12.11.38:488][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.10.11-12.11.38:568][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.10.11-12.11.38:731][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.10.11-12.11.38:836][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.10.11-12.11.38:984][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.11-12.11.39:067][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.10.11-12.11.39:116][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.10.11-12.11.39:361][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.10.11-12.11.39:464][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.10.11-12.11.39:790][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.10.11-12.11.39:790][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.10.11-12.11.39:861][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.10.11-12.11.39:861][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.10.11-12.11.40:076][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.10.11-12.11.40:138][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.11-12.11.40:221][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.10.11-12.11.40:323][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.10.11-12.11.40:902][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.10.11-12.11.40:902][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.10.11-12.11.40:902][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.11-12.11.41:716][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.11-12.11.46:024][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (../../../../了无忧/Intermediate/Shaders/WorkingDirectory/15300/).
+[2021.10.11-12.11.46:025][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP/AppData/Local/Temp/UnrealShaderWorkingDir/7FCBD9DF493E95774A7468B2DFBDB48E/'.
+[2021.10.11-12.11.46:182][  0]LogXGEController: Cleaning working directory: C:/Users/HP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.10.11-12.11.46:184][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.11-12.11.46:200][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.11-12.11.46:200][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.11-12.11.53:373][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.11-12.11.53:467][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.11-12.11.53:467][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.10.11-12.11.53:467][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../了无忧/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.11-12.11.53:467][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.11-12.11.53:467][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../了无忧/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.11-12.11.53:467][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.11-12.11.53:523][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.11-12.11.53:524][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.11-12.11.53:524][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.11-12.11.53:537][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.11-12.11.53:537][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.11-12.11.53:537][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.11-12.11.53:597][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.10.11-12.11.53:648][  0]LogSlate: Using FreeType 2.6.0
+[2021.10.11-12.11.53:733][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.11-12.11.54:260][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2021.10.11-12.12.01:186][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.11-12.12.02:572][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.11-12.12.02:572][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.11-12.12.02:572][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.11-12.12.02:572][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.11-12.12.02:572][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.11-12.12.02:947][  0]LogNetVersion: 了无忧 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3095921557)
+[2021.10.11-12.12.06:970][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.156519 seconds
+[2021.10.11-12.12.07:015][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.10.11-12.12.07:015][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.10.11-12.12.07:015][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.11-12.12.16:132][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.11-12.12.16:267][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.11-12.12.16:879][  0]SourceControl: Source control is disabled
+[2021.10.11-12.12.16:891][  0]SourceControl: Source control is disabled
+[2021.10.11-12.12.16:951][  0]SourceControl: Source control is disabled
+[2021.10.11-12.12.17:007][  0]SourceControl: Source control is disabled
+[2021.10.11-12.12.18:040][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.11-12.12.18:595][  0]LogOcInput: OculusInput pre-init called
+[2021.10.11-12.12.20:723][  0]LogEngine: Initializing Engine...
+[2021.10.11-12.12.20:770][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-E2BAAB8B
+[2021.10.11-12.12.20:772][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.10.11-12.12.21:500][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.11-12.12.21:832][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.11-12.12.22:063][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.12.22:160][  0]LogInit: FAudioDevice initialized.
+[2021.10.11-12.12.22:160][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.11-12.12.22:213][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.11-12.12.22:214][  0]LogInit: Texture streaming: Enabled
+[2021.10.11-12.12.22:439][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.11-12.12.22:439][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={D05977DE-492C-107A-0EA8-6BB7560F7453}
+[2021.10.11-12.12.23:393][  0]LogInit: Transaction tracking system initialized
+[2021.10.11-12.12.24:164][  0]BlueprintLog: New page: Editor Load
+[2021.10.11-12.12.26:733][  0]LocalizationService: Localization service is disabled
+[2021.10.11-12.12.30:733][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.10.11-12.12.30:733][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.11-12.12.31:305][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/' took 0.30s
+[2021.10.11-12.12.37:943][  0]SourceControl: Source control is disabled
+[2021.10.11-12.12.38:644][  0]LogSlate: Took 0.020023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.11-12.12.38:996][  0]LogSlate: Took 0.143746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.10.11-12.12.44:945][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.10.11-12.12.44:976][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2021.10.11-12.12.45:460][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2021.10.11-12.12.56:923][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.10.11-12.12.56:927][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2021.10.11-12.12.57:540][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2021.10.11-12.12.57:786][  0]Cmd: MAP LOAD FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.11-12.12.57:916][  0]LightingResults: New page: Lighting Build
+[2021.10.11-12.12.58:589][  0]MapCheck: New page: Map Check
+[2021.10.11-12.12.58:589][  0]LightingResults: New page: Lighting Build
+[2021.10.11-12.13.00:104][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.10.11-12.13.10:726][  0]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.13.11:826][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.11-12.13.12:165][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.10.11-12.13.12:165][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.11-12.13.12:165][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2021.10.11-12.13.12:165][  0]LogFileHelpers: Loading map 'wuyoufang' took 14.555
+[2021.10.11-12.13.15:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.13.15:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.13.15:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.13.15:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.13.16:133][  0]LogCollectionManager: Loaded 0 collections in 0.001563 seconds
+[2021.10.11-12.13.16:559][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Saved/Collections/' took 0.01s
+[2021.10.11-12.13.16:559][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Developers/HP/Collections/' took 0.01s
+[2021.10.11-12.13.16:559][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Collections/' took 0.01s
+[2021.10.11-12.13.16:559][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.10.11-12.13.16:702][  0]LogContentBrowser: Native class hierarchy populated in 0.0505 seconds. Added 2732 classes and 659 folders.
+[2021.10.11-12.13.16:992][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.10.11-12.13.17:089][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:398][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:417][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.17:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.11-12.13.19:106][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.10.11-12.13.19:444][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.10.11-12.13.20:627][  0]LogSlate: Took 0.038961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.11-12.13.20:729][  0]LogSlate: Took 0.056955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.11-12.13.21:369][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2021.10.11-12.13.22:591][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.11-12.13.23:186][  0]LogSlate: Window 'Tutorials' being destroyed
+[2021.10.11-12.13.23:373][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.10.11-12.13.23:373][  0]LogLoad: (Engine Initialization) Total time: 132.61 seconds
+[2021.10.11-12.13.23:373][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.11-12.13.23:921][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.11-12.13.24:224][  0]LogSlate: Took 0.051389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.11-12.13.24:418][  1]LogAssetRegistry: Asset discovery search completed in 90.1805 seconds
+[2021.10.11-12.13.24:441][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2021.10.11-12.13.24:441][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2021.10.11-12.13.53:765][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.11-12.14.01:919][ 69]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.11-12.14.01:930][ 69]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_G2.BP_G2
+[2021.10.11-12.14.03:009][ 69]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2021.10.11-12.14.04:784][ 69]LogSlate: Took 0.010588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.11-12.14.05:499][ 70]LogSlate: Took 0.011059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.11-12.14.13:891][549]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang
+[2021.10.11-12.14.58:372][437]LogAssetEditorManager: Opening Asset editor for HapticFeedbackEffect_Curve /Game/VirtualRealityBP/Blueprints/MotionControllerHaptics.MotionControllerHaptics
+[2021.10.11-12.15.13:025][908]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn
+[2021.10.11-12.15.18:117][213]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2021.10.11-12.16.56:123][301]LogSlate: Took 0.022293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.10.11-12.18.04:004][733]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.18.04:531][733]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.10.11-12.18.07:234][899]BlueprintLog: New page: Compile BP_MotionController
+[2021.10.11-12.18.07:556][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.10.11-12.19.08:424][626]LogUObjectArray: Warning: Empty slot
+[2021.10.11-12.19.08:442][626]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.10.11-12.19.10:731][626]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.289 s
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: 
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: Stack: 
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: [Callstack] 0x00007ffe1146c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: [Callstack] 0x00007ffe10ce6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: [Callstack] 0x00007ffe10cf4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: [Callstack] 0x00007ffe0d5037f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: [Callstack] 0x00007ffe0ce45cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: [Callstack] 0x00007ffe0ce01e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: [Callstack] 0x00007ffe14155984 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: [Callstack] 0x00007ffe143415e3 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.19.10:731][626]LogOutputDevice: Error: [Callstack] 0x00007ffe1419d70b UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe1417af5a UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe14170287 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5cb726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5bef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5cd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5bc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe64d5e7e8 USER32.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe64d5e229 USER32.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5ce946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ff769c95d3e UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ff769ca554c UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ff769ca55ca UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ff769cb316c UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ff769cb5b8e UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe64447034 KERNEL32.DLL!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: [Callstack] 0x00007ffe65022651 ntdll.dll!UnknownFunction []
+[2021.10.11-12.19.10:732][626]LogOutputDevice: Error: 
+[2021.10.11-12.19.10:778][626]LogStats:                SubmitErrorReport -  0.000 s
+[2021.10.11-12.19.15:463][626]LogStats:                    SendNewReport -  4.685 s
+[2021.10.11-12.19.15:463][626]LogStats:             FDebug::EnsureFailed -  7.021 s
+[2021.10.11-12.19.15:463][626]LogUObjectArray: Warning: Empty slot
+[2021.10.11-12.19.17:839][805]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.10.11-12.19.18:671][805]LogSlate: Window 'Save Content' being destroyed
+[2021.10.11-12.19.18:720][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.19.19:257][805]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G206C66844405C6FB7A10F0EAFAFBC63DB.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.19.19:293][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2021.10.11-12.19.19:549][805]LogSavePackage: Moving '../../../../了无忧/Saved/BP_MotionController76BE097842B50A1D96272EB427F83B30.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.10.11-12.19.19:557][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.11-12.19.19:615][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.10.11-12.19.19:997][805]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufangFAE59759487B740531DDC88E1153095B.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.11-12.19.20:034][805]LogFileHelpers: Saving map 'wuyoufang' took 0.478
+[2021.10.11-12.19.35:998][149]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.19.36:408][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.10.11-12.19.46:968][907]BlueprintLog: New page: Compile BP_MotionController
+[2021.10.11-12.19.47:272][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.10.11-12.19.48:694][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2021.10.11-12.19.48:941][996]LogSavePackage: Moving '../../../../了无忧/Saved/BP_MotionControllerF7995CD049EB9091309B7FAD9085C8CF.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.10.11-12.19.51:529][186]BlueprintLog: New page: Compile wuyoufang
+[2021.10.11-12.19.51:779][186]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2021.10.11-12.19.52:858][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.11-12.19.52:920][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.10.11-12.19.53:310][261]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang67A932C14FEC2EF3074A6CA9253D3843.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.11-12.19.53:332][261]LogFileHelpers: Saving map 'wuyoufang' took 0.475
+[2021.10.11-12.19.55:417][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.19.55:655][427]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G2F6EC830744F0CC15833FC891E3612942.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.19.57:138][549]LogTemp: Repeating last play command: VR Preview
+[2021.10.11-12.19.57:180][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.19.57:201][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-12.19.57:210][549]PIE: New page: PIE session: wuyoufang (Oct 12, 2021, 4:19:57 AM)
+[2021.10.11-12.19.57:239][549]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.11-12.19.57:258][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019012s)
+[2021.10.11-12.19.57:259][549]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.19.57:259][549]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2021.10.11-12.19.57:259][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.020157s)
+[2021.10.11-12.19.57:323][549]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.10.11-12.19.57:449][549]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.19.57:492][549]LogInit: FAudioDevice initialized.
+[2021.10.11-12.19.57:506][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.19.57:555][549]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-12.19.57:605][549]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.11-20.19.57
+[2021.10.11-12.19.57:653][549]LogWorld: Bringing up level for play took: 0.052198
+[2021.10.11-12.19.57:689][549]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2021.10.11-12.19.57:710][549]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2021.10.11-12.19.57:710][549]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.10.11-12.19.57:786][549]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.075
+[2021.10.11-12.19.57:787][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.19.57:931][550]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2021.10.11-12.19.58:310][551]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.11-12.20.54:701][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.20.54:777][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.20.55:006][551]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.11-12.20.55:070][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-12.20.55:070][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.20.55:208][551]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2021.10.11-12.20.55:381][552]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.10.11-12.21.39:258][ 90]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.21.39:723][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2021.10.11-12.21.42:891][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.21.43:135][298]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G2A407B4F94706411F30BB4291AB787988.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.21.44:099][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.11-12.21.44:172][369]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.10.11-12.21.44:589][369]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufangF9CFC91F4D21CA515C547FAD21778EDD.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.11-12.21.44:613][369]LogFileHelpers: Saving map 'wuyoufang' took 0.514
+[2021.10.11-12.21.46:925][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2021.10.11-12.21.47:200][515]LogSavePackage: Moving '../../../../了无忧/Saved/BP_MotionControllerFD5618BC477FAD93FDE173B2AF161AE8.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.10.11-12.21.52:135][875]LogTemp: Repeating last play command: VR Preview
+[2021.10.11-12.21.52:175][875]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.21.52:175][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-12.21.52:175][875]PIE: New page: PIE session: wuyoufang (Oct 12, 2021, 4:21:52 AM)
+[2021.10.11-12.21.52:176][875]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.11-12.21.52:201][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025674s)
+[2021.10.11-12.21.52:202][875]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.21.52:202][875]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2021.10.11-12.21.52:202][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.026518s)
+[2021.10.11-12.21.52:273][875]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.10.11-12.21.52:341][875]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.21.52:371][875]LogInit: FAudioDevice initialized.
+[2021.10.11-12.21.52:383][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.21.52:412][875]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-12.21.52:416][875]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.11-20.21.52
+[2021.10.11-12.21.52:417][875]LogWorld: Bringing up level for play took: 0.004594
+[2021.10.11-12.21.52:442][875]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 0.581
+[2021.10.11-12.21.52:455][875]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.21.52:517][877]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.11-12.22.05:931][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.22.06:009][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.22.06:068][904]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.11-12.22.06:114][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-12.22.06:114][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.22.06:195][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.10.11-12.22.06:223][905]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.10.11-12.26.43:694][221]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.26.44:079][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.10.11-12.26.45:053][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.26.45:184][285]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G2D16D6EB54811A2E34ADC23A08507B639.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.26.47:420][456]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2021.10.11-12.26.48:140][456]LogSlate: Window 'Save Content' being destroyed
+[2021.10.11-12.26.48:180][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2021.10.11-12.26.48:438][456]LogSavePackage: Moving '../../../../了无忧/Saved/BP_MotionControllerD0CB016F4A2C52FBDBBE4ABD22D9E3E4.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.10.11-12.26.48:445][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.11-12.26.48:510][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.10.11-12.26.48:936][456]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufangEDAC8043422D7381EE7471B2DB4A5DD2.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.11-12.26.48:961][456]LogFileHelpers: Saving map 'wuyoufang' took 0.516
+[2021.10.11-12.26.50:009][539]LogTemp: Repeating last play command: VR Preview
+[2021.10.11-12.26.50:034][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.26.50:035][539]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.11-12.26.50:045][539]LogPlayLevel: [PlayLevel] Compiling BP_MotionController before play...
+[2021.10.11-12.26.50:412][539]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2021.10.11-12.26.50:412][539]LogPlayLevel: PlayLevel: Blueprint regeneration took 377 ms (1 blueprints)
+[2021.10.11-12.26.50:412][539]PIE: New page: PIE session: wuyoufang (Oct 12, 2021, 4:26:50 AM)
+[2021.10.11-12.26.50:412][539]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.11-12.26.50:431][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018119s)
+[2021.10.11-12.26.50:431][539]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.26.50:431][539]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2021.10.11-12.26.50:431][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.019042s)
+[2021.10.11-12.26.50:494][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.10.11-12.26.50:577][539]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.26.50:610][539]LogInit: FAudioDevice initialized.
+[2021.10.11-12.26.50:622][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.26.50:659][539]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-12.26.50:663][539]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.11-20.26.50
+[2021.10.11-12.26.50:664][539]LogWorld: Bringing up level for play took: 0.004812
+[2021.10.11-12.26.50:686][539]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 0.825
+[2021.10.11-12.26.50:687][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.26.50:743][541]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.11-12.26.57:549][149]LogCore: Display: AppLifetime: Application will enter background
+[2021.10.11-12.27.00:240][376]LogCore: Display: AppLifetime: Application has entered foreground
+[2021.10.11-12.27.16:791][397]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_4
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0129
+[2021.10.11-12.27.16:791][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.11-12.27.16:791][397]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_4
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:013E
+[2021.10.11-12.27.16:791][397]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.11-12.27.16:791][397]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_4
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0179
+[2021.10.11-12.27.16:791][397]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.11-12.27.16:791][397]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_4
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:018E
+[2021.10.11-12.27.16:792][397]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.11-12.27.20:738][583]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_4
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0129
+[2021.10.11-12.27.20:738][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.11-12.27.20:738][583]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_4
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:013E
+[2021.10.11-12.27.20:738][583]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Skeletal Mesh
+[2021.10.11-12.27.20:738][583]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_4
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:0179
+[2021.10.11-12.27.20:738][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller1". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.11-12.27.20:738][583]LogScript: Warning: Accessed None
+	wuyoufang_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.wuyoufang_C_4
+	Function /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C:ExecuteUbergraph_wuyoufang:018E
+[2021.10.11-12.27.20:738][583]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wuyoufang Function:  Execute Ubergraph Wuyoufang Graph:  EventGraph Node:  Set Static Mesh
+[2021.10.11-12.27.40:428][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.27.40:500][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.27.40:584][788]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.11-12.27.40:626][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-12.27.40:626][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.27.40:750][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.10.11-12.27.40:844][789]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.10.11-12.27.53:545][677]LogUObjectArray: Warning: Other object in slot
+[2021.10.11-12.27.53:545][677]LogUObjectArray: Warning: Other object in slot
+[2021.10.11-12.27.54:703][752]LogUObjectArray: Warning: Other object in slot
+[2021.10.11-12.27.54:703][752]LogUObjectArray: Warning: Other object in slot
+[2021.10.11-12.28.29:122][ 56]LogUObjectArray: Warning: Other object in slot
+[2021.10.11-12.28.29:122][ 56]LogUObjectArray: Warning: Other object in slot
+[2021.10.11-12.28.35:386][487]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.28.35:740][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.10.11-12.28.36:323][518]LogTemp: Repeating last play command: VR Preview
+[2021.10.11-12.28.36:349][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.28.36:349][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-12.28.36:349][518]PIE: New page: PIE session: wuyoufang (Oct 12, 2021, 4:28:36 AM)
+[2021.10.11-12.28.36:349][518]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.11-12.28.36:367][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018403s)
+[2021.10.11-12.28.36:368][518]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.28.36:368][518]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2021.10.11-12.28.36:368][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.019348s)
+[2021.10.11-12.28.36:443][518]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2021.10.11-12.28.36:516][518]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.28.36:554][518]LogInit: FAudioDevice initialized.
+[2021.10.11-12.28.36:567][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.28.36:601][518]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-12.28.36:606][518]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.11-20.28.36
+[2021.10.11-12.28.36:607][518]LogWorld: Bringing up level for play took: 0.004880
+[2021.10.11-12.28.36:629][518]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 0.767
+[2021.10.11-12.28.36:629][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.28.36:683][520]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.11-12.29.41:009][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.29.41:086][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.29.41:185][407]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.11-12.29.41:239][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-12.29.41:239][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.29.41:325][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.10.11-12.29.41:370][408]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.10.11-12.29.50:555][165]LogSlate: Window 'Message Log' being destroyed
+[2021.10.11-12.29.50:563][165]LogSlate: Window 'Message Log' being destroyed
+[2021.10.11-12.31.28:761][870]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.31.29:126][870]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2021.10.11-12.31.30:220][945]LogTemp: Repeating last play command: VR Preview
+[2021.10.11-12.31.30:246][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.31.30:246][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-12.31.30:246][945]PIE: New page: PIE session: wuyoufang (Oct 12, 2021, 4:31:30 AM)
+[2021.10.11-12.31.30:246][945]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.11-12.31.30:264][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017933s)
+[2021.10.11-12.31.30:265][945]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.31.30:265][945]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2021.10.11-12.31.30:265][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.018777s)
+[2021.10.11-12.31.30:336][945]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2021.10.11-12.31.30:406][945]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.31.30:436][945]LogInit: FAudioDevice initialized.
+[2021.10.11-12.31.30:451][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.31.30:484][945]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-12.31.30:489][945]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.11-20.31.30
+[2021.10.11-12.31.30:489][945]LogWorld: Bringing up level for play took: 0.004720
+[2021.10.11-12.31.30:511][945]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 0.65
+[2021.10.11-12.31.30:512][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.31.30:568][947]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.11-12.32.51:218][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.32.51:290][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.32.51:376][683]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.11-12.32.51:417][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-12.32.51:417][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.32.51:503][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.10.11-12.32.51:547][684]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.10.11-12.33.00:550][388]LogTemp: Repeating last play command: VR Preview
+[2021.10.11-12.33.00:566][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.33.00:566][388]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.11-12.33.00:571][388]LogPlayLevel: [PlayLevel] Compiling BP_G2 before play...
+[2021.10.11-12.33.01:037][388]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.10.11-12.33.01:037][388]LogPlayLevel: PlayLevel: Blueprint regeneration took 470 ms (1 blueprints)
+[2021.10.11-12.33.01:037][388]PIE: New page: PIE session: wuyoufang (Oct 12, 2021, 4:33:01 AM)
+[2021.10.11-12.33.01:038][388]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.11-12.33.01:055][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017752s)
+[2021.10.11-12.33.01:056][388]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.33.01:056][388]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2021.10.11-12.33.01:056][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.018587s)
+[2021.10.11-12.33.01:120][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.10.11-12.33.01:188][388]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.33.01:217][388]LogInit: FAudioDevice initialized.
+[2021.10.11-12.33.01:229][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.33.01:265][388]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-12.33.01:270][388]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.11-20.33.01
+[2021.10.11-12.33.01:271][388]LogWorld: Bringing up level for play took: 0.005468
+[2021.10.11-12.33.01:292][388]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 1.431
+[2021.10.11-12.33.01:292][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.33.01:352][390]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.11-12.33.17:846][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.33.17:924][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.33.18:009][625]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.11-12.33.18:043][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-12.33.18:043][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.33.18:133][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.10.11-12.33.18:160][626]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.10.11-12.37.53:322][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.10.11-12.37.53:994][957]LogSlate: Window 'Save Content' being destroyed
+[2021.10.11-12.37.54:038][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.37.54:179][957]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G22CAACCDF4BE8CD4C11BCAABED0906778.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.37.54:198][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2021.10.11-12.37.54:483][957]LogSavePackage: Moving '../../../../了无忧/Saved/BP_MotionControllerD483A8184F3E987C779678BD5AC44EEE.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.10.11-12.37.54:489][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.11-12.37.54:555][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.10.11-12.37.54:978][957]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang6D6703D343305DB8703353AD2D79B1AD.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.11-12.37.55:000][957]LogFileHelpers: Saving map 'wuyoufang' took 0.513
+[2021.10.11-12.38.35:827][522]BlueprintLog: New page: Compile BP_MotionController
+[2021.10.11-12.38.36:184][522]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2021.10.11-12.38.37:800][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2021.10.11-12.38.38:047][599]LogSavePackage: Moving '../../../../了无忧/Saved/BP_MotionController5727731445F13DD7A7AFC1A4E89A52BB.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.10.11-12.38.40:731][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.11-12.38.40:802][773]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.10.11-12.38.41:221][773]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufangD404F0644AD3FEC61718F88D761B9451.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.11-12.38.41:243][773]LogFileHelpers: Saving map 'wuyoufang' took 0.513
+[2021.10.11-12.38.46:852][179]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.38.47:212][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.10.11-12.39.02:185][145]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.39.02:544][145]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2021.10.11-12.39.03:572][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.39.03:672][197]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G229FF5CD848B4CD404B85B28983DC8D0E.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.39.12:954][814]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.39.13:317][814]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.10.11-12.41.57:360][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.11-12.41.57:433][675]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.10.11-12.41.57:859][675]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang777AE1DC4D5419D266BA11A2E8BD123C.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.11-12.41.57:882][675]LogFileHelpers: Saving map 'wuyoufang' took 0.523
+[2021.10.11-12.41.59:019][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.41.59:118][751]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G26F74041546785EDC82ECE0956DED34D8.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.41.59:764][799]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.42.00:155][799]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.10.11-12.42.33:640][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.11-12.42.36:545][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.11-12.42.36:616][417]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.42.36:987][417]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.10.11-12.42.37:957][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.42.38:058][467]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G2C9FCE4BD400DABAC3D9CB5801F110152.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.43.01:300][ 83]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.43.01:665][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.10.11-12.43.02:583][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.43.02:684][129]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G23292715D46F67F06D41ACB8DC75ADA93.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.43.04:170][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.11-12.43.04:245][227]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.10.11-12.43.04:666][227]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang86A7B48F42CD660C87178B8BB8FB3C6C.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.11-12.43.04:689][227]LogFileHelpers: Saving map 'wuyoufang' took 0.520
+[2021.10.11-12.46.34:840][ 49]BlueprintLog: New page: Compile BP_MotionController
+[2021.10.11-12.46.35:229][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2021.10.11-12.46.37:889][125]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_G3.BP_G3
+[2021.10.11-12.46.49:167][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.11-12.49.07:678][156]BlueprintLog: New page: Compile BP_G3
+[2021.10.11-12.49.08:147][156]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2021.10.11-12.49.34:945][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G3" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G3.uasset" SILENT=true
+[2021.10.11-12.49.35:086][785]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G3B53AB1B846658A36529110AD0F266893.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G3.uasset'
+[2021.10.11-12.50.23:091][476]BlueprintLog: New page: Compile BP_MotionController
+[2021.10.11-12.50.23:480][476]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2021.10.11-12.50.27:066][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2021.10.11-12.50.27:318][638]LogSavePackage: Moving '../../../../了无忧/Saved/BP_MotionController8581264743188A6D0DD366A7248505C6.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.10.11-12.50.28:596][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.11-12.50.28:674][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2021.10.11-12.50.29:162][700]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufangF6D8763A4F9495D180A4A1B8413DCEA0.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.11-12.50.29:185][700]LogFileHelpers: Saving map 'wuyoufang' took 0.590
+[2021.10.11-12.50.30:761][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.50.30:866][786]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G2C9E6CE594ECE627FEFA15DB78FA454F3.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.50.31:521][824]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.50.31:890][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.10.11-12.50.41:181][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.11-12.50.41:251][384]LogTemp: Repeating last play command: VR Preview
+[2021.10.11-12.50.41:284][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.50.41:284][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-12.50.41:284][384]PIE: New page: PIE session: wuyoufang (Oct 12, 2021, 4:50:41 AM)
+[2021.10.11-12.50.41:284][384]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.11-12.50.41:305][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021056s)
+[2021.10.11-12.50.41:306][384]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.50.41:306][384]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2021.10.11-12.50.41:306][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.021976s)
+[2021.10.11-12.50.41:388][384]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.10.11-12.50.41:459][384]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.50.41:490][384]LogInit: FAudioDevice initialized.
+[2021.10.11-12.50.41:502][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.50.41:538][384]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-12.50.41:546][384]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.11-20.50.41
+[2021.10.11-12.50.41:548][384]LogWorld: Bringing up level for play took: 0.009008
+[2021.10.11-12.50.41:569][384]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.291
+[2021.10.11-12.50.41:570][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.50.41:629][386]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.11-12.51.03:655][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.51.03:737][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.51.03:823][281]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.11-12.51.03:877][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-12.51.03:877][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.51.03:960][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.10.11-12.51.04:007][282]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.10.11-12.51.07:106][505]LogEditorViewport: Clicking on Actor (LMB): BP_G3_C (BP_G4)
+[2021.10.11-12.51.12:135][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.11-12.51.17:412][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_polySurface279' 
+[2021.10.11-12.51.17:413][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o30' 
+[2021.10.11-12.51.17:413][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o1' 
+[2021.10.11-12.51.17:413][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o10' 
+[2021.10.11-12.51.17:413][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o10_1' 
+[2021.10.11-12.51.17:413][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o11' 
+[2021.10.11-12.51.17:414][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o11_1' 
+[2021.10.11-12.51.17:414][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o12' 
+[2021.10.11-12.51.17:414][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o12_1' 
+[2021.10.11-12.51.17:414][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o13' 
+[2021.10.11-12.51.17:414][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o13_1' 
+[2021.10.11-12.51.17:414][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o14' 
+[2021.10.11-12.51.17:415][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o14_1' 
+[2021.10.11-12.51.17:415][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o15' 
+[2021.10.11-12.51.17:415][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o16' 
+[2021.10.11-12.51.17:415][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o17' 
+[2021.10.11-12.51.17:415][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o18' 
+[2021.10.11-12.51.17:415][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o19' 
+[2021.10.11-12.51.17:416][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o1_1' 
+[2021.10.11-12.51.17:416][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o2' 
+[2021.10.11-12.51.17:416][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o20' 
+[2021.10.11-12.51.17:416][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o21' 
+[2021.10.11-12.51.17:416][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o22' 
+[2021.10.11-12.51.17:416][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o23' 
+[2021.10.11-12.51.17:417][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o24' 
+[2021.10.11-12.51.17:417][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o25' 
+[2021.10.11-12.51.17:417][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o26' 
+[2021.10.11-12.51.17:417][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o27' 
+[2021.10.11-12.51.17:417][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o28' 
+[2021.10.11-12.51.17:417][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o29' 
+[2021.10.11-12.51.17:418][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o2_1' 
+[2021.10.11-12.51.17:418][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o3' 
+[2021.10.11-12.51.17:418][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o9_1' 
+[2021.10.11-12.51.17:418][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o31' 
+[2021.10.11-12.51.17:418][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o32' 
+[2021.10.11-12.51.17:418][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o33' 
+[2021.10.11-12.51.17:419][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o34' 
+[2021.10.11-12.51.17:419][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o35' 
+[2021.10.11-12.51.17:419][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o36' 
+[2021.10.11-12.51.17:419][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o37' 
+[2021.10.11-12.51.17:419][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o38' 
+[2021.10.11-12.51.17:419][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o39' 
+[2021.10.11-12.51.17:420][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o3_1' 
+[2021.10.11-12.51.17:420][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o4' 
+[2021.10.11-12.51.17:420][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o40' 
+[2021.10.11-12.51.17:420][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o41' 
+[2021.10.11-12.51.17:420][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o42' 
+[2021.10.11-12.51.17:420][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o43' 
+[2021.10.11-12.51.17:421][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o44' 
+[2021.10.11-12.51.17:421][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o45' 
+[2021.10.11-12.51.17:421][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o46' 
+[2021.10.11-12.51.17:421][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o47' 
+[2021.10.11-12.51.17:421][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o48' 
+[2021.10.11-12.51.17:421][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o4_1' 
+[2021.10.11-12.51.17:422][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o5' 
+[2021.10.11-12.51.17:422][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o5_1' 
+[2021.10.11-12.51.17:422][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o6' 
+[2021.10.11-12.51.17:422][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o6_1' 
+[2021.10.11-12.51.17:422][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o7' 
+[2021.10.11-12.51.17:422][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o7_1' 
+[2021.10.11-12.51.17:423][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o8' 
+[2021.10.11-12.51.17:423][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o8_1' 
+[2021.10.11-12.51.17:423][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o9' 
+[2021.10.11-12.51.17:424][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_polySurface279' 
+[2021.10.11-12.51.17:424][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o30' 
+[2021.10.11-12.51.17:424][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o1' 
+[2021.10.11-12.51.17:424][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o10' 
+[2021.10.11-12.51.17:424][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o10_1' 
+[2021.10.11-12.51.17:424][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o11' 
+[2021.10.11-12.51.17:424][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o11_1' 
+[2021.10.11-12.51.17:424][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o12' 
+[2021.10.11-12.51.17:424][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o12_1' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o13' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o13_1' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o14' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o14_1' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o15' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o16' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o17' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o18' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o19' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o1_1' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o2' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o20' 
+[2021.10.11-12.51.17:425][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o21' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o22' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o23' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o24' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o25' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o26' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o27' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o28' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o29' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o2_1' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o3' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o9_1' 
+[2021.10.11-12.51.17:426][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o31' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o32' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o33' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o34' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o35' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o36' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o37' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o38' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o39' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o3_1' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o4' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o40' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o41' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o42' 
+[2021.10.11-12.51.17:427][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o43' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o44' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o45' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o46' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o47' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o48' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o4_1' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o5' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o5_1' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o6' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o6_1' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o7' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o7_1' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o8' 
+[2021.10.11-12.51.17:428][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o8_1' 
+[2021.10.11-12.51.17:429][128]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.BP_G4_2.G3_o9' 
+[2021.10.11-12.51.20:677][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.11-12.51.24:863][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.11-12.51.24:968][576]LogTemp: Repeating last play command: VR Preview
+[2021.10.11-12.51.24:984][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.51.24:984][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-12.51.24:985][576]PIE: New page: PIE session: wuyoufang (Oct 12, 2021, 4:51:24 AM)
+[2021.10.11-12.51.24:985][576]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.11-12.51.25:006][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020913s)
+[2021.10.11-12.51.25:006][576]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.51.25:007][576]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2021.10.11-12.51.25:007][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.021790s)
+[2021.10.11-12.51.25:079][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.10.11-12.51.25:145][576]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.51.25:173][576]LogInit: FAudioDevice initialized.
+[2021.10.11-12.51.25:185][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.51.25:221][576]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-12.51.25:228][576]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.11-20.51.25
+[2021.10.11-12.51.25:229][576]LogWorld: Bringing up level for play took: 0.007145
+[2021.10.11-12.51.25:252][576]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.609
+[2021.10.11-12.51.25:252][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.51.25:314][578]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.11-12.51.38:563][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.51.38:638][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.51.38:697][765]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.11-12.51.38:744][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-12.51.38:744][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.51.38:850][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.10.11-12.51.38:897][766]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.10.11-12.51.54:197][645]BlueprintLog: New page: Compile BP_G2
+[2021.10.11-12.51.54:559][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.10.11-12.51.55:922][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_G2" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset" SILENT=true
+[2021.10.11-12.51.56:023][706]LogSavePackage: Moving '../../../../了无忧/Saved/BP_G29E183AD34398B9B3788C32BA12D88174.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_G2.uasset'
+[2021.10.11-12.52.08:868][434]LogTemp: Repeating last play command: VR Preview
+[2021.10.11-12.52.08:897][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.52.08:898][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.11-12.52.08:898][434]PIE: New page: PIE session: wuyoufang (Oct 12, 2021, 4:52:08 AM)
+[2021.10.11-12.52.08:898][434]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.11-12.52.08:919][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020880s)
+[2021.10.11-12.52.08:919][434]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.11-12.52.08:920][434]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2021.10.11-12.52.08:920][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.021724s)
+[2021.10.11-12.52.08:995][434]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.10.11-12.52.09:061][434]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.11-12.52.09:090][434]LogInit: FAudioDevice initialized.
+[2021.10.11-12.52.09:102][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.52.09:137][434]LogLoad: Game class is 'GameModeBase'
+[2021.10.11-12.52.09:143][434]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.11-20.52.09
+[2021.10.11-12.52.09:144][434]LogWorld: Bringing up level for play took: 0.006071
+[2021.10.11-12.52.09:168][434]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.692
+[2021.10.11-12.52.09:169][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.52.09:230][436]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.10.11-12.52.29:239][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.52.29:317][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.11-12.52.29:469][915]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.11-12.52.29:520][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.11-12.52.29:520][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.11-12.52.29:623][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.10.11-12.52.29:695][916]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.11-12.53.05:126][ 76]LogEditorTransaction: Undo Modify Component(s)
+[2021.10.11-12.53.05:174][ 76]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.10.11-12.53.05:808][ 76]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.634 s
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: 
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: 
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: Stack: 
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe0b5c1639 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe0a5983b1 UE4Editor-Engine.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe10934e85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe10956366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe10942f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe1099ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe109dae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe1097929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe0f9c9188 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe141471ea UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.53.05:808][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe1417743e UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe10ef5694 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe14111e66 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe14178dcd UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe1416f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5cb55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5bef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5cd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5bc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe64d5e7e8 USER32.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe64d5e229 USER32.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe1c5ce946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff769c95d3e UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff769ca554c UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff769ca55ca UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff769cb316c UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ff769cb5b8e UE4Editor.exe!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe64447034 KERNEL32.DLL!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: [Callstack] 0x00007ffe65022651 ntdll.dll!UnknownFunction []
+[2021.10.11-12.53.05:809][ 76]LogOutputDevice: Error: 
+[2021.10.11-12.53.05:815][ 76]LogStats:                SubmitErrorReport -  0.000 s

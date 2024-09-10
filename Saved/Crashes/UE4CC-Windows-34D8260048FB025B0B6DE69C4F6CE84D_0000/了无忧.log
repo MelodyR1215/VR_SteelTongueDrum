@@ -1,0 +1,1609 @@
+﻿Log file open, 10/30/21 09:41:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: 了无忧
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.975194
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4Project/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-01.41.01:363][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.30-01.41.01:363][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-01.41.01:363][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-01.41.01:371][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:371][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.30-01.41.01:371][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.30-01.41.01:371][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:371][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.30-01.41.01:371][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:371][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.30-01.41.01:371][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.30-01.41.01:372][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.30-01.41.01:373][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.30-01.41.01:373][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.30-01.41.01:373][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.30-01.41.01:383][  0]LogHAL: Display: Platform has ~ 16 GB [16860520448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.10.30-01.41.01:383][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.30-01.41.01:383][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.30-01.41.01:383][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.30-01.41.01:384][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.30-01.41.01:385][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.30-01.41.01:385][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.30-01.41.01:385][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-01.41.01:385][  0]LogInit: Computer: DESKTOP-K6K5E71
+[2021.10.30-01.41.01:385][  0]LogInit: User: HP
+[2021.10.30-01.41.01:385][  0]LogInit: CPU Page size=4096, Cores=10
+[2021.10.30-01.41.01:385][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.30-01.41.01:385][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.10.30-01.41.01:385][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.30-01.41.01:385][  0]LogMemory: Process Physical Memory: 103.33 MB used, 103.33 MB peak
+[2021.10.30-01.41.01:385][  0]LogMemory: Process Virtual Memory: 93.67 MB used, 93.67 MB peak
+[2021.10.30-01.41.01:385][  0]LogMemory: Physical Memory: 5906.33 MB used,  10173.11 MB free, 16079.45 MB total
+[2021.10.30-01.41.01:385][  0]LogMemory: Virtual Memory: 4698.58 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2021.10.30-01.41.01:536][  0]LogInit: Overriding language with editor language configuration option (en-001).
+[2021.10.30-01.41.01:536][  0]LogInit: Overriding locale with editor locale configuration option (en-001).
+[2021.10.30-01.41.01:538][  0]LogTextLocalizationManager: No specific localization for 'en-001' exists, so the 'en' localization will be used.
+[2021.10.30-01.41.01:750][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.30-01.41.01:790][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.30-01.41.01:790][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.30-01.41.05:417][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.30-01.41.05:585][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2021.10.30-01.41.05:585][  0]LogD3D11RHI:       8010/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.30-01.41.05:590][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.30-01.41.05:590][  0]LogD3D11RHI:       0/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.30-01.41.05:590][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.30-01.41.05:600][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.30-01.41.05:600][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.30-01.41.05:600][  0]LogWindows: EnumDisplayDevices:
+[2021.10.30-01.41.05:601][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2021.10.30-01.41.05:602][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2021.10.30-01.41.05:603][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.30-01.41.05:605][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.30-01.41.05:605][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.30-01.41.05:606][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2021.10.30-01.41.05:606][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.10.30-01.41.05:606][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.10.30-01.41.05:606][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.10.30-01.41.05:734][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.30-01.41.05:742][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.30-01.41.05:742][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.30-01.41.05:742][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.30-01.41.05:751][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.30-01.41.06:256][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.10.30-01.41.06:293][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.10.30-01.41.06:310][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.10.30-01.41.06:328][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.10.30-01.41.06:344][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.10.30-01.41.06:361][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.10.30-01.41.06:379][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.30-01.41.06:396][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.10.30-01.41.06:404][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.10.30-01.41.06:506][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.10.30-01.41.06:510][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.10.30-01.41.06:567][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.10.30-01.41.06:567][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.10.30-01.41.06:598][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.10.30-01.41.06:598][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.10.30-01.41.06:615][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.10.30-01.41.06:632][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.30-01.41.06:649][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.10.30-01.41.06:666][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.10.30-01.41.06:723][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.10.30-01.41.06:723][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.10.30-01.41.06:723][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.30-01.41.06:761][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.30-01.41.06:853][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (../../../../了无忧/Intermediate/Shaders/WorkingDirectory/10676/).
+[2021.10.30-01.41.06:854][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP/AppData/Local/Temp/UnrealShaderWorkingDir/6765E1704F6468C4440138A1FBCEEC31/'.
+[2021.10.30-01.41.06:856][  0]LogXGEController: Cleaning working directory: C:/Users/HP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.10.30-01.41.06:857][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.30-01.41.06:857][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.30-01.41.06:857][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.30-01.41.07:646][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.30-01.41.07:709][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.30-01.41.07:709][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.10.30-01.41.07:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../了无忧/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.30-01.41.07:710][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.30-01.41.07:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../了无忧/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.30-01.41.07:710][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.30-01.41.07:726][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.30-01.41.07:726][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.30-01.41.07:726][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.30-01.41.07:739][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.30-01.41.07:739][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.30-01.41.07:739][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.30-01.41.07:767][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.10.30-01.41.07:768][  0]LogSlate: Using FreeType 2.6.0
+[2021.10.30-01.41.07:769][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.30-01.41.07:891][  0]LogAssetRegistry: FAssetRegistry took 0.0377 seconds to start up
+[2021.10.30-01.41.08:320][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.30-01.41.08:493][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.30-01.41.08:493][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.30-01.41.08:493][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.30-01.41.08:493][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.30-01.41.08:493][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.30-01.41.08:507][  0]LogNetVersion: 了无忧 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3095921557)
+[2021.10.30-01.41.09:057][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.043413 seconds
+[2021.10.30-01.41.09:065][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.10.30-01.41.09:065][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.10.30-01.41.09:065][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.30-01.41.10:309][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.30-01.41.10:324][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.30-01.41.10:446][  0]SourceControl: Source control is disabled
+[2021.10.30-01.41.10:446][  0]SourceControl: Source control is disabled
+[2021.10.30-01.41.10:447][  0]SourceControl: Source control is disabled
+[2021.10.30-01.41.10:456][  0]SourceControl: Source control is disabled
+[2021.10.30-01.41.10:585][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.30-01.41.10:811][  0]LogOcInput: OculusInput pre-init called
+[2021.10.30-01.41.11:821][  0]LogEngine: Initializing Engine...
+[2021.10.30-01.41.11:822][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-E2BAAB8B
+[2021.10.30-01.41.11:824][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.30-01.41.12:077][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.30-01.41.12:090][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.30-01.41.12:166][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-01.41.12:226][  0]LogInit: FAudioDevice initialized.
+[2021.10.30-01.41.12:226][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.30-01.41.12:276][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.30-01.41.12:284][  0]LogInit: Texture streaming: Enabled
+[2021.10.30-01.41.12:305][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.30-01.41.12:329][  0]LogInit: Transaction tracking system initialized
+[2021.10.30-01.41.12:349][  0]BlueprintLog: New page: Editor Load
+[2021.10.30-01.41.12:428][  0]LocalizationService: Localization service is disabled
+[2021.10.30-01.41.12:756][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.10.30-01.41.12:757][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.30-01.41.12:785][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/' took 0.05s
+[2021.10.30-01.41.13:113][  0]SourceControl: Source control is disabled
+[2021.10.30-01.41.13:113][  0]Cmd: MAP LOAD FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.30-01.41.13:114][  0]LightingResults: New page: Lighting Build
+[2021.10.30-01.41.13:116][  0]MapCheck: New page: Map Check
+[2021.10.30-01.41.13:116][  0]LightingResults: New page: Lighting Build
+[2021.10.30-01.41.13:177][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.10.30-01.41.17:283][  0]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-01.41.17:313][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.30-01.41.17:383][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.10.30-01.41.17:383][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.30-01.41.17:383][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2021.10.30-01.41.17:383][  0]LogFileHelpers: Loading map 'wuyoufang' took 4.270
+[2021.10.30-01.41.17:511][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.41.17:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.41.17:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.41.17:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.41.17:544][  0]LogCollectionManager: Loaded 0 collections in 0.001385 seconds
+[2021.10.30-01.41.17:584][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Saved/Collections/' took 0.01s
+[2021.10.30-01.41.17:585][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Developers/HP/Collections/' took 0.01s
+[2021.10.30-01.41.17:585][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Collections/' took 0.01s
+[2021.10.30-01.41.17:585][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.10.30-01.41.17:596][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2732 classes and 659 folders.
+[2021.10.30-01.41.17:604][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.30-01.41.17:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-01.41.17:837][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.30-01.41.17:845][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.10.30-01.41.17:963][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.30-01.41.17:978][  0]LogSlate: Took 0.016512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.10.30-01.41.17:980][  0]LogSlate: Took 0.000465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.30-01.41.17:990][  0]LogSlate: Took 0.003997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.30-01.41.18:072][  0]LogRenderer: Reallocating scene render targets to support 948x572 Format 26 NumSamples 1 (Frame:1).
+[2021.10.30-01.41.18:127][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.30-01.41.18:229][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.30-01.41.18:229][  0]LogLoad: (Engine Initialization) Total time: 20.96 seconds
+[2021.10.30-01.41.18:229][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.30-01.41.18:307][  0]LogAssetRegistry: Asset discovery search completed in 10.4385 seconds
+[2021.10.30-01.41.18:310][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.10.30-01.41.18:310][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2021.10.30-01.41.18:317][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.30-01.41.18:638][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/UE4Project/了无忧/Content/' took 0.38s
+[2021.10.30-01.43.05:272][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.43.16:648][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.43.33:172][805]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.30-01.43.33:186][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.30-01.43.33:241][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.10.30-01.43.34:112][805]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufangE730C3A441D506015B464E9CB6A0C39F.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.30-01.43.34:146][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang_BuiltData" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang_BuiltData.uasset" SILENT=true
+[2021.10.30-01.43.34:554][805]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_BuiltData447FEAEE4BFBEF5CCEF57C9B26A72C36.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang_BuiltData.uasset'
+[2021.10.30-01.43.36:335][996]LogTemp: Repeating last play command: VR Preview
+[2021.10.30-01.43.36:350][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.43.36:350][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.30-01.43.36:351][996]PIE: New page: PIE session: wuyoufang (Oct 30, 2021, 5:43:36 PM)
+[2021.10.30-01.43.36:363][996]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.30-01.43.36:418][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054208s)
+[2021.10.30-01.43.36:419][996]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-01.43.36:419][996]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2021.10.30-01.43.36:419][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.055429s)
+[2021.10.30-01.43.36:476][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.10.30-01.43.36:545][996]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-01.43.36:570][996]LogInit: FAudioDevice initialized.
+[2021.10.30-01.43.36:581][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.43.36:626][996]LogLoad: Game class is 'GameModeBase'
+[2021.10.30-01.43.36:632][996]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.30-09.43.36
+[2021.10.30-01.43.36:633][996]LogWorld: Bringing up level for play took: 0.005474
+[2021.10.30-01.43.36:650][996]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.10.30-01.43.36:659][996]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.437
+[2021.10.30-01.43.36:660][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.43.36:698][997]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2021.10.30-01.44.05:567][418]Cmd: ce Return
+[2021.10.30-01.44.25:877][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426[TickActor].
+[2021.10.30-01.44.25:877][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.MotionController[TickComponent].
+[2021.10.30-01.44.25:877][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.HandMesh[TickComponent].
+[2021.10.30-01.44.25:877][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.SteamVRChaperone[TickComponent].
+[2021.10.30-01.44.25:877][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427[TickActor].
+[2021.10.30-01.44.25:877][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.MotionController[TickComponent].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.HandMesh[TickComponent].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.SteamVRChaperone[TickComponent].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_428[TickActor].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_428.MotionController[TickComponent].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_428.HandMesh[TickComponent].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_428.SteamVRChaperone[TickComponent].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_429[TickActor].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_429.MotionController[TickComponent].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_429.HandMesh[TickComponent].
+[2021.10.30-01.44.25:878][ 34]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_429.SteamVRChaperone[TickComponent].
+[2021.10.30-01.44.30:623][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.44.31:126][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.44.31:186][ 35]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.30-01.44.31:397][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.30-01.44.31:397][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.44.31:538][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.10.30-01.44.31:566][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.10.30-01.45.35:872][856]LogEditorViewport: Clicking on Actor (LMB): CullDistanceVolume (CullDistanceVolume)
+[2021.10.30-01.45.44:864][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.46.15:938][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface9893)
+[2021.10.30-01.46.17:110][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.46.55:045][945]LogEditorViewport: Clicking on Actor (LMB): CullDistanceVolume (CullDistanceVolume)
+[2021.10.30-01.48.41:428][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-01.48.49:826][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.48.51:213][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.30-01.48.52:391][792]LogEditorViewport: Clicking on Actor (LMB): BP_UI_C (BP_UI)
+[2021.10.30-01.48.55:721][167]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.30-01.49.01:440][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.49.11:560][977]LogEditorViewport: Clicking on Actor (LMB): CullDistanceVolume (CullDistanceVolume)
+[2021.10.30-01.49.18:737][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.49.30:062][141]LogTemp: Repeating last play command: VR Preview
+[2021.10.30-01.49.30:078][141]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.49.30:078][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.30-01.49.30:078][141]PIE: New page: PIE session: wuyoufang (Oct 30, 2021, 5:49:30 PM)
+[2021.10.30-01.49.30:078][141]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.30-01.49.30:132][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053790s)
+[2021.10.30-01.49.30:133][141]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-01.49.30:133][141]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2021.10.30-01.49.30:133][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.054799s)
+[2021.10.30-01.49.30:185][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.30-01.49.30:238][141]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-01.49.30:259][141]LogInit: FAudioDevice initialized.
+[2021.10.30-01.49.30:270][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.49.30:306][141]LogLoad: Game class is 'GameModeBase'
+[2021.10.30-01.49.30:311][141]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.30-09.49.30
+[2021.10.30-01.49.30:312][141]LogWorld: Bringing up level for play took: 0.005417
+[2021.10.30-01.49.30:335][141]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 1.235
+[2021.10.30-01.49.30:335][141]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.49.59:416][588]Cmd: ce Return
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426[TickActor].
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.MotionController[TickComponent].
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.HandMesh[TickComponent].
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.SteamVRChaperone[TickComponent].
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427[TickActor].
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.MotionController[TickComponent].
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.HandMesh[TickComponent].
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.SteamVRChaperone[TickComponent].
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_428[TickActor].
+[2021.10.30-01.50.09:498][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_428.MotionController[TickComponent].
+[2021.10.30-01.50.09:499][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_428.HandMesh[TickComponent].
+[2021.10.30-01.50.09:499][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_428.SteamVRChaperone[TickComponent].
+[2021.10.30-01.50.09:499][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_429[TickActor].
+[2021.10.30-01.50.09:499][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_429.MotionController[TickComponent].
+[2021.10.30-01.50.09:499][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_429.HandMesh[TickComponent].
+[2021.10.30-01.50.09:499][185]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_429.SteamVRChaperone[TickComponent].
+[2021.10.30-01.50.14:329][186]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.50.16:345][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.50.16:395][186]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.30-01.50.16:899][186]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.30-01.50.16:900][186]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.50.17:021][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.10.30-01.50.17:084][187]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.30-01.50.19:331][400]LogEditorViewport: Clicking on Actor (LMB): CullDistanceVolume (CullDistanceVolume)
+[2021.10.30-01.50.45:071][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.50.53:914][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.30-01.50.53:968][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.10.30-01.50.54:825][443]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang8504949246AD1004F6C93B9AAC03AC01.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.30-01.50.54:858][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang_BuiltData" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang_BuiltData.uasset" SILENT=true
+[2021.10.30-01.50.55:109][443]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_BuiltDataE931FB0E40B2BEEAE86BFE97C27A31CB.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang_BuiltData.uasset'
+[2021.10.30-01.51.37:155][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SCREEN_5_polySurface10067)
+[2021.10.30-01.51.38:276][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_UI_C (BP_UI)
+[2021.10.30-01.51.43:800][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-01.51.46:651][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-01.51.49:695][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.52.18:526][256]LogEditorViewport: Clicking on Actor (LMB): BP_UI_C (BP_UI)
+[2021.10.30-01.52.28:545][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.52.38:451][512]LogTemp: Repeating last play command: VR Preview
+[2021.10.30-01.52.38:466][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.52.38:466][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.30-01.52.38:466][512]PIE: New page: PIE session: wuyoufang (Oct 30, 2021, 5:52:38 PM)
+[2021.10.30-01.52.38:467][512]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.30-01.52.38:521][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053699s)
+[2021.10.30-01.52.38:521][512]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-01.52.38:521][512]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2021.10.30-01.52.38:521][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.054712s)
+[2021.10.30-01.52.38:576][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.10.30-01.52.38:634][512]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-01.52.38:657][512]LogInit: FAudioDevice initialized.
+[2021.10.30-01.52.38:668][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.52.38:698][512]LogLoad: Game class is 'GameModeBase'
+[2021.10.30-01.52.38:704][512]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.30-09.52.38
+[2021.10.30-01.52.38:704][512]LogWorld: Bringing up level for play took: 0.005240
+[2021.10.30-01.52.38:727][512]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.375
+[2021.10.30-01.52.38:727][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.53.10:600][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.53.10:675][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.53.10:726][251]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.30-01.53.10:760][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.30-01.53.10:760][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.53.10:842][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.10.30-01.53.10:865][252]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.10.30-01.53.15:558][811]LogEditorViewport: Clicking on Actor (LMB): CullDistanceVolume (CullDistanceVolume)
+[2021.10.30-01.53.16:379][901]Cmd: DELETE
+[2021.10.30-01.53.16:379][901]Cmd: ACTOR DELETE
+[2021.10.30-01.53.16:523][901]LogEditorActor: Deleted Actor: CullDistanceVolume
+[2021.10.30-01.53.16:573][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.10.30-01.53.16:573][901]LogEditorActor: Deleted 1 Actors (0.157 secs)
+[2021.10.30-01.53.52:299][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.53.52:529][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.10.30-01.53.53:506][431]LogSlate: Window 'Save Content' being destroyed
+[2021.10.30-01.53.53:518][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-01.53.53:529][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.30-01.53.53:580][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.10.30-01.53.54:449][431]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang934186EE4FC5EBF5208F1FB96A158D8F.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap'
+[2021.10.30-01.53.54:482][431]LogFileHelpers: Saving map 'wuyoufang' took 0.953
+[2021.10.30-01.54.00:843][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.54.01:124][113]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI
+[2021.10.30-01.54.02:006][113]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2021.10.30-01.54.03:845][113]LogSlate: Took 0.011119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.30-01.54.14:753][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.54.22:010][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.54.26:368][822]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/yinfu1_xxx.yinfu1_xxx
+[2021.10.30-01.54.26:411][822]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.54.27:322][822]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.54.27:378][822]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.54.27:378][822]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.54.27:382][822]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.54.27:476][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.10.30-01.54.28:903][847]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.54.29:314][860]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.54.29:961][879]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.54.31:151][921]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.54.31:151][921]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.54.31:151][921]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.54.31:151][921]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.54.31:151][921]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.54.31:151][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.56.28:007][453]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.56.28:036][453]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.56.28:063][453]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.56.28:109][454]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.56.28:109][454]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.56.29:196][496]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.56.30:469][550]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.56.30:469][550]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.56.30:469][550]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.56.30:469][550]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.56.30:469][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.56.30:469][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.56.32:763][721]LogMaterialEditor: Applying material yinfu1_xxx
+[2021.10.30-01.56.33:587][721]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.56.33:677][721]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.56.33:677][721]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.56.33:757][721]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.56.33:838][721]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.56.33:963][721]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.10.30-01.56.34:003][721]LogUObjectHash: Compacting FUObjectHashTables data took  10.25ms
+[2021.10.30-01.56.34:055][721]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.30-01.56.35:199][721]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.30-01.56.35:202][721]TextureStreamingBuild: Display: Compiling optional shaders took 1.199 seconds.
+[2021.10.30-01.56.35:304][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.10.30-01.56.36:519][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.56.39:629][987]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.56.39:629][987]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.56.39:630][987]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.56.39:630][987]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.56.39:630][987]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.56.39:630][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.56.49:787][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.56.51:366][824]BlueprintLog: New page: Compile BP_UI
+[2021.10.30-01.56.51:748][824]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.10.30-01.57.12:310][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.57.18:502][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.57.22:507][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-01.57.27:269][267]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2021.10.30-01.57.29:537][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.57.29:632][411]BlueprintLog: New page: Compile BP_UI
+[2021.10.30-01.57.30:062][411]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2021.10.30-01.57.31:019][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_UI.uasset" SILENT=true
+[2021.10.30-01.57.31:132][472]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI6C69B68049597F5DE99914A130AE0E8C.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_UI.uasset'
+[2021.10.30-01.57.33:730][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-01.59.04:366][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.59.26:985][409]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.59.27:088][410]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.59.27:088][410]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.59.27:098][410]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.10.30-01.59.27:099][410]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.30-01.59.27:099][410]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2021.10.30-01.59.28:085][447]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.59.29:195][490]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.59.29:258][491]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.59.29:301][493]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.59.29:919][513]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.59.31:168][564]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.59.31:168][564]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.59.31:168][564]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.59.31:168][564]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.59.31:168][564]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.59.31:168][564]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.59.38:998][169]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.59.39:024][169]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.59.39:024][169]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.59.39:024][169]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2021.10.30-01.59.39:734][191]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.59.40:949][239]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.59.40:949][239]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.59.40:949][239]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.59.40:949][239]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.59.40:949][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.59.40:949][239]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.59.49:175][915]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.59.49:199][915]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.59.49:199][915]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.59.49:885][938]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.59.51:134][989]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.59.51:134][989]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.59.51:134][989]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.59.51:134][989]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.59.51:134][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.59.51:134][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.59.57:998][524]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.59.58:055][525]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.59.58:055][525]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.59.58:695][547]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.59.59:959][603]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.59.59:959][603]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.59.59:959][603]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.59.59:959][603]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.59.59:959][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.59.59:959][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.00.49:690][100]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.00.49:760][101]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.00.49:760][101]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.00.50:808][140]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.00.52:059][197]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.00.52:060][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.00.52:060][197]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.00.52:060][197]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.00.52:060][197]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.00.52:060][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.01.41:803][275]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.01.41:855][276]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.01.41:855][276]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.01.42:959][322]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.01.44:185][379]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.01.44:185][379]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.01.44:186][379]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.01.44:186][379]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.01.44:186][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.01.44:186][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.01.50:246][896]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.01.50:273][896]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.01.50:309][897]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.01.50:309][897]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.01.50:999][920]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.01.52:230][973]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.01.52:230][973]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.01.52:230][973]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.01.52:230][973]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.01.52:230][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.01.52:230][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.01.56:083][269]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.01.56:111][269]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.01.56:174][270]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.01.56:174][270]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.01.56:827][292]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.01.58:073][345]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.01.58:073][345]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.01.58:073][345]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.01.58:073][345]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.01.58:073][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.01.58:073][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.02.03:384][763]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.03:412][763]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.03:474][764]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.02.03:474][764]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.02.04:151][785]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.02.05:358][836]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.02.05:358][836]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.02.05:358][836]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.02.05:358][836]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.02.05:358][836]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.02.05:358][836]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.02.09:449][150]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.09:493][151]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.02.09:493][151]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.02.10:245][174]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.02.11:460][229]MaterialEditorStats: Base pass shader: 96 instructions
+[2021.10.30-02.02.11:460][229]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2021.10.30-02.02.11:460][229]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.02.11:460][229]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.02.11:460][229]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.02.11:460][229]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.02.16:901][661]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.16:940][662]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.02.16:940][662]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.02.17:611][684]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.02.18:844][738]MaterialEditorStats: Base pass shader: 97 instructions
+[2021.10.30-02.02.18:844][738]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 124 instructions
+[2021.10.30-02.02.18:844][738]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.02.18:844][738]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.02.18:844][738]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.02.18:844][738]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.02.28:258][489]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.28:283][489]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.02.28:284][489]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.02.28:288][489]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.10.30-02.02.28:550][497]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.02.29:183][516]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.02.30:282][562]MaterialEditorStats: Base pass shader: 96 instructions
+[2021.10.30-02.02.30:282][562]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2021.10.30-02.02.30:282][562]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.02.30:282][562]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.02.30:282][562]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.02.30:282][562]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.02.38:246][177]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.38:274][177]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.38:275][177]LogMaterial: Warning: /Engine/Transient.yinfu1_xxx (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.30-02.02.38:275][177]LogMaterial: 	(Node Clamp) Missing Clamp input
+[2021.10.30-02.02.38:279][177]MaterialEditorStats: Error: [SM5] (Node Clamp) Missing Clamp input
+[2021.10.30-02.02.46:216][782]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.46:217][782]LogMaterial: Warning: /Engine/Transient.yinfu1_xxx (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.30-02.02.46:217][782]LogMaterial: 	(Node Clamp) Missing Clamp input
+[2021.10.30-02.02.46:222][782]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.46:281][783]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.02.46:281][783]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.02.46:962][803]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.02.48:226][857]MaterialEditorStats: Base pass shader: 96 instructions
+[2021.10.30-02.02.48:227][857]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2021.10.30-02.02.48:227][857]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.02.48:227][857]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.02.48:227][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.02.48:227][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.02.55:377][397]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.55:406][397]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.02.55:470][398]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.02.55:470][398]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.02.56:213][422]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.02.57:465][476]MaterialEditorStats: Base pass shader: 96 instructions
+[2021.10.30-02.02.57:465][476]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2021.10.30-02.02.57:465][476]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.02.57:465][476]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.02.57:465][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.02.57:465][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.03.09:405][428]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.09:433][428]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.09:493][429]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.03.09:493][429]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.03.10:197][450]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.03.11:427][502]MaterialEditorStats: Base pass shader: 96 instructions
+[2021.10.30-02.03.11:427][502]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2021.10.30-02.03.11:427][502]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.03.11:427][502]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.03.11:427][502]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.03.11:427][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.03.35:642][405]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.35:684][405]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.03.35:684][405]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.03.35:689][405]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.35:701][405]LogMaterial: Warning: /Engine/Transient.yinfu1_xxx (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.30-02.03.35:702][405]LogMaterial: 	Function BitMask: Missing function input 'BitMask'
+[2021.10.30-02.03.35:702][405]LogMaterial: 	Function BitMask: Missing function input 'Bit'
+[2021.10.30-02.03.35:702][405]LogMaterial: 	Function BitMask: (Node If) If input A must be of type float.
+[2021.10.30-02.03.35:706][405]MaterialEditorStats: Error: [SM5] Function BitMask: Missing function input 'BitMask'
+[2021.10.30-02.03.35:707][405]MaterialEditorStats: Error: [SM5] Function BitMask: Missing function input 'Bit'
+[2021.10.30-02.03.35:707][405]MaterialEditorStats: Error: [SM5] Function BitMask: (Node If) If input A must be of type float.
+[2021.10.30-02.03.35:750][406]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.10.30-02.03.37:488][498]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.37:554][499]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.03.37:555][499]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.03.38:235][520]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.03.39:461][569]MaterialEditorStats: Base pass shader: 96 instructions
+[2021.10.30-02.03.39:461][569]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2021.10.30-02.03.39:461][569]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.03.39:461][569]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.03.39:461][569]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.03.39:461][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.03.46:698][110]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.46:760][111]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.03.46:760][111]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.03.47:428][131]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.03.48:716][184]MaterialEditorStats: Base pass shader: 96 instructions
+[2021.10.30-02.03.48:716][184]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2021.10.30-02.03.48:716][184]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.03.48:716][184]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.03.48:716][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.03.48:716][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.03.49:204][221]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.49:231][221]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.49:270][222]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.03.49:270][222]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.03.49:999][247]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.03.51:224][300]MaterialEditorStats: Base pass shader: 96 instructions
+[2021.10.30-02.03.51:224][300]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2021.10.30-02.03.51:224][300]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.03.51:224][300]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.03.51:224][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.03.51:224][300]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.03.52:437][391]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.52:438][391]LogMaterial: Warning: /Engine/Transient.yinfu1_xxx (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.30-02.03.52:438][391]LogMaterial: 	(Node ComponentMask) Missing ComponentMask input
+[2021.10.30-02.03.52:441][391]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Missing ComponentMask input
+[2021.10.30-02.03.58:940][885]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.58:941][885]LogMaterial: Warning: /Engine/Transient.yinfu1_xxx (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.30-02.03.58:941][885]LogMaterial: 	(Node ComponentMask) Missing ComponentMask input
+[2021.10.30-02.03.58:945][885]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.03.59:007][886]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.03.59:007][886]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.03.59:690][907]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.04.00:930][958]MaterialEditorStats: Base pass shader: 96 instructions
+[2021.10.30-02.04.00:930][958]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 123 instructions
+[2021.10.30-02.04.00:930][958]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.04.00:930][958]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.04.00:930][958]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.04.00:930][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.04.04:115][198]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.04.04:153][199]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.04.04:153][199]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.04.04:841][222]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.04.06:128][278]MaterialEditorStats: Base pass shader: 97 instructions
+[2021.10.30-02.04.06:129][278]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 124 instructions
+[2021.10.30-02.04.06:129][278]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.04.06:129][278]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.04.06:129][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.04.06:129][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.04.11:417][684]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.04.11:460][685]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.04.11:460][685]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.04.12:159][707]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.04.13:398][755]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.04.13:444][756]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.04.13:445][756]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.04.14:146][776]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.04.15:375][828]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.04.15:375][828]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.04.15:375][828]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.04.15:375][828]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.04.15:376][828]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.04.15:376][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.04.22:444][384]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.04.22:471][384]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.04.22:509][385]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.04.22:509][385]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.04.23:226][409]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.04.23:580][420]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.04.23:850][426]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.04.24:233][438]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.04.24:892][457]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.04.26:111][505]MaterialEditorStats: Base pass shader: 97 instructions
+[2021.10.30-02.04.26:111][505]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 124 instructions
+[2021.10.30-02.04.26:111][505]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.04.26:111][505]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.04.26:111][505]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.04.26:111][505]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.04.39:520][585]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.04.39:587][586]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.04.39:587][586]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.04.40:228][606]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.04.41:501][654]MaterialEditorStats: Base pass shader: 97 instructions
+[2021.10.30-02.04.41:501][654]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 124 instructions
+[2021.10.30-02.04.41:501][654]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.04.41:501][654]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.04.41:501][654]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.04.41:501][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.04.43:214][782]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.04.43:261][783]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.04.43:261][783]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.04.44:046][807]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.04.45:253][858]MaterialEditorStats: Base pass shader: 111 instructions
+[2021.10.30-02.04.45:253][858]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 138 instructions
+[2021.10.30-02.04.45:253][858]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.04.45:253][858]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.04.45:254][858]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.10.30-02.04.45:254][858]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.04.50:001][224]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.04.50:037][225]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.04.50:037][225]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.04.50:702][247]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.04.51:986][299]MaterialEditorStats: Base pass shader: 111 instructions
+[2021.10.30-02.04.51:986][299]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 138 instructions
+[2021.10.30-02.04.51:986][299]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.04.51:987][299]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.04.51:987][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.10.30-02.04.51:987][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.04.58:626][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.05.31:337][ 62]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.05.31:363][ 62]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.10.30-02.05.31:369][ 62]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.05.31:369][ 62]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.05.31:373][ 62]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.05.31:426][ 62]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.10.30-02.05.32:118][ 86]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.05.32:495][ 97]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.05.33:298][121]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.05.33:562][129]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.05.34:011][138]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.05.34:275][146]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.05.34:960][165]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.05.36:239][219]MaterialEditorStats: Base pass shader: 111 instructions
+[2021.10.30-02.05.36:239][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 138 instructions
+[2021.10.30-02.05.36:239][219]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.05.36:239][219]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.05.36:239][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.10.30-02.05.36:239][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.05.45:753][925]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.05.45:782][925]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.05.45:853][926]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.05.45:853][926]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.05.46:522][946]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.05.47:819][995]MaterialEditorStats: Base pass shader: 111 instructions
+[2021.10.30-02.05.47:819][995]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 138 instructions
+[2021.10.30-02.05.47:819][995]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.05.47:819][995]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.05.47:819][995]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.10.30-02.05.47:819][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.05.55:655][595]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.05.55:683][595]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.05.55:726][596]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.05.55:726][596]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.05.56:401][616]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.05.58:284][660]MaterialEditorStats: Base pass shader: 111 instructions
+[2021.10.30-02.05.58:284][660]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 138 instructions
+[2021.10.30-02.05.58:284][660]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.05.58:284][660]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.05.58:284][660]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.10.30-02.05.58:285][660]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.06.11:296][934]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.11:324][934]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.06.11:324][934]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.06.12:069][958]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.06.12:507][972]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.12:556][972]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.12:872][979]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.06.13:173][989]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.06.13:623][  2]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.13:965][ 10]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.06.14:297][ 22]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.06.14:588][ 31]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.14:637][ 31]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.14:948][ 38]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.06.15:257][ 49]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.06.15:849][ 66]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.06.16:328][ 81]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.16:650][ 88]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.06.16:943][ 98]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.06.17:561][114]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.06.18:800][163]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.06.18:800][163]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.06.18:800][163]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.06.18:800][163]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.06.18:800][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.06.18:800][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.06.33:165][226]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.33:233][227]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.06.33:233][227]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.06.33:913][247]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.06.35:120][295]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.06.35:120][295]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.06.35:120][295]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.06.35:120][295]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.06.35:120][295]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.06.35:120][295]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.06.51:877][559]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.51:901][559]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.06.51:901][559]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.06.52:560][578]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.06.53:892][629]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.06.53:892][629]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.06.53:892][629]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.06.53:892][629]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.06.53:892][629]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.06.53:892][629]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.06.56:299][806]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.06.56:363][807]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.06.56:363][807]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.06.56:370][807]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2021.10.30-02.06.56:681][817]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.06.57:407][839]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.06.58:389][878]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.06.58:389][878]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.06.58:389][878]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.06.58:389][878]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.06.58:389][878]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.06.58:389][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.07.00:288][ 16]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.00:461][ 16]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.00:461][ 16]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.00:553][ 17]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.10.30-02.07.00:614][ 18]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.01:288][ 36]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.02:269][ 76]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.07.02:269][ 76]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.07.02:269][ 76]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.07.02:269][ 76]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.07.02:269][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.07.02:269][ 76]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.07.02:412][ 85]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.02:438][ 85]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.02:438][ 85]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.03:093][101]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.04:228][141]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.04:257][141]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.04:308][142]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2021.10.30-02.07.04:574][150]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.05:271][167]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.06:283][209]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.07.06:283][209]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.07.06:283][209]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.07.06:283][209]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.07.06:283][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.07.06:283][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.07.08:368][359]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.08:441][360]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.08:441][360]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.09:132][382]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.09:788][400]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.09:982][401]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.09:992][401]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2021.10.30-02.07.09:992][401]LogMaterial: Warning: /Engine/Transient.Material_5 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.30-02.07.09:992][401]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2021.10.30-02.07.10:221][407]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.10:835][424]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.11:468][442]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.11:644][444]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.11:907][451]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.12:524][468]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.13:090][484]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.13:135][484]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_1, compiling. 
+[2021.10.30-02.07.13:336][488]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.13:631][498]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.14:155][512]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.14:838][531]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.14:883][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthOfFieldFunction_0, compiling. 
+[2021.10.30-02.07.14:991][532]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.15:296][542]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.16:024][561]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.17:237][607]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.07.17:237][607]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.07.17:237][607]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.07.17:237][607]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.07.17:237][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.07.17:237][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.07.17:400][617]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.17:469][618]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.17:469][618]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.18:123][637]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.19:123][666]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.19:149][666]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.19:486][677]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.19:760][686]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.20:739][711]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.20:774][711]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.20:774][711]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_2, compiling. 
+[2021.10.30-02.07.21:068][719]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.21:649][733]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.22:848][779]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.07.22:848][779]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.07.22:848][779]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.07.22:848][779]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.07.22:848][779]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.07.22:848][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.07.23:303][812]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.23:370][813]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.23:370][813]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.24:020][835]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.25:294][883]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.07.25:294][883]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.07.25:294][883]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.07.25:294][883]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.07.25:295][883]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.07.25:295][883]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.07.27:509][ 42]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.27:579][ 43]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.27:579][ 43]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.28:223][ 63]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.29:512][114]MaterialEditorStats: Base pass shader: 98 instructions
+[2021.10.30-02.07.29:512][114]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 125 instructions
+[2021.10.30-02.07.29:512][114]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.07.29:512][114]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.07.29:512][114]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.07.29:512][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.07.37:484][774]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSceneDepth_1, compiling. 
+[2021.10.30-02.07.56:422][683]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.56:464][684]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.56:464][684]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.57:538][724]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.07.58:020][739]LogMaterialEditor: Applying material yinfu1_xxx
+[2021.10.30-02.07.58:796][739]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.58:876][739]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.07.58:877][739]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.07.58:894][739]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.58:932][739]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.07.59:113][739]LogUObjectHash: Compacting FUObjectHashTables data took  10.81ms
+[2021.10.30-02.07.59:130][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.30-02.08.00:479][739]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.10.30-02.08.00:479][739]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.30-02.08.00:481][739]TextureStreamingBuild: Display: Compiling optional shaders took 1.368 seconds.
+[2021.10.30-02.08.00:553][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.10.30-02.08.01:772][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.08.05:004][ 22]MaterialEditorStats: Base pass shader: 111 instructions
+[2021.10.30-02.08.05:004][ 22]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 138 instructions
+[2021.10.30-02.08.05:005][ 22]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.08.05:005][ 22]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.08.05:005][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.10.30-02.08.05:005][ 22]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.08.17:488][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.08.28:369][786]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.08.28:406][787]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.08.28:406][787]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.08.29:556][830]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.08.30:826][880]MaterialEditorStats: Base pass shader: 108 instructions
+[2021.10.30-02.08.30:826][880]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 135 instructions
+[2021.10.30-02.08.30:826][880]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.08.30:826][880]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.08.30:826][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.10.30-02.08.30:826][880]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.08.30:902][885]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.08.30:927][885]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.08.30:927][885]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.08.31:631][907]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.08.32:299][924]LogMaterialEditor: Saving and Compiling material yinfu1_xxx
+[2021.10.30-02.08.33:000][924]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.08.33:088][924]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.08.33:088][924]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.08.33:106][924]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.08.33:150][924]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.08.33:262][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.10.30-02.08.33:279][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.30-02.08.34:664][924]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.10.30-02.08.34:664][924]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.30-02.08.34:667][924]TextureStreamingBuild: Display: Compiling optional shaders took 1.404 seconds.
+[2021.10.30-02.08.34:735][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.30-02.08.34:755][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-02.08.38:762][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/yinfu1_xxx" FILE="../../../../了无忧/Content/ui/yinfu1_xxx.uasset" SILENT=true
+[2021.10.30-02.08.38:810][924]LogSavePackage: Moving '../../../../了无忧/Saved/yinfu1_xxxC548B1994D5D5C49185E468541870295.tmp' to '../../../../了无忧/Content/ui/yinfu1_xxx.uasset'
+[2021.10.30-02.08.38:842][924]MaterialEditorStats: Base pass shader: 113 instructions
+[2021.10.30-02.08.38:842][924]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 140 instructions
+[2021.10.30-02.08.38:842][924]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.08.38:842][924]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.08.38:842][924]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.10.30-02.08.38:842][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.08.40:526][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-02.08.45:566][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.08.55:734][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.08.57:397][278]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.08.57:435][279]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.08.57:435][279]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.08.57:871][300]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.08.58:188][308]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.08.58:537][318]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.08.59:069][332]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.08.59:938][357]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.08.59:984][357]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.08.59:992][357]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.10.30-02.09.00:025][357]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.00:331][367]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.01:005][385]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.09.02:159][432]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.09.02:159][432]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.09.02:159][432]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.09.02:160][432]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.09.02:160][432]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.09.02:160][432]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.09.03:844][553]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.03:876][553]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.10.30-02.09.03:893][553]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.03:893][553]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.04:124][561]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.04:727][578]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.09.05:835][624]MaterialEditorStats: Base pass shader: 73 instructions
+[2021.10.30-02.09.05:835][624]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2021.10.30-02.09.05:835][624]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.09.05:835][624]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.09.05:835][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.09.05:835][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.09.08:003][778]LogMaterialEditor: Applying material yinfu1_xxx
+[2021.10.30-02.09.08:555][778]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.08:641][778]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.08:641][778]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.08:654][778]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.08:698][778]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.08:814][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.10.30-02.09.08:833][778]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.30-02.09.10:157][778]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.10.30-02.09.10:157][778]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.30-02.09.10:159][778]TextureStreamingBuild: Display: Compiling optional shaders took 1.344 seconds.
+[2021.10.30-02.09.10:242][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.10.30-02.09.11:423][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.09.14:528][ 40]MaterialEditorStats: Base pass shader: 73 instructions
+[2021.10.30-02.09.14:528][ 40]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2021.10.30-02.09.14:528][ 40]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.09.14:528][ 40]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.09.14:528][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.09.14:528][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.09.18:200][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.09.19:503][406]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.19:542][407]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.19:542][407]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.20:230][428]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.09.21:513][480]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.09.21:513][480]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.09.21:513][480]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.09.21:513][480]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.09.21:513][480]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.09.21:513][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.09.25:342][760]LogMaterialEditor: Applying material yinfu1_xxx
+[2021.10.30-02.09.25:916][760]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.26:000][760]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.26:000][760]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.26:013][760]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.26:053][760]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.26:168][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.10.30-02.09.26:185][760]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.30-02.09.27:535][760]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.10.30-02.09.27:535][760]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.30-02.09.27:538][760]TextureStreamingBuild: Display: Compiling optional shaders took 1.371 seconds.
+[2021.10.30-02.09.27:610][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.10.30-02.09.29:816][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.09.29:918][899]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.29:956][900]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.30:207][909]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.30:820][927]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.09.32:950][ 30]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.09.32:950][ 30]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.09.32:950][ 30]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.09.32:950][ 30]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.09.32:950][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.09.32:950][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.09.41:443][650]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.41:504][651]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.41:504][651]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.42:210][676]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.09.43:416][731]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.09.43:416][731]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.09.43:416][731]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.09.43:416][731]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.09.43:416][731]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.09.43:416][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.09.47:021][ 20]LogEditorTransaction: Undo Material Editor: Delete
+[2021.10.30-02.09.47:054][ 20]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.47:081][ 20]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.47:153][ 21]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.47:153][ 21]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.47:729][ 36]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.09.49:041][ 86]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.09.49:041][ 86]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.09.49:041][ 86]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.09.49:041][ 86]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.09.49:041][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.09.49:041][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.09.49:169][ 95]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.49:193][ 95]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.49:193][ 95]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.49:197][ 95]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.10.30-02.09.49:459][103]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.49:992][117]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.09.51:139][160]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.09.51:139][160]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.09.51:139][160]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.09.51:139][160]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.09.51:139][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.09.51:139][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.09.51:178][163]LogMaterialEditor: Applying material yinfu1_xxx
+[2021.10.30-02.09.51:730][163]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.51:816][163]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.09.51:816][163]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.09.51:827][163]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.51:869][163]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.09.51:979][163]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.10.30-02.09.51:995][163]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.30-02.09.53:346][163]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.10.30-02.09.53:346][163]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.30-02.09.53:349][163]TextureStreamingBuild: Display: Compiling optional shaders took 1.370 seconds.
+[2021.10.30-02.09.53:427][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.10.30-02.09.55:103][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.09.55:183][260]LogMaterialEditor: Saving and Compiling material yinfu1_xxx
+[2021.10.30-02.09.57:480][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/yinfu1_xxx" FILE="../../../../了无忧/Content/ui/yinfu1_xxx.uasset" SILENT=true
+[2021.10.30-02.09.57:504][260]LogSavePackage: Moving '../../../../了无忧/Saved/yinfu1_xxxCDFAB6724B58C8F1B230469222D974E2.tmp' to '../../../../了无忧/Content/ui/yinfu1_xxx.uasset'
+[2021.10.30-02.09.57:523][260]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.09.57:523][260]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.09.57:523][260]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.09.57:523][260]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.09.57:523][260]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.09.57:523][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.09.58:486][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.10.12:717][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.10.15:384][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-02.10.38:116][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.11.04:633][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.11.40:640][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.10.30-02.11.40:670][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.30-02.11.41:696][451]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto1E5295DF84C3C5EA383C0A6A62AB293AF.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto1.umap'
+[2021.10.30-02.11.41:699][451]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 1.133
+[2021.10.30-02.11.41:699][451]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.133
+[2021.10.30-02.11.41:701][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_UI] ([1] browsable assets)...
+[2021.10.30-02.11.41:724][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI]
+[2021.10.30-02.11.41:724][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_UI]
+[2021.10.30-02.11.41:724][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.30-02.11.41:784][451]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI_Auto1C6A8D42E47C6D0AE128C37915CEB7C24.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto1.uasset'
+[2021.10.30-02.11.41:786][451]LogFileHelpers: Auto-saving content packages took 0.086
+[2021.10.30-02.12.23:521][576]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.10.30-02.12.23:644][576]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2021.10.30-02.12.34:038][354]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.12.34:066][354]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.12.34:066][354]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.12.34:066][354]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.12.34:092][354]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.12.34:665][377]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.12.35:167][388]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.12.35:717][402]LogMaterialEditor: Saving and Compiling material yinfu1_xxx
+[2021.10.30-02.12.36:591][402]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.12.36:615][402]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.12.36:719][402]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.12.36:719][402]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.12.36:784][402]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.12.36:830][402]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.12.36:959][402]LogUObjectHash: Compacting FUObjectHashTables data took   9.55ms
+[2021.10.30-02.12.36:979][402]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.30-02.12.38:113][402]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.30-02.12.38:118][402]TextureStreamingBuild: Display: Compiling optional shaders took 1.159 seconds.
+[2021.10.30-02.12.38:193][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.10.30-02.12.38:215][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-02.12.42:136][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/yinfu1_xxx" FILE="../../../../了无忧/Content/ui/yinfu1_xxx.uasset" SILENT=true
+[2021.10.30-02.12.42:159][402]LogSavePackage: Moving '../../../../了无忧/Saved/yinfu1_xxxEC7B3D304F22AE188363E18912A1F0F6.tmp' to '../../../../了无忧/Content/ui/yinfu1_xxx.uasset'
+[2021.10.30-02.12.42:180][402]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.12.42:180][402]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.12.42:180][402]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.12.42:180][402]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.12.42:180][402]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.12.42:180][402]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.12.42:835][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.13.26:035][758]LogEditorTransaction: Undo Modify Component(s)
+[2021.10.30-02.13.26:057][758]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.13.26:086][758]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.13.26:086][758]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.13.26:576][779]LogEditorTransaction: Undo Modify Component(s)
+[2021.10.30-02.13.26:601][779]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-02.13.26:698][780]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-02.13.27:178][797]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-02.13.27:834][822]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-02.13.29:060][885]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-02.13.29:060][885]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-02.13.29:060][885]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-02.13.29:060][885]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-02.13.29:060][885]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-02.13.29:060][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-02.13.30:412][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.13.37:520][530]BlueprintLog: New page: Compile BP_UI
+[2021.10.30-02.13.37:879][530]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.10.30-02.13.39:956][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_UI.uasset" SILENT=true
+[2021.10.30-02.13.40:013][679]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI2F0C5A7B4430CF06C408C6AE55C645A0.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_UI.uasset'
+[2021.10.30-02.13.41:788][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.13.45:214][ 55]BlueprintLog: New page: Compile BP_UI
+[2021.10.30-02.13.45:545][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.10.30-02.14.14:420][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.14.14:736][427]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/playUI.playUI
+[2021.10.30-02.14.15:284][427]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2021.10.30-02.16.44:059][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-02.16.44:251][576]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn1.MotionControllerPawn1
+[2021.10.30-02.16.50:339][865]LogUObjectArray: Warning: Other object in slot
+[2021.10.30-02.16.50:357][865]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.10.30-02.16.52:488][865]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.131 s
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: 
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: Stack: 
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc105ac0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc0fe26fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc0fe34e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc023437f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc016d5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc01691e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc19e05984 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc19ff15e3 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc19e4d70b UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc19e2af5a UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc19e20287 UE4Editor-Slate.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc3556b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc3555ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc3556d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc3555c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc6452e7e8 USER32.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc6452e229 USER32.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc3556e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ff634be5d3e UE4Editor.exe!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ff634bf554c UE4Editor.exe!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ff634bf55ca UE4Editor.exe!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ff634c0316c UE4Editor.exe!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ff634c05b8e UE4Editor.exe!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc65df7034 KERNEL32.DLL!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: [Callstack] 0x00007ffc66522651 ntdll.dll!UnknownFunction []
+[2021.10.30-02.16.52:489][865]LogOutputDevice: Error: 
+[2021.10.30-02.16.52:523][865]LogStats:                SubmitErrorReport -  0.000 s

@@ -1,0 +1,1054 @@
+﻿Log file open, 10/30/21 08:40:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: 了无忧
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.141176
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE4Project/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.30-00.40.02:841][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-00.40.02:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.30-00.40.02:842][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-00.40.02:842][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-00.40.02:958][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.30-00.40.02:958][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.30-00.40.02:959][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.30-00.40.02:965][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.30-00.40.02:965][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.30-00.40.03:053][  0]LogHAL: Display: Platform has ~ 16 GB [16860520448 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.30-00.40.03:062][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2021.10.30-00.40.03:062][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.30-00.40.03:064][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.03:064][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.30-00.40.03:064][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.30-00.40.03:064][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.03:064][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.30-00.40.03:064][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.03:064][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.30-00.40.03:064][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.30-00.40.03:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.30-00.40.03:065][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4Project/了无忧/Saved/Config/Windows/Scalability.ini]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.30-00.40.03:066][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.30-00.40.03:083][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.30-00.40.03:083][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.30-00.40.03:083][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4Project/了无忧/Saved/Config/Windows/Engine.ini]
+[2021.10.30-00.40.03:084][  0]LogInit: Computer: DESKTOP-K6K5E71
+[2021.10.30-00.40.03:084][  0]LogInit: User: HP
+[2021.10.30-00.40.03:084][  0]LogInit: CPU Page size=4096, Cores=10
+[2021.10.30-00.40.03:084][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.30-00.40.03:096][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.10.30-00.40.03:096][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.30-00.40.03:096][  0]LogMemory: Process Physical Memory: 105.69 MB used, 105.70 MB peak
+[2021.10.30-00.40.03:096][  0]LogMemory: Process Virtual Memory: 97.29 MB used, 97.29 MB peak
+[2021.10.30-00.40.03:096][  0]LogMemory: Physical Memory: 6188.44 MB used,  9891.01 MB free, 16079.45 MB total
+[2021.10.30-00.40.03:096][  0]LogMemory: Virtual Memory: 4702.77 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2021.10.30-00.40.03:867][  0]LogInit: Overriding language with editor language configuration option (en-001).
+[2021.10.30-00.40.03:867][  0]LogInit: Overriding locale with editor locale configuration option (en-001).
+[2021.10.30-00.40.03:869][  0]LogTextLocalizationManager: No specific localization for 'en-001' exists, so the 'en' localization will be used.
+[2021.10.30-00.40.04:359][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.30-00.40.04:819][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.30-00.40.04:819][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.30-00.40.06:209][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.30-00.40.06:407][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2021.10.30-00.40.06:407][  0]LogD3D11RHI:       8010/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.10.30-00.40.06:416][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.30-00.40.06:416][  0]LogD3D11RHI:       0/0/8039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.30-00.40.06:416][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.30-00.40.06:427][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.30-00.40.06:427][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.30-00.40.06:427][  0]LogWindows: EnumDisplayDevices:
+[2021.10.30-00.40.06:428][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2021.10.30-00.40.06:430][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2021.10.30-00.40.06:431][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.30-00.40.06:433][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.10.30-00.40.06:434][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.30-00.40.06:434][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2021.10.30-00.40.06:434][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.10.30-00.40.06:434][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.10.30-00.40.06:434][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.10.30-00.40.06:605][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.30-00.40.06:917][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.30-00.40.06:918][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.30-00.40.06:918][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.10.30-00.40.06:950][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.30-00.40.08:191][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.10.30-00.40.08:218][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.10.30-00.40.08:240][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.10.30-00.40.08:263][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.10.30-00.40.08:305][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.10.30-00.40.08:384][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.10.30-00.40.08:419][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.30-00.40.08:437][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.10.30-00.40.08:446][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.10.30-00.40.08:563][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.10.30-00.40.08:628][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.10.30-00.40.08:719][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.10.30-00.40.08:719][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.10.30-00.40.08:781][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.10.30-00.40.08:781][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.10.30-00.40.08:813][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.10.30-00.40.08:840][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.30-00.40.08:953][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.10.30-00.40.09:004][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.10.30-00.40.09:099][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.10.30-00.40.09:099][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.10.30-00.40.09:099][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.30-00.40.09:248][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.30-00.40.09:663][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (../../../../了无忧/Intermediate/Shaders/WorkingDirectory/1820/).
+[2021.10.30-00.40.09:664][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP/AppData/Local/Temp/UnrealShaderWorkingDir/231ED077451C31AE365D1A9FD96C7F82/'.
+[2021.10.30-00.40.09:713][  0]LogXGEController: Cleaning working directory: C:/Users/HP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.10.30-00.40.09:714][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.30-00.40.09:714][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.30-00.40.09:714][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.30-00.40.11:403][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.30-00.40.11:493][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.30-00.40.11:493][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2021.10.30-00.40.11:493][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../了无忧/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.30-00.40.11:493][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.30-00.40.11:493][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../了无忧/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.30-00.40.11:493][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.30-00.40.11:530][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.30-00.40.11:531][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.30-00.40.11:531][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.30-00.40.11:586][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.30-00.40.11:586][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.30-00.40.11:586][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.30-00.40.11:671][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.10.30-00.40.11:719][  0]LogSlate: Using FreeType 2.6.0
+[2021.10.30-00.40.11:747][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.30-00.40.12:249][  0]LogAssetRegistry: FAssetRegistry took 0.0408 seconds to start up
+[2021.10.30-00.40.17:267][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.30-00.40.18:262][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.30-00.40.18:262][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.30-00.40.18:262][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.30-00.40.18:262][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.30-00.40.18:262][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.30-00.40.18:692][  0]LogNetVersion: 了无忧 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3095921557)
+[2021.10.30-00.40.21:933][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.151553 seconds
+[2021.10.30-00.40.21:949][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2021.10.30-00.40.21:949][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2021.10.30-00.40.21:949][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.30-00.40.28:958][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.30-00.40.28:991][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.30-00.40.29:816][  0]SourceControl: Source control is disabled
+[2021.10.30-00.40.29:830][  0]SourceControl: Source control is disabled
+[2021.10.30-00.40.29:899][  0]SourceControl: Source control is disabled
+[2021.10.30-00.40.29:911][  0]SourceControl: Source control is disabled
+[2021.10.30-00.40.30:814][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.30-00.40.31:285][  0]LogOcInput: OculusInput pre-init called
+[2021.10.30-00.40.34:046][  0]LogEngine: Initializing Engine...
+[2021.10.30-00.40.34:250][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-E2BAAB8B
+[2021.10.30-00.40.34:296][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.013 s
+[2021.10.30-00.40.35:028][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.30-00.40.35:713][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.30-00.40.36:020][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-00.40.36:168][  0]LogInit: FAudioDevice initialized.
+[2021.10.30-00.40.36:169][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.30-00.40.36:216][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/HP/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2021.10.30-00.40.36:224][  0]LogInit: Texture streaming: Enabled
+[2021.10.30-00.40.36:498][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.30-00.40.36:759][  0]LogInit: Transaction tracking system initialized
+[2021.10.30-00.40.37:153][  0]BlueprintLog: New page: Editor Load
+[2021.10.30-00.40.38:308][  0]LocalizationService: Localization service is disabled
+[2021.10.30-00.40.42:217][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.10.30-00.40.42:241][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.30-00.40.42:767][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/' took 0.63s
+[2021.10.30-00.40.44:488][  0]SourceControl: Source control is disabled
+[2021.10.30-00.40.44:516][  0]Cmd: MAP LOAD FILE="../../../../了无忧/Content/VirtualRealityBP/Maps/wuyoufang.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.30-00.40.44:553][  0]LightingResults: New page: Lighting Build
+[2021.10.30-00.40.44:750][  0]MapCheck: New page: Map Check
+[2021.10.30-00.40.44:751][  0]LightingResults: New page: Lighting Build
+[2021.10.30-00.40.45:362][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.10.30-00.41.01:255][  0]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-00.41.02:260][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.30-00.41.02:565][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.10.30-00.41.02:567][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.30-00.41.02:589][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.593ms to complete.
+[2021.10.30-00.41.02:594][  0]LogFileHelpers: Loading map 'wuyoufang' took 18.085
+[2021.10.30-00.41.04:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.41.04:774][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.41.04:783][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.41.04:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.41.04:961][  0]LogCollectionManager: Loaded 0 collections in 0.001478 seconds
+[2021.10.30-00.41.05:112][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Saved/Collections/' took 0.01s
+[2021.10.30-00.41.05:112][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Developers/HP/Collections/' took 0.01s
+[2021.10.30-00.41.05:112][  0]LogFileCache: Scanning file cache for directory 'D:/UE4Project/了无忧/Content/Collections/' took 0.01s
+[2021.10.30-00.41.05:112][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.10.30-00.41.05:164][  0]LogContentBrowser: Native class hierarchy populated in 0.0512 seconds. Added 2732 classes and 659 folders.
+[2021.10.30-00.41.05:332][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.30-00.41.05:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:532][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:540][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:542][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.10.30-00.41.05:899][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.30-00.41.05:991][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.10.30-00.41.07:123][  0]LogSlate: Took 0.018991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.30-00.41.07:167][  0]LogSlate: Took 0.031273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.10.30-00.41.07:187][  0]LogSlate: Took 0.009684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.30-00.41.07:255][  0]LogSlate: Took 0.011908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.30-00.41.07:812][  0]LogRenderer: Reallocating scene render targets to support 948x572 Format 26 NumSamples 1 (Frame:1).
+[2021.10.30-00.41.08:414][  0]LogSlate: Took 0.012911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.30-00.41.08:810][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.30-00.41.08:810][  0]LogLoad: (Engine Initialization) Total time: 79.86 seconds
+[2021.10.30-00.41.08:810][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.30-00.41.09:596][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.30-00.41.10:328][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/UE4Project/了无忧/Content/' took 1.13s
+[2021.10.30-00.41.11:183][  4]LogAssetRegistry: Asset discovery search completed in 58.9567 seconds
+[2021.10.30-00.41.11:208][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2021.10.30-00.41.11:208][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000466 seconds (updated 0 objects)
+[2021.10.30-00.45.25:055][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.45.25:224][522]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.30-00.45.25:319][522]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI
+[2021.10.30-00.45.26:396][522]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2021.10.30-00.45.28:508][522]LogSlate: Took 0.011545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.30-00.45.28:873][523]LogSlate: Took 0.009559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.30-00.45.31:312][669]LogRenderer: Reallocating scene render targets to support 1056x796 Format 26 NumSamples 1 (Frame:1).
+[2021.10.30-00.46.01:105][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.47.17:680][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-00.50.54:578][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.51.09:192][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-00.51.22:285][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.51.26:837][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.51.31:342][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.51.43:961][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-00.51.50:160][852]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2021.10.30-00.52.28:306][450]LogUObjectHash: Compacting FUObjectHashTables data took   9.28ms
+[2021.10.30-00.52.28:415][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.30-00.52.30:301][450]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto18377C04044D37A3993D776B30D7CCAE5.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto1.umap'
+[2021.10.30-00.52.30:371][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 2.261
+[2021.10.30-00.52.30:372][450]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.261
+[2021.10.30-00.52.30:374][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_UI] ([1] browsable assets)...
+[2021.10.30-00.52.30:451][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI]
+[2021.10.30-00.52.30:451][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_UI]
+[2021.10.30-00.52.30:451][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.10.30-00.52.30:528][450]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI_Auto182F1857E4E18124244BAC3B8F6E27A9B.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto1.uasset'
+[2021.10.30-00.52.30:530][450]LogFileHelpers: Auto-saving content packages took 0.157
+[2021.10.30-00.56.01:129][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.56.34:320][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.56.53:787][745]BlueprintLog: New page: Compile BP_UI
+[2021.10.30-00.56.54:266][745]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2021.10.30-00.56.55:428][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_UI.uasset" SILENT=true
+[2021.10.30-00.56.55:486][812]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI151E1F9446E6E47C9175C5B35BA228BD.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_UI.uasset'
+[2021.10.30-00.57.21:106][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.57.26:511][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-00.57.26:629][412]LogTemp: Repeating last play command: VR Preview
+[2021.10.30-00.57.26:679][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.57.26:712][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.30-00.57.26:827][412]PIE: New page: PIE session: wuyoufang (Oct 30, 2021, 4:57:26 PM)
+[2021.10.30-00.57.26:966][412]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.30-00.57.27:038][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072644s)
+[2021.10.30-00.57.27:052][412]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-00.57.27:061][412]LogPlayLevel: PIE: World Init took: (0.022556s)
+[2021.10.30-00.57.27:061][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.095659s)
+[2021.10.30-00.57.27:130][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.10.30-00.57.27:211][412]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-00.57.27:232][412]LogInit: FAudioDevice initialized.
+[2021.10.30-00.57.27:285][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.57.27:423][412]LogLoad: Game class is 'GameModeBase'
+[2021.10.30-00.57.27:570][412]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.30-08.57.27
+[2021.10.30-00.57.27:585][412]LogWorld: Bringing up level for play took: 0.018947
+[2021.10.30-00.57.27:792][412]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2021.10.30-00.57.27:810][412]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2021.10.30-00.57.27:811][412]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.10.30-00.57.27:876][412]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 0.818
+[2021.10.30-00.57.27:888][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.57.28:378][413]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2021.10.30-00.57.50:611][142]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_212[TickActor].
+[2021.10.30-00.57.50:611][142]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_212.MotionController[TickComponent].
+[2021.10.30-00.57.50:612][142]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_212.HandMesh[TickComponent].
+[2021.10.30-00.57.50:612][142]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_212.SteamVRChaperone[TickComponent].
+[2021.10.30-00.57.50:612][142]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_213[TickActor].
+[2021.10.30-00.57.50:612][142]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_213.MotionController[TickComponent].
+[2021.10.30-00.57.50:612][142]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_213.HandMesh[TickComponent].
+[2021.10.30-00.57.50:612][142]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_213.SteamVRChaperone[TickComponent].
+[2021.10.30-00.57.53:709][143]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_424[TickActor].
+[2021.10.30-00.57.53:709][143]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_424.MotionController[TickComponent].
+[2021.10.30-00.57.53:709][143]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_424.HandMesh[TickComponent].
+[2021.10.30-00.57.53:709][143]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_424.SteamVRChaperone[TickComponent].
+[2021.10.30-00.57.53:709][143]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_425[TickActor].
+[2021.10.30-00.57.53:709][143]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_425.MotionController[TickComponent].
+[2021.10.30-00.57.53:709][143]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_425.HandMesh[TickComponent].
+[2021.10.30-00.57.53:709][143]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_425.SteamVRChaperone[TickComponent].
+[2021.10.30-00.58.03:351][144]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_627
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:0810
+[2021.10.30-00.58.03:383][144]PIE: Error: Infinite loop detected. Blueprint:  BP_MotionController Function:  OnComponentBeginOverlap (GrabSphere) Call Stack:  Show
+[2021.10.30-00.58.03:650][144]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_636[TickActor].
+[2021.10.30-00.58.03:650][144]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_636.MotionController[TickComponent].
+[2021.10.30-00.58.03:650][144]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_636.HandMesh[TickComponent].
+[2021.10.30-00.58.03:650][144]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_636.SteamVRChaperone[TickComponent].
+[2021.10.30-00.58.03:650][144]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_637[TickActor].
+[2021.10.30-00.58.03:650][144]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_637.MotionController[TickComponent].
+[2021.10.30-00.58.03:650][144]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_637.HandMesh[TickComponent].
+[2021.10.30-00.58.03:650][144]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_637.SteamVRChaperone[TickComponent].
+[2021.10.30-00.58.03:689][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.58.04:124][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.58.04:220][144]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.30-00.58.04:447][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.30-00.58.04:448][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.58.04:820][144]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2021.10.30-00.58.04:979][145]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.30-00.58.10:639][801]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2021.10.30-00.58.34:489][297]LogTemp: Repeating last play command: VR Preview
+[2021.10.30-00.58.34:511][297]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.58.34:511][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.30-00.58.34:512][297]PIE: New page: PIE session: wuyoufang (Oct 30, 2021, 4:58:34 PM)
+[2021.10.30-00.58.34:512][297]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.30-00.58.34:563][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051561s)
+[2021.10.30-00.58.34:564][297]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-00.58.34:622][297]LogPlayLevel: PIE: World Init took: (0.058583s)
+[2021.10.30-00.58.34:623][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.110452s)
+[2021.10.30-00.58.34:742][297]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2021.10.30-00.58.34:795][297]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-00.58.34:816][297]LogInit: FAudioDevice initialized.
+[2021.10.30-00.58.34:828][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.58.34:857][297]LogLoad: Game class is 'GameModeBase'
+[2021.10.30-00.58.34:862][297]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.30-08.58.34
+[2021.10.30-00.58.34:863][297]LogWorld: Bringing up level for play took: 0.004949
+[2021.10.30-00.58.34:892][297]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.167
+[2021.10.30-00.58.34:893][297]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.58.46:140][128]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214[TickActor].
+[2021.10.30-00.58.46:140][128]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214.MotionController[TickComponent].
+[2021.10.30-00.58.46:140][128]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214.HandMesh[TickComponent].
+[2021.10.30-00.58.46:140][128]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214.SteamVRChaperone[TickComponent].
+[2021.10.30-00.58.46:140][128]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215[TickActor].
+[2021.10.30-00.58.46:140][128]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215.MotionController[TickComponent].
+[2021.10.30-00.58.46:140][128]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215.HandMesh[TickComponent].
+[2021.10.30-00.58.46:140][128]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215.SteamVRChaperone[TickComponent].
+[2021.10.30-00.58.49:205][129]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426[TickActor].
+[2021.10.30-00.58.49:205][129]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.MotionController[TickComponent].
+[2021.10.30-00.58.49:205][129]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.HandMesh[TickComponent].
+[2021.10.30-00.58.49:205][129]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.SteamVRChaperone[TickComponent].
+[2021.10.30-00.58.49:205][129]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427[TickActor].
+[2021.10.30-00.58.49:205][129]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.MotionController[TickComponent].
+[2021.10.30-00.58.49:205][129]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.HandMesh[TickComponent].
+[2021.10.30-00.58.49:205][129]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.SteamVRChaperone[TickComponent].
+[2021.10.30-00.58.59:009][130]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_627
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature:0080
+[2021.10.30-00.58.59:010][130]PIE: Error: Infinite loop detected. Blueprint:  BP_MotionController Function:  OnComponentBeginOverlap (GrabSphere) Call Stack:  Show
+[2021.10.30-00.58.59:347][130]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_638[TickActor].
+[2021.10.30-00.58.59:347][130]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_638.MotionController[TickComponent].
+[2021.10.30-00.58.59:347][130]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_638.HandMesh[TickComponent].
+[2021.10.30-00.58.59:347][130]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_638.SteamVRChaperone[TickComponent].
+[2021.10.30-00.58.59:347][130]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_639[TickActor].
+[2021.10.30-00.58.59:347][130]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_639.MotionController[TickComponent].
+[2021.10.30-00.58.59:347][130]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_639.HandMesh[TickComponent].
+[2021.10.30-00.58.59:347][130]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_639.SteamVRChaperone[TickComponent].
+[2021.10.30-00.58.59:358][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.59.00:174][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.59.00:278][130]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.30-00.59.00:757][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.30-00.59.00:758][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.59.00:936][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.10.30-00.59.00:998][131]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.10.30-00.59.02:189][193]LogSlate: Window 'Message Log' being destroyed
+[2021.10.30-00.59.02:214][193]LogSlate: Window 'Message Log' being destroyed
+[2021.10.30-00.59.04:154][310]LogTemp: Repeating last play command: VR Preview
+[2021.10.30-00.59.04:176][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.59.04:176][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.30-00.59.04:176][310]PIE: New page: PIE session: wuyoufang (Oct 30, 2021, 4:59:04 PM)
+[2021.10.30-00.59.04:176][310]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.30-00.59.04:228][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051504s)
+[2021.10.30-00.59.04:229][310]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-00.59.04:229][310]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2021.10.30-00.59.04:229][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.052375s)
+[2021.10.30-00.59.04:286][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.10.30-00.59.04:342][310]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-00.59.04:362][310]LogInit: FAudioDevice initialized.
+[2021.10.30-00.59.04:373][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.59.04:406][310]LogLoad: Game class is 'GameModeBase'
+[2021.10.30-00.59.04:411][310]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.30-08.59.04
+[2021.10.30-00.59.04:411][310]LogWorld: Bringing up level for play took: 0.004560
+[2021.10.30-00.59.04:441][310]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.618
+[2021.10.30-00.59.04:441][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.59.17:763][298]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_212[TickActor].
+[2021.10.30-00.59.17:763][298]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_212.MotionController[TickComponent].
+[2021.10.30-00.59.17:763][298]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_212.HandMesh[TickComponent].
+[2021.10.30-00.59.17:763][298]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_212.SteamVRChaperone[TickComponent].
+[2021.10.30-00.59.17:763][298]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_213[TickActor].
+[2021.10.30-00.59.17:763][298]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_213.MotionController[TickComponent].
+[2021.10.30-00.59.17:763][298]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_213.HandMesh[TickComponent].
+[2021.10.30-00.59.17:763][298]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_213.SteamVRChaperone[TickComponent].
+[2021.10.30-00.59.20:802][299]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_424[TickActor].
+[2021.10.30-00.59.20:802][299]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_424.MotionController[TickComponent].
+[2021.10.30-00.59.20:802][299]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_424.HandMesh[TickComponent].
+[2021.10.30-00.59.20:802][299]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_424.SteamVRChaperone[TickComponent].
+[2021.10.30-00.59.20:802][299]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_425[TickActor].
+[2021.10.30-00.59.20:802][299]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_425.MotionController[TickComponent].
+[2021.10.30-00.59.20:802][299]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_425.HandMesh[TickComponent].
+[2021.10.30-00.59.20:802][299]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_425.SteamVRChaperone[TickComponent].
+[2021.10.30-00.59.30:526][300]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_627
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:0810
+[2021.10.30-00.59.30:526][300]PIE: Error: Infinite loop detected. Blueprint:  BP_MotionController Function:  OnComponentBeginOverlap (GrabSphere) Call Stack:  Show
+[2021.10.30-00.59.30:793][300]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_636[TickActor].
+[2021.10.30-00.59.30:793][300]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_636.MotionController[TickComponent].
+[2021.10.30-00.59.30:793][300]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_636.HandMesh[TickComponent].
+[2021.10.30-00.59.30:793][300]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_636.SteamVRChaperone[TickComponent].
+[2021.10.30-00.59.30:793][300]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_637[TickActor].
+[2021.10.30-00.59.30:793][300]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_637.MotionController[TickComponent].
+[2021.10.30-00.59.30:793][300]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_637.HandMesh[TickComponent].
+[2021.10.30-00.59.30:793][300]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_637.SteamVRChaperone[TickComponent].
+[2021.10.30-00.59.30:804][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.59.35:719][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.59.35:849][300]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.30-00.59.36:689][300]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2021.10.30-00.59.36:804][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.30-00.59.36:805][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.59.37:052][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.10.30-00.59.37:838][301]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.10.30-00.59.41:189][449]LogSlate: Window 'Message Log' being destroyed
+[2021.10.30-00.59.41:197][449]LogSlate: Window 'Message Log' being destroyed
+[2021.10.30-00.59.52:072][103]LogTemp: Repeating last play command: VR Preview
+[2021.10.30-00.59.52:092][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-00.59.52:092][103]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.30-00.59.52:191][103]LogPlayLevel: [PlayLevel] Compiling BP_MotionController before play...
+[2021.10.30-00.59.52:634][103]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2021.10.30-00.59.52:634][103]LogPlayLevel: PlayLevel: Blueprint regeneration took 541 ms (1 blueprints)
+[2021.10.30-00.59.52:634][103]PIE: New page: PIE session: wuyoufang (Oct 30, 2021, 4:59:52 PM)
+[2021.10.30-00.59.52:634][103]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.30-00.59.52:703][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068306s)
+[2021.10.30-00.59.52:704][103]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-00.59.52:704][103]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2021.10.30-00.59.52:704][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.069669s)
+[2021.10.30-00.59.52:766][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.10.30-00.59.52:821][103]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-00.59.52:845][103]LogInit: FAudioDevice initialized.
+[2021.10.30-00.59.52:857][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-00.59.52:891][103]LogLoad: Game class is 'GameModeBase'
+[2021.10.30-00.59.52:896][103]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.30-08.59.52
+[2021.10.30-00.59.52:897][103]LogWorld: Bringing up level for play took: 0.005244
+[2021.10.30-00.59.52:921][103]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.138
+[2021.10.30-00.59.52:921][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.00.09:997][295]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214[TickActor].
+[2021.10.30-01.00.09:997][295]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214.MotionController[TickComponent].
+[2021.10.30-01.00.09:997][295]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214.HandMesh[TickComponent].
+[2021.10.30-01.00.09:997][295]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214.SteamVRChaperone[TickComponent].
+[2021.10.30-01.00.09:997][295]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215[TickActor].
+[2021.10.30-01.00.09:997][295]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215.MotionController[TickComponent].
+[2021.10.30-01.00.09:997][295]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215.HandMesh[TickComponent].
+[2021.10.30-01.00.09:997][295]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215.SteamVRChaperone[TickComponent].
+[2021.10.30-01.00.13:016][296]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426[TickActor].
+[2021.10.30-01.00.13:016][296]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.MotionController[TickComponent].
+[2021.10.30-01.00.13:016][296]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.HandMesh[TickComponent].
+[2021.10.30-01.00.13:016][296]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_426.SteamVRChaperone[TickComponent].
+[2021.10.30-01.00.13:016][296]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427[TickActor].
+[2021.10.30-01.00.13:016][296]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.MotionController[TickComponent].
+[2021.10.30-01.00.13:016][296]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.HandMesh[TickComponent].
+[2021.10.30-01.00.13:016][296]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_427.SteamVRChaperone[TickComponent].
+[2021.10.30-01.00.22:666][297]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_638[TickActor].
+[2021.10.30-01.00.22:666][297]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_638.MotionController[TickComponent].
+[2021.10.30-01.00.22:666][297]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_638.HandMesh[TickComponent].
+[2021.10.30-01.00.22:666][297]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_638.SteamVRChaperone[TickComponent].
+[2021.10.30-01.00.22:666][297]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_639[TickActor].
+[2021.10.30-01.00.22:666][297]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_639.MotionController[TickComponent].
+[2021.10.30-01.00.22:666][297]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_639.HandMesh[TickComponent].
+[2021.10.30-01.00.22:666][297]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_639.SteamVRChaperone[TickComponent].
+[2021.10.30-01.00.37:546][298]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_618
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:GetActorNearHand:0198
+[2021.10.30-01.00.37:546][298]PIE: Error: Infinite loop detected. Blueprint:  BP_MotionController Function:  Outputs Call Stack:  Show
+[2021.10.30-01.00.38:268][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.00.38:912][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.00.39:284][298]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.30-01.00.39:509][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.30-01.00.39:509][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.00.39:693][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.10.30-01.00.39:777][299]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.10.30-01.00.56:241][310]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2021.10.30-01.01.03:034][672]BlueprintLog: New page: Compile BP_MotionController
+[2021.10.30-01.01.03:437][672]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.10.30-01.01.04:246][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2021.10.30-01.01.04:609][698]LogSavePackage: Moving '../../../../了无忧/Saved/BP_MotionController7E1CCBA7440C36B49E5007B0A638A0EB.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.10.30-01.02.51:507][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.03.15:805][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.04.16:841][734]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2021.10.30-01.04.16:870][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.30-01.04.17:987][734]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto214647901487681EA08443D8925C48109.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto2.umap'
+[2021.10.30-01.04.18:007][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 1.251
+[2021.10.30-01.04.18:007][734]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.251
+[2021.10.30-01.04.18:009][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_UI] ([1] browsable assets)...
+[2021.10.30-01.04.18:032][734]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI]
+[2021.10.30-01.04.18:032][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_UI]
+[2021.10.30-01.04.18:032][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.10.30-01.04.18:118][734]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI_Auto2AEFD2174401C1B7A961B52BDC18FC2E4.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto2.uasset'
+[2021.10.30-01.04.18:132][734]LogFileHelpers: Auto-saving content packages took 0.123
+[2021.10.30-01.14.18:614][490]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2021.10.30-01.14.18:628][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.30-01.14.19:636][490]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto3FFA3820C4511C5DF4BFA8BB12DD2AE24.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto3.umap'
+[2021.10.30-01.14.19:656][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 1.128
+[2021.10.30-01.14.19:656][490]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.128
+[2021.10.30-01.14.19:658][490]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_UI] ([1] browsable assets)...
+[2021.10.30-01.14.19:675][490]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI]
+[2021.10.30-01.14.19:675][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_UI]
+[2021.10.30-01.14.19:675][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.10.30-01.14.19:731][490]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI_Auto3137AEAAD4D7832B24D918A862F432322.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto3.uasset'
+[2021.10.30-01.14.19:768][490]LogFileHelpers: Auto-saving content packages took 0.112
+[2021.10.30-01.21.16:178][981]LogAssetEditorManager: Opening Asset editor for Material /Game/ui/yinfu1_xxx.yinfu1_xxx
+[2021.10.30-01.21.16:292][981]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.21.16:670][981]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.21.16:670][981]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.21.18:740][981]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.21.18:805][981]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.21.18:888][981]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.10.30-01.21.19:067][981]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.21.19:393][984]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.21.20:032][999]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.21.21:234][ 42]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.21.21:234][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.21.21:234][ 42]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.21.21:234][ 42]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.21.21:234][ 42]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.21.21:234][ 42]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.22.00:451][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.22.35:674][491]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.22.35:700][491]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2021.10.30-01.22.35:773][492]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.22.35:773][492]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.22.36:462][520]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.22.38:020][578]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.22.38:020][578]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.22.38:020][578]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.22.38:020][578]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.22.38:020][578]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.22.38:020][578]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.22.45:486][112]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.22.45:546][113]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.22.45:546][113]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.22.45:896][124]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.22.47:446][179]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.22.47:446][179]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.22.47:446][179]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.22.47:446][179]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.22.47:446][179]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.22.47:446][179]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.23.00:604][110]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.23.00:663][111]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.23.00:663][111]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.23.01:000][122]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.23.02:873][166]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.23.02:873][166]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.23.02:873][166]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.23.02:873][166]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.23.02:873][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.23.02:873][166]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.23.55:996][447]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.23.56:188][448]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.23.56:188][448]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.23.56:201][448]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.10.30-01.23.56:214][448]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.30-01.23.56:214][448]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2021.10.30-01.23.56:779][469]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.23.58:331][523]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.23.58:331][523]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.23.58:332][523]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.23.58:332][523]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.23.58:332][523]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.23.58:332][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.23.58:985][568]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.23.59:047][569]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.23.59:047][569]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.23.59:371][580]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.24.06:091][ 23]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.24.06:091][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.24.06:091][ 23]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.24.06:091][ 23]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.24.06:091][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.24.06:091][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.24.14:144][596]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.24.14:205][597]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.24.14:205][597]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.24.14:563][609]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.10.30-01.24.16:059][664]MaterialEditorStats: Base pass shader: 72 instructions
+[2021.10.30-01.24.16:059][664]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2021.10.30-01.24.16:059][664]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2021.10.30-01.24.16:059][664]MaterialEditorStats: Texture samplers: 3/16
+[2021.10.30-01.24.16:059][664]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.10.30-01.24.16:059][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.10.30-01.25.04:289][223]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2021.10.30-01.25.04:302][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/wuyoufang" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.30-01.25.05:287][223]LogSavePackage: Moving '../../../../了无忧/Saved/wuyoufang_Auto4B0B468504D85CB6914494CBC822DAF78.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Maps/wuyoufang_Auto4.umap'
+[2021.10.30-01.25.05:399][223]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/wuyoufang' took 1.192
+[2021.10.30-01.25.05:399][223]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.192
+[2021.10.30-01.25.05:403][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_UI] ([1] browsable assets)...
+[2021.10.30-01.25.05:418][223]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_UI.BP_UI]
+[2021.10.30-01.25.05:418][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_UI]
+[2021.10.30-01.25.05:418][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.10.30-01.25.05:479][223]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UI_Auto456E16A684FDA6F877D48BCB0B1308374.tmp' to '../../../../了无忧/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_UI_Auto4.uasset'
+[2021.10.30-01.25.05:541][223]LogFileHelpers: Auto-saving content packages took 0.138
+[2021.10.30-01.25.27:701][286]LogSlate: Window 'Message' being destroyed
+[2021.10.30-01.25.28:664][286]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.25.28:746][286]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.10.30-01.25.28:746][286]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.10.30-01.25.28:802][286]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.25.28:917][286]LogMaterial: Display: Missing cached shader map for material yinfu1_xxx, compiling. 
+[2021.10.30-01.25.29:047][286]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2021.10.30-01.25.29:086][286]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.30-01.25.30:480][286]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.10.30-01.25.30:485][286]TextureStreamingBuild: Display: Compiling optional shaders took 1.438 seconds.
+[2021.10.30-01.25.30:636][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.10.30-01.25.44:155][ 90]BlueprintLog: New page: Compile BP_UI
+[2021.10.30-01.25.44:508][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2021.10.30-01.25.45:212][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_UI" FILE="../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_UI.uasset" SILENT=true
+[2021.10.30-01.25.45:272][127]LogSavePackage: Moving '../../../../了无忧/Saved/BP_UIF3D4ED5D429A969DEDF42BA774B50A93.tmp' to '../../../../了无忧/Content/VirtualRealityBP/Blueprints/BP_UI.uasset'
+[2021.10.30-01.25.47:637][324]LogSlate: Window 'Message Log' being destroyed
+[2021.10.30-01.25.47:643][324]LogSlate: Window 'Message Log' being destroyed
+[2021.10.30-01.26.12:474][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.26.20:039][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.26.24:694][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.26.31:713][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-01.26.46:358][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.26.51:713][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.10.30-01.26.55:295][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.27.08:493][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.27.36:061][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.28.07:931][438]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox_playsound_qiaogu)
+[2021.10.30-01.28.11:919][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.28.20:567][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.28.20:652][768]LogTemp: Repeating last play command: VR Preview
+[2021.10.30-01.28.20:680][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.28.20:680][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.30-01.28.20:680][768]PIE: New page: PIE session: wuyoufang (Oct 30, 2021, 5:28:20 PM)
+[2021.10.30-01.28.20:680][768]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.30-01.28.20:733][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052844s)
+[2021.10.30-01.28.20:734][768]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-01.28.20:734][768]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2021.10.30-01.28.20:734][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.053823s)
+[2021.10.30-01.28.20:806][768]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2021.10.30-01.28.20:862][768]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-01.28.20:885][768]LogInit: FAudioDevice initialized.
+[2021.10.30-01.28.20:896][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.28.20:928][768]LogLoad: Game class is 'GameModeBase'
+[2021.10.30-01.28.20:933][768]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.30-09.28.20
+[2021.10.30-01.28.20:934][768]LogWorld: Bringing up level for play took: 0.005056
+[2021.10.30-01.28.20:959][768]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang -0.124
+[2021.10.30-01.28.20:960][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.29.38:343][417]Cmd: ce Return
+[2021.10.30-01.29.43:420][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.29.43:499][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.29.43:589][816]LogSlate: Window '了无忧 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.10.30-01.29.43:626][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.30-01.29.43:626][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.29.43:711][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.10.30-01.29.43:737][817]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.10.30-01.29.47:242][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.30.59:731][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.31.08:698][ 38]Cmd: DELETE
+[2021.10.30-01.31.08:698][ 38]Cmd: ACTOR DELETE
+[2021.10.30-01.31.08:801][ 38]LogEditorActor: Deleted Actor: CullDistanceVolume
+[2021.10.30-01.31.08:869][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.10.30-01.31.08:870][ 38]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2021.10.30-01.32.18:204][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.33.02:794][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.30-01.33.09:389][  9]LogTemp: Repeating last play command: VR Preview
+[2021.10.30-01.33.09:412][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.33.09:412][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.30-01.33.09:412][  9]PIE: New page: PIE session: wuyoufang (Oct 30, 2021, 5:33:09 PM)
+[2021.10.30-01.33.09:412][  9]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang
+[2021.10.30-01.33.09:465][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053539s)
+[2021.10.30-01.33.09:466][  9]LogAIModule: Creating AISystem for world wuyoufang
+[2021.10.30-01.33.09:466][  9]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2021.10.30-01.33.09:466][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang to /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang (0.054492s)
+[2021.10.30-01.33.09:538][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.10.30-01.33.09:595][  9]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.10.30-01.33.09:617][  9]LogInit: FAudioDevice initialized.
+[2021.10.30-01.33.09:633][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.30-01.33.09:665][  9]LogLoad: Game class is 'GameModeBase'
+[2021.10.30-01.33.09:670][  9]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang up for play (max tick rate 0) at 2021.10.30-09.33.09
+[2021.10.30-01.33.09:671][  9]LogWorld: Bringing up level for play took: 0.005109
+[2021.10.30-01.33.09:695][  9]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang 0.607
+[2021.10.30-01.33.09:695][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang' with GeneratedClass '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/wuyoufang.wuyoufang:PersistentLevel.wuyoufang'
+[2021.10.30-01.33.29:658][678]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214[TickActor].
+[2021.10.30-01.33.29:658][678]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214.MotionController[TickComponent].
+[2021.10.30-01.33.29:658][678]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214.HandMesh[TickComponent].
+[2021.10.30-01.33.29:658][678]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_214.SteamVRChaperone[TickComponent].
+[2021.10.30-01.33.29:658][678]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215[TickActor].
+[2021.10.30-01.33.29:658][678]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is MotionControllerComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215.MotionController[TickComponent].
+[2021.10.30-01.33.29:658][678]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SkeletalMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215.HandMesh[TickComponent].
+[2021.10.30-01.33.29:658][678]LogTick: Error: Could not tick newly spawned in 100 iterations; runaway recursive spawing. Tick is SteamVRChaperoneComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_215.SteamVRChaperone[TickComponent].
+[2021.10.30-01.34.01:496][714]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_251
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature:0080
+[2021.10.30-01.34.01:496][714]PIE: Error: Infinite loop detected. Blueprint:  BP_MotionController Function:  OnComponentBeginOverlap (GrabSphere) Call Stack:  Show
+[2021.10.30-01.34.16:556][714]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_580
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:0810
+[2021.10.30-01.34.16:556][714]PIE: Error: Infinite loop detected. Blueprint:  BP_MotionController Function:  OnComponentBeginOverlap (GrabSphere) Call Stack:  Show
+[2021.10.30-01.34.35:533][714]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_818
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:GetActorNearHand:0104
+[2021.10.30-01.34.35:533][714]PIE: Error: Infinite loop detected. Blueprint:  BP_MotionController Function:  Branch Call Stack:  Show
+[2021.10.30-01.34.56:700][714]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BP_MotionController_C /Game/VirtualRealityBP/Maps/UEDPIE_0_wuyoufang.wuyoufang:PersistentLevel.BP_MotionController_C_1192
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature:0080
+[2021.10.30-01.34.56:700][714]PIE: Error: Infinite loop detected. Blueprint:  BP_MotionController Function:  OnComponentBeginOverlap (GrabSphere) Call Stack:  Show
